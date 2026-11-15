@@ -19,7 +19,7 @@ Built with Next.js 15 (App Router) + React 19 + TypeScript, Tailwind CSS, Leafle
 | Sponsor page, footer acknowledgment, no search boost for the sponsor | ✅ |
 | Global search, favorites (on-device), share buttons | ✅ |
 | PWA manifest + service worker, sitemap, robots, JSON-LD, Open Graph | ✅ |
-| Admin dashboard: listings (edit, drag map pin, upload photo, hide/show, verification), events, trails & neighborhoods (JSON editor), submissions review, audit log | ✅ code complete — **needs a Supabase project to run** |
+| Admin dashboard: listings (edit, drag map pin, upload photo, hide/show, verification), events, trails & neighborhoods (JSON editor), submissions review, audit log | ✅ Supabase project `mbbzmpwvcuuehywuarme` set up and seeded (Nov 15, 2026); needs the owner login created |
 
 Without Supabase the public site runs from the verified seed files in `/data`; the admin shows setup steps.
 
