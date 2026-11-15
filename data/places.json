@@ -1,0 +1,1675 @@
+[
+ {
+  "id": "coolidge-park",
+  "name": "Coolidge Park",
+  "categories": [
+   "parks"
+  ],
+  "neighborhoods": [
+   "northshore"
+  ],
+  "description": "The Northshore's riverfront front lawn, with open green space, a restored carousel, and the north landing of the Walnut Street Bridge. A natural starting point for exploring Frazier Avenue.",
+  "address": "150 River St, Chattanooga, TN 37405",
+  "lat": 35.0618,
+  "lng": -85.3082,
+  "website": "https://www.visitchattanooga.com/things-to-do/free-things-to-do/",
+  "image": {
+   "src": "/images/coolidge-park-aerial.jpg",
+   "alt": "Coolidge Park's open lawn and curving paths from above, with the Chattanooga Theatre Centre and Northshore beyond"
+  },
+  "featured": true,
+  "family": {
+   "ages": [
+    "toddlers",
+    "5-8",
+    "9-12",
+    "teens",
+    "all"
+   ],
+   "setting": "outdoor",
+   "cost": "free",
+   "duration": "1–2 hours",
+   "rainy": false
+  },
+  "verification": {
+   "status": "verified",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://www.timesfreepress.com/news/2014/mar/27/parks-boast-spaces-nature-and-play/",
+    "https://www.visitchattanooga.com/things-to-do/free-things-to-do/"
+   ]
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "coolidge-park-carousel",
+  "name": "Coolidge Park Carousel",
+  "categories": [
+   "attractions",
+   "parks"
+  ],
+  "neighborhoods": [
+   "northshore"
+  ],
+  "description": "A beloved antique-style carousel inside its own pavilion at Coolidge Park — a quick, classic treat for little ones between bridge walks and ice cream stops.",
+  "address": "150 River St, Chattanooga, TN 37405",
+  "lat": 35.0623,
+  "lng": -85.3072,
+  "image": {
+   "src": "/images/coolidge-park-carousel.jpg",
+   "alt": "Blue roof and golden horse weathervane of the Coolidge Park carousel pavilion"
+  },
+  "family": {
+   "ages": [
+    "toddlers",
+    "5-8",
+    "all"
+   ],
+   "setting": "indoor",
+   "cost": "$",
+   "duration": "15–30 minutes",
+   "rainy": true
+  },
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-15",
+   "sources": [],
+   "notes": "Confirm current carousel hours and ride price with Chattanooga Parks & Outdoors before launch."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "renaissance-park",
+  "name": "Renaissance Park",
+  "categories": [
+   "parks"
+  ],
+  "neighborhoods": [
+   "northshore"
+  ],
+  "description": "A quieter riverfront park east of the Market Street Bridge with wetlands, boardwalks, and river views. Interpretive signs share the history of the site.",
+  "address": "100 Manufacturers Rd, Chattanooga, TN 37405",
+  "lat": 35.063,
+  "lng": -85.3015,
+  "website": "https://www.visitchattanooga.com/things-to-do/free-things-to-do/",
+  "family": {
+   "ages": [
+    "5-8",
+    "9-12",
+    "teens",
+    "all"
+   ],
+   "setting": "outdoor",
+   "cost": "free",
+   "duration": "30–60 minutes",
+   "rainy": false
+  },
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://www.visitchattanooga.com/things-to-do/free-things-to-do/"
+   ],
+   "notes": "Street address not confirmed against an official source this session."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "frazier-avenue",
+  "name": "Frazier Avenue Shopping District",
+  "categories": [
+   "shopping",
+   "attractions"
+  ],
+  "neighborhoods": [
+   "northshore"
+  ],
+  "description": "The Northshore's main street, lined with independent shops, galleries, cafés, and restaurants in old storefronts \"between the bridges\" — the Walnut Street and Market Street bridges.",
+  "address": "Frazier Ave, Chattanooga, TN 37405",
+  "lat": 35.0636,
+  "lng": -85.306,
+  "featured": true,
+  "verification": {
+   "status": "verified",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://www.tnvacation.com/vendors/frazier-avenue"
+   ]
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "locals-only-gifts-and-goods",
+  "name": "Locals Only Gifts and Goods",
+  "categories": [
+   "shopping"
+  ],
+  "neighborhoods": [
+   "northshore"
+  ],
+  "description": "A gift shop on Frazier Avenue stocking small-batch goods from Tennessee makers — food, art, stationery, home goods, jewelry, apparel, and curated gift boxes. This guide's sponsor.",
+  "address": "10 Frazier Ave, Chattanooga, TN 37405",
+  "lat": 35.0632,
+  "lng": -85.309,
+  "website": "https://www.localsonlygiftsandgoods.com",
+  "phone": "423-541-4438",
+  "hours": "Mon–Sat 10 a.m.–6 p.m.; Sun noon–6 p.m. (per store website)",
+  "image": {
+   "src": "/brand/locals-only-logo-sm.png",
+   "alt": "Locals Only Gifts and Goods logo"
+  },
+  "sponsor": true,
+  "verification": {
+   "status": "verified",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://www.localsonlygiftsandgoods.com"
+   ]
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "clumpies-northshore",
+  "name": "Clumpies Ice Cream Co.",
+  "categories": [
+   "coffee",
+   "restaurants"
+  ],
+  "neighborhoods": [
+   "northshore"
+  ],
+  "description": "A Chattanooga favorite serving creative, handcrafted ice cream flavors. A great stop while exploring the Northshore.",
+  "address": "26 Frazier Ave, Chattanooga, TN 37405",
+  "lat": 35.0633,
+  "lng": -85.3084,
+  "website": "https://www.clumpies.com",
+  "family": {
+   "ages": [
+    "toddlers",
+    "5-8",
+    "9-12",
+    "teens",
+    "all"
+   ],
+   "setting": "indoor",
+   "cost": "$",
+   "duration": "15–30 minutes",
+   "rainy": true
+  },
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://www.iexitapp.com/Tennessee/I-124/Exit%201C/34229"
+   ],
+   "notes": "Address from a directory listing; confirm website URL and current hours."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "in-town-gallery",
+  "name": "In-Town Gallery",
+  "categories": [
+   "arts",
+   "shopping"
+  ],
+  "neighborhoods": [
+   "northshore"
+  ],
+  "description": "An artist-run cooperative gallery that has showcased local painters, potters, jewelers, and photographers on Frazier Avenue for five decades.",
+  "address": "26A Frazier Ave, Chattanooga, TN 37405",
+  "lat": 35.0633,
+  "lng": -85.3082,
+  "website": "https://www.intowngallery.com",
+  "phone": "423-267-9214",
+  "verification": {
+   "status": "verified",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://chattanoogapulse.com/arts_entertainment/arts-news/in-town-gallery-hosts-50th-anniversary-celebration-on-friday",
+    "https://chattanoogabridge.com/places/198"
+   ]
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "winder-binder",
+  "name": "Winder Binder Books, Art & Music",
+  "categories": [
+   "shopping",
+   "arts"
+  ],
+  "neighborhoods": [
+   "northshore"
+  ],
+  "description": "A Northshore staple since 1994: new and used books, vinyl records, regional folk art, and pottery under one roof. Ask about their curated mystery book boxes.",
+  "address": "40 Frazier Ave, Chattanooga, TN 37405",
+  "lat": 35.0634,
+  "lng": -85.3077,
+  "verification": {
+   "status": "verified",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://noogatoday.6amcity.com/small-business/four-local-bookstores-in-the-chattanooga-area"
+   ],
+   "notes": "Official website not yet confirmed."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "ava-gallery",
+  "name": "AVA Gallery (Association for Visual Arts)",
+  "categories": [
+   "arts"
+  ],
+  "neighborhoods": [
+   "northshore"
+  ],
+  "description": "A nonprofit gallery presenting rotating exhibits by regional and emerging artists, just off the Walnut Street Bridge.",
+  "address": "30 Frazier Ave, Chattanooga, TN 37405",
+  "lat": 35.0633,
+  "lng": -85.308,
+  "phone": "423-265-4282",
+  "verification": {
+   "status": "verified",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://www.chattanoogan.com/2021/8/31/433879/The-Ed-Johnson-Project-Announces.aspx"
+   ],
+   "notes": "Most recent address source is 2021; reconfirm before launch."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "chattanooga-theatre-centre",
+  "name": "Chattanooga Theatre Centre",
+  "categories": [
+   "arts",
+   "nightlife"
+  ],
+  "neighborhoods": [
+   "northshore"
+  ],
+  "description": "Chattanooga's long-running community theatre, staging musicals, plays, and youth productions beside Coolidge Park.",
+  "address": "400 River St, Chattanooga, TN 37405",
+  "lat": 35.062,
+  "lng": -85.3058,
+  "website": "https://www.theatrecentre.com",
+  "phone": "423-267-8534",
+  "family": {
+   "ages": [
+    "5-8",
+    "9-12",
+    "teens",
+    "all"
+   ],
+   "setting": "indoor",
+   "cost": "$$",
+   "duration": "2–3 hours",
+   "rainy": true
+  },
+  "verification": {
+   "status": "verified",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://www.pressreader.com/usa/chattanooga-times-free-press/20181101/282565904143423"
+   ]
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "julie-darling-donuts",
+  "name": "Julie Darling Donuts",
+  "categories": [
+   "coffee"
+  ],
+  "neighborhoods": [
+   "northshore"
+  ],
+  "description": "A Northshore doughnut shop frying and glazing doughnuts through the morning, with rotating seasonal specials.",
+  "address": "121 Frazier Ave, Chattanooga, TN 37405",
+  "lat": 35.0637,
+  "lng": -85.3058,
+  "phone": "423-591-3737",
+  "verification": {
+   "status": "verified",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://chattanoogapulse.com/the-pulse-local-shopping-guide-food"
+   ]
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "brewhaus",
+  "name": "Brewhaus",
+  "categories": [
+   "restaurants",
+   "nightlife"
+  ],
+  "neighborhoods": [
+   "northshore"
+  ],
+  "description": "A Frazier Avenue bar and restaurant known for German-inspired fare and a lively patio scene.",
+  "address": "224 Frazier Ave, Chattanooga, TN 37405",
+  "lat": 35.064,
+  "lng": -85.3035,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://www.iexitapp.com/Tennessee/I-124/Exit%201C/34229"
+   ],
+   "notes": "Directory source only; confirm website and description with the business."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "taco-mamacita",
+  "name": "Taco Mamacita",
+  "categories": [
+   "restaurants"
+  ],
+  "neighborhoods": [
+   "northshore"
+  ],
+  "description": "A colorful Northshore taqueria near the foot of the Market Street Bridge, popular for tacos and margaritas.",
+  "address": "109 N Market St, Chattanooga, TN 37405",
+  "lat": 35.064,
+  "lng": -85.3095,
+  "verification": {
+   "status": "verified",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://www.tnvacation.com/node/166306",
+    "https://www.iexitapp.com/Tennessee/I-124/Exit%201C/34229"
+   ]
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "river-street-deli",
+  "name": "River Street Deli",
+  "categories": [
+   "restaurants"
+  ],
+  "neighborhoods": [
+   "northshore"
+  ],
+  "description": "A casual Northshore deli across from Coolidge Park — handy for a picnic lunch on the lawn.",
+  "address": "151 River St, Chattanooga, TN 37405",
+  "lat": 35.0628,
+  "lng": -85.3077,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://www.tnvacation.com/node/166306"
+   ],
+   "notes": "Source undated; confirm the deli is open."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "walnut-street-bridge",
+  "name": "Walnut Street Bridge",
+  "categories": [
+   "attractions",
+   "parks"
+  ],
+  "neighborhoods": [
+   "downtown",
+   "northshore"
+  ],
+  "description": "A 2,376-foot pedestrian bridge completed in 1891 and reopened for walkers and cyclists in 1993 — one of the longest pedestrian bridges in the world, linking Downtown with the Northshore.",
+  "address": "1 Walnut St, Chattanooga, TN 37403",
+  "lat": 35.06186,
+  "lng": -85.30677,
+  "website": "https://chattanooga.gov/things-to-do/parks/walnut-street-bridge",
+  "image": {
+   "src": "/images/walnut-street-bridge.jpg",
+   "alt": "The blue truss Walnut Street Bridge at sunset with the Tennessee Aquarium and mountains behind"
+  },
+  "featured": true,
+  "family": {
+   "ages": [
+    "toddlers",
+    "5-8",
+    "9-12",
+    "teens",
+    "all"
+   ],
+   "setting": "outdoor",
+   "cost": "free",
+   "duration": "30–60 minutes",
+   "rainy": false
+  },
+  "verification": {
+   "status": "verified",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://chattanooga.gov/things-to-do/parks/walnut-street-bridge",
+    "https://www.achp.gov/sites/default/files/2018-07/WalnutBridge.pdf"
+   ]
+  },
+  "active": true
+ },
+ {
+  "id": "tennessee-aquarium",
+  "name": "Tennessee Aquarium",
+  "categories": [
+   "attractions"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "Two glass-peaked buildings on the riverfront — River Journey and Ocean Journey — tracing water from Appalachian streams to the sea. A rainy-day favorite for every age.",
+  "address": "1 Broad St, Chattanooga, TN 37402",
+  "lat": 35.0557,
+  "lng": -85.3108,
+  "website": "https://tnaqua.org",
+  "image": {
+   "src": "/images/tennessee-aquarium.jpg",
+   "alt": "Aerial view of the Tennessee Aquarium's glass peaks beside the Tennessee River"
+  },
+  "featured": true,
+  "family": {
+   "ages": [
+    "toddlers",
+    "5-8",
+    "9-12",
+    "teens",
+    "all"
+   ],
+   "setting": "indoor",
+   "cost": "$$$",
+   "duration": "2–4 hours",
+   "rainy": true
+  },
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://www.timesfreepress.com/news/2014/mar/27/parks-boast-spaces-nature-and-play/"
+   ],
+   "notes": "Address confirmed (Aquarium Plaza, 1 Broad St). Confirm website and admission before launch."
+  },
+  "active": true
+ },
+ {
+  "id": "creative-discovery-museum",
+  "name": "Creative Discovery Museum",
+  "categories": [
+   "attractions"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "A hands-on children's museum downtown with exhibits for science, art, and play — built for curious kids and the grown-ups chasing them.",
+  "address": "321 Chestnut St, Chattanooga, TN 37402",
+  "lat": 35.0527,
+  "lng": -85.3118,
+  "website": "https://www.cdmfun.org",
+  "featured": true,
+  "family": {
+   "ages": [
+    "toddlers",
+    "5-8",
+    "9-12"
+   ],
+   "setting": "indoor",
+   "cost": "$$",
+   "duration": "2–3 hours",
+   "rainy": true
+  },
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-15",
+   "sources": [],
+   "notes": "Address and website from editorial knowledge; verify before launch."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "hunter-museum",
+  "name": "Hunter Museum of American Art",
+  "categories": [
+   "arts",
+   "attractions"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "American art from the colonial era to today, housed in a 1904 mansion and dramatic modern wings perched on the bluff above the river.",
+  "address": "10 Bluff View Ave, Chattanooga, TN 37403",
+  "lat": 35.05586,
+  "lng": -85.30641,
+  "website": "https://www.huntermuseum.org",
+  "image": {
+   "src": "/images/hunter-museum.jpg",
+   "alt": "The Hunter Museum's columned historic mansion with a bronze sculpture in front"
+  },
+  "featured": true,
+  "family": {
+   "ages": [
+    "9-12",
+    "teens",
+    "all"
+   ],
+   "setting": "indoor",
+   "cost": "$$",
+   "duration": "1–2 hours",
+   "rainy": true
+  },
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-15",
+   "sources": [],
+   "notes": "Address and website from editorial knowledge; verify before launch."
+  },
+  "active": true
+ },
+ {
+  "id": "bluff-view-art-district",
+  "name": "Bluff View Art District",
+  "categories": [
+   "arts",
+   "attractions",
+   "restaurants"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "A compact, European-feeling enclave on the bluff with River Gallery, an outdoor sculpture garden, a coffeehouse, and restaurants — steps from the Hunter Museum and the Walnut Street Bridge.",
+  "address": "Bluff View & E 2nd St, Chattanooga, TN 37403",
+  "lat": 35.0561,
+  "lng": -85.305,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://www.atlantamagazine.com/southbound-articles/one-city-three-ways-chattanooga-tennessee/"
+   ],
+   "notes": "District, not a single business — confirm preferred address and official website."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "river-gallery",
+  "name": "River Gallery",
+  "categories": [
+   "arts",
+   "shopping"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "A fine art and fine craft gallery in the Bluff View Art District, next to its riverside sculpture garden.",
+  "address": "400 E 2nd St, Chattanooga, TN 37403",
+  "lat": 35.0557,
+  "lng": -85.3052,
+  "phone": "423-265-5033",
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://www.pressreader.com/usa/chattanooga-times-free-press-chattanooganow/20190711/281586652166423"
+   ],
+   "notes": "Most recent source is 2019; confirm."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "rosss-landing",
+  "name": "Ross's Landing",
+  "categories": [
+   "parks",
+   "attractions"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "The city's riverfront park and historic landing, with terraced lawns stepping down to the water, festival space, and direct access to the Tennessee Riverwalk.",
+  "address": "100 Riverfront Pkwy, Chattanooga, TN 37402",
+  "lat": 35.0568,
+  "lng": -85.3118,
+  "image": {
+   "src": "/images/rosss-landing.jpg",
+   "alt": "Ross's Landing riverfront lawns and pier busy with people and paddlers"
+  },
+  "family": {
+   "ages": [
+    "toddlers",
+    "5-8",
+    "9-12",
+    "teens",
+    "all"
+   ],
+   "setting": "outdoor",
+   "cost": "free",
+   "duration": "30–90 minutes",
+   "rainy": false
+  },
+  "verification": {
+   "status": "verified",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://noogatoday.6amcity.com/parks-guide-chattanooga-tn"
+   ]
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "high-point-downtown",
+  "name": "High Point Climbing and Fitness – Downtown",
+  "categories": [
+   "attractions"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "An indoor climbing gym in the heart of downtown with bouldering, roped climbing, and a kids' climbing area — a strong rainy-day pick for active families.",
+  "address": "219 Broad St, Chattanooga, TN 37402",
+  "lat": 35.0538,
+  "lng": -85.3108,
+  "website": "https://www.highpointclimbing.com",
+  "family": {
+   "ages": [
+    "5-8",
+    "9-12",
+    "teens"
+   ],
+   "setting": "indoor",
+   "cost": "$$",
+   "duration": "2–3 hours",
+   "rainy": true
+  },
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://xtremebookings.com/?p=7562"
+   ],
+   "notes": "Confirm website, minimum ages, and waiver policy."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "pinball-museum",
+  "name": "Classic Arcade Pinball Museum",
+  "categories": [
+   "attractions",
+   "nightlife"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "An all-you-can-play museum of vintage and modern pinball machines and classic arcade cabinets on Broad Street — one admission, unlimited play.",
+  "address": "409 Broad St, Chattanooga, TN 37402",
+  "lat": 35.0517,
+  "lng": -85.3105,
+  "website": "https://chattanoogapinballmuseum.com",
+  "phone": "423-541-4097",
+  "family": {
+   "ages": [
+    "5-8",
+    "9-12",
+    "teens",
+    "all"
+   ],
+   "setting": "indoor",
+   "cost": "$$",
+   "duration": "1–3 hours",
+   "rainy": true
+  },
+  "verification": {
+   "status": "verified",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://overlookmaps.com/places/classic-arcade-pinball-museum-chattanooga-4845827953791611",
+    "https://aurcade.com/locations/view.aspx?id=6192"
+   ]
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "moonpie-general-store",
+  "name": "MoonPie General Store",
+  "categories": [
+   "shopping",
+   "coffee"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "MoonPies have been made in Chattanooga since 1917. This downtown shop, inside the Southern Belle Riverboat, sells every flavor plus souvenirs and nostalgic candy.",
+  "address": "151 Riverfront Pkwy, Chattanooga, TN 37402",
+  "lat": 35.0577,
+  "lng": -85.3085,
+  "website": "https://www.moonpie.com/find",
+  "verification": {
+   "status": "verified",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://www.moonpie.com/find"
+   ]
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "tivoli-theatre",
+  "name": "Tivoli Theatre",
+  "categories": [
+   "arts",
+   "nightlife"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "A restored 1920s movie palace on Broad Street hosting touring shows, concerts, and performing arts.",
+  "address": "709 Broad St, Chattanooga, TN 37402",
+  "lat": 35.0479,
+  "lng": -85.31,
+  "phone": "423-757-5580",
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://www.pressreader.com/usa/chattanooga-times-free-press/20181101/282565904143423"
+   ],
+   "notes": "Source from 2018; confirm website and box office phone."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "miller-park",
+  "name": "Miller Park",
+  "categories": [
+   "parks"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "A green pocket park on Market Street in the city center, with lawn, benches, and a fountain — a good pause between downtown stops.",
+  "address": "928 Market St, Chattanooga, TN 37402",
+  "lat": 35.0455,
+  "lng": -85.3088,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://www.timesfreepress.com/news/2014/mar/27/parks-boast-spaces-nature-and-play/"
+   ],
+   "notes": "Source from 2014; park was later renovated — confirm amenities."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "blue-goose-hollow",
+  "name": "Blue Goose Hollow",
+  "categories": [
+   "parks",
+   "arts"
+  ],
+  "neighborhoods": [
+   "westside"
+  ],
+  "description": "A small riverside park on the Tennessee Riverwalk with sculptures and markers reflecting on Chattanooga's industrial heritage and urban renewal. Restrooms and parking are reported on site.",
+  "address": "Riverfront Pkwy (Tennessee Riverwalk), Chattanooga, TN 37402",
+  "lat": 35.051,
+  "lng": -85.3196,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://www.mypacer.com/parks/209952/blue-goose-hollow-chattanooga",
+    "https://www.komoot.com/highlight/6296514"
+   ],
+   "notes": "No official street address found — confirm with Chattanooga Parks & Outdoors."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "westside-park",
+  "name": "Shelia M. Jennings Westside Park",
+  "categories": [
+   "parks"
+  ],
+  "neighborhoods": [
+   "westside"
+  ],
+  "description": "The Westside's neighborhood park, with ballfields, tennis courts, a playground, walking paths, and a recreation center at the heart of the community.",
+  "address": "1195 Grove St, Chattanooga, TN 37402",
+  "lat": 35.0445,
+  "lng": -85.3172,
+  "family": {
+   "ages": [
+    "toddlers",
+    "5-8",
+    "9-12",
+    "all"
+   ],
+   "setting": "outdoor",
+   "cost": "free",
+   "duration": "30–60 minutes",
+   "rainy": false
+  },
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://noogatoday.6amcity.com/parks-guide-chattanooga-tn",
+    "https://www.timesfreepress.com/news/2014/mar/27/parks-boast-spaces-nature-and-play/"
+   ],
+   "notes": "Sources give 1195 and 1200 Grove St — confirm."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "riverwalk-westside-access",
+  "name": "Tennessee Riverwalk – Riverfront Parkway Access",
+  "categories": [
+   "parks"
+  ],
+  "neighborhoods": [
+   "westside"
+  ],
+  "description": "A Riverwalk parking and access point along Riverfront Parkway on the Westside's river edge — walk north toward Ross's Landing and downtown.",
+  "address": "935 Riverfront Pkwy, Chattanooga, TN 37402",
+  "lat": 35.0478,
+  "lng": -85.3222,
+  "website": "https://www.traillink.com/trail/tennessee-riverwalk/",
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://www.traillink.com/gdbkpdf/trail/6032627/tennessee-riverwalk63918121993355-2026.pdf"
+   ],
+   "notes": "Parking address from TrailLink; confirm with Hamilton County / City."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "chattanooga-choo-choo",
+  "name": "Chattanooga Choo Choo",
+  "categories": [
+   "attractions",
+   "nightlife",
+   "restaurants"
+  ],
+  "neighborhoods": [
+   "southside"
+  ],
+  "description": "The city's 1909 Terminal Station, now a hotel and entertainment campus with restaurants, music venues, and vintage rail cars — the anchor of the Southside.",
+  "address": "1400 Market St, Chattanooga, TN 37402",
+  "lat": 35.0371,
+  "lng": -85.3069,
+  "image": {
+   "src": "/images/chattanooga-choo-choo.jpg",
+   "alt": "The red and green Chattanooga Choo Choo steam locomotive on display"
+  },
+  "featured": true,
+  "family": {
+   "ages": [
+    "toddlers",
+    "5-8",
+    "9-12",
+    "teens",
+    "all"
+   ],
+   "setting": "outdoor",
+   "cost": "free",
+   "duration": "30–60 minutes",
+   "rainy": true
+  },
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-15",
+   "sources": [],
+   "notes": "Address from editorial knowledge; confirm website before launch."
+  },
+  "active": true
+ },
+ {
+  "id": "station-street",
+  "name": "Station Street",
+  "categories": [
+   "nightlife",
+   "attractions"
+  ],
+  "neighborhoods": [
+   "southside"
+  ],
+  "description": "A short, walkable entertainment street on the Choo Choo campus — built to close for concerts and street festivals, with live music venues and bars side by side.",
+  "address": "Station St, Chattanooga, TN 37408",
+  "lat": 35.0373,
+  "lng": -85.3085,
+  "verification": {
+   "status": "verified",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://www.chattanoogapulse.com/features/station-street-upswing/"
+   ]
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "songbirds",
+  "name": "Songbirds Guitar Museum",
+  "categories": [
+   "arts",
+   "nightlife"
+  ],
+  "neighborhoods": [
+   "southside"
+  ],
+  "description": "A museum of rare and vintage guitars on Station Street, with small stages for live music.",
+  "address": "35 Station St, Chattanooga, TN 37408",
+  "lat": 35.0369,
+  "lng": -85.3087,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://hotelguides.com/attraction-maps/tennessee/map-hotels-near-songbirds-tn.html"
+   ],
+   "notes": "Confirm current museum hours/status and official website."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "chattanooga-whiskey-experimental",
+  "name": "Chattanooga Whiskey Experimental Distillery",
+  "categories": [
+   "nightlife",
+   "attractions"
+  ],
+  "neighborhoods": [
+   "southside"
+  ],
+  "description": "Opened in 2015 as the first legal distillery in Chattanooga in more than a century, this working micro-distillery across from the Choo Choo offers tours and tastings (21+).",
+  "address": "1439 Market St, Chattanooga, TN 37402",
+  "lat": 35.0365,
+  "lng": -85.308,
+  "website": "https://chattanoogawhiskey.com",
+  "verification": {
+   "status": "verified",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://picktnproducts.org/picktn-producers/picktn-listing.19484.html",
+    "https://peated.com/entities/476"
+   ],
+   "notes": "Confirm website URL."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "hot-chocolatier",
+  "name": "The Hot Chocolatier",
+  "categories": [
+   "coffee",
+   "shopping"
+  ],
+  "neighborhoods": [
+   "southside"
+  ],
+  "description": "A couple-run chocolate shop across from the Choo Choo making truffles, sipping chocolate, and pastries by hand.",
+  "address": "1437 Market St, Chattanooga, TN 37402",
+  "lat": 35.0367,
+  "lng": -85.308,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://www.timesfreepress.com/news/edge/story/2018/nov/01/brand-hot-chocolatier/481613/",
+    "https://tablejourney.com/united-states/chattanooga/cuisine/bakery/"
+   ],
+   "notes": "Sources disagree: 1437 vs 1423 Market St. Confirm with the shop."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "niedlovs",
+  "name": "Niedlov's Bakery & Café",
+  "categories": [
+   "coffee",
+   "restaurants"
+  ],
+  "neighborhoods": [
+   "southside"
+  ],
+  "description": "A Main Street bakery known for naturally leavened bread and a busy breakfast-and-lunch café counter.",
+  "address": "215 E Main St, Chattanooga, TN 37408",
+  "lat": 35.039,
+  "lng": -85.3048,
+  "phone": "423-756-0303",
+  "verification": {
+   "status": "verified",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://chattanoogapulse.com/the-pulse-local-shopping-guide-food",
+    "https://tablejourney.com/united-states/chattanooga/cuisine/bakery/"
+   ]
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "main-street-meats",
+  "name": "Main Street Meats",
+  "categories": [
+   "restaurants",
+   "shopping"
+  ],
+  "neighborhoods": [
+   "southside"
+  ],
+  "description": "A working butcher counter and restaurant on East Main Street, celebrated for its burgers and locally sourced meats.",
+  "address": "217 E Main St, Chattanooga, TN 37408",
+  "lat": 35.039,
+  "lng": -85.3046,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://tablejourney.com/neighborhood/chattanooga/southside/"
+   ],
+   "notes": "Street number not confirmed by a source this session."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "state-of-confusion",
+  "name": "State of Confusion",
+  "categories": [
+   "restaurants",
+   "nightlife"
+  ],
+  "neighborhoods": [
+   "southside"
+  ],
+  "description": "A Main Street restaurant with Latin-leaning plates from the wood grill, a covered patio, and weekend brunch.",
+  "address": "301 E Main St, Chattanooga, TN 37408",
+  "lat": 35.039,
+  "lng": -85.3035,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://tablejourney.com/neighborhood/chattanooga/southside/"
+   ]
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "hi-fi-clydes",
+  "name": "Hi-Fi Clyde's",
+  "categories": [
+   "restaurants",
+   "nightlife"
+  ],
+  "neighborhoods": [
+   "southside"
+  ],
+  "description": "A big-room Southside bar and restaurant with murals, games, and live music Thursday through Sunday. Fridays and Saturdays go 21+ after 8 p.m.",
+  "address": "122 W Main St, Chattanooga, TN 37408",
+  "lat": 35.039,
+  "lng": -85.3095,
+  "verification": {
+   "status": "verified",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://noogatoday.6amcity.com/city-guide/play/live-music-venues-chattanooga-tn"
+   ]
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "main-terrain-art-park",
+  "name": "Main Terrain Art Park",
+  "categories": [
+   "parks",
+   "arts"
+  ],
+  "neighborhoods": [
+   "southside"
+  ],
+  "description": "A former rail corridor turned art-and-fitness park, where nine large sculptures inspired by the city's bridges double as exercise stations — and the park quietly manages stormwater, too.",
+  "address": "450 W 13th St, Chattanooga, TN 37402",
+  "lat": 35.04,
+  "lng": -85.3135,
+  "family": {
+   "ages": [
+    "5-8",
+    "9-12",
+    "teens",
+    "all"
+   ],
+   "setting": "outdoor",
+   "cost": "free",
+   "duration": "30–60 minutes",
+   "rainy": false
+  },
+  "verification": {
+   "status": "verified",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://noogatoday.6amcity.com/parks-guide-chattanooga-tn",
+    "https://www.arts.gov/exploring-our-town/main-terrain-art-park"
+   ]
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "sculpture-fields",
+  "name": "Sculpture Fields at Montague Park",
+  "categories": [
+   "parks",
+   "arts"
+  ],
+  "neighborhoods": [
+   "southside"
+  ],
+  "description": "A sprawling outdoor sculpture park with large-scale works set along walking paths and open lawns — free, dog-friendly, and a favorite for kite flying.",
+  "address": "1800 Polk St, Chattanooga, TN 37408",
+  "lat": 35.0283,
+  "lng": -85.298,
+  "image": {
+   "src": "/images/sculpture-fields.jpg",
+   "alt": "Aerial view of Sculpture Fields' winding paths and sculptures with Lookout Mountain behind"
+  },
+  "family": {
+   "ages": [
+    "toddlers",
+    "5-8",
+    "9-12",
+    "teens",
+    "all"
+   ],
+   "setting": "outdoor",
+   "cost": "free",
+   "duration": "1–2 hours",
+   "rainy": false
+  },
+  "verification": {
+   "status": "verified",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://noogatoday.6amcity.com/parks-guide-chattanooga-tn",
+    "https://www.visitchattanooga.com/things-to-do/free-things-to-do/"
+   ]
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "finley-stadium",
+  "name": "Finley Stadium",
+  "categories": [
+   "attractions",
+   "nightlife"
+  ],
+  "neighborhoods": [
+   "southside"
+  ],
+  "description": "Home of UTC Mocs football and Chattanooga FC soccer, plus concerts and community events on the Southside.",
+  "address": "1826 Reggie White Blvd, Chattanooga, TN 37408",
+  "lat": 35.0325,
+  "lng": -85.3125,
+  "image": {
+   "src": "/images/finley-stadium.jpg",
+   "alt": "Aerial view of a full Finley Stadium during an evening soccer match"
+  },
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://www.timesfreepress.com/news/2022/apr/23/southside-chattanooga/"
+   ],
+   "notes": "Street address not confirmed this session."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "incline-railway",
+  "name": "Lookout Mountain Incline Railway",
+  "categories": [
+   "attractions"
+  ],
+  "neighborhoods": [
+   "st-elmo"
+  ],
+  "description": "A funicular railway dating to 1895 that climbs about a mile up Lookout Mountain from St. Elmo to the summit near Point Park. Combination tickets with other mountain attractions are available.",
+  "address": "3917 St Elmo Ave, Chattanooga, TN 37409",
+  "lat": 35.00965,
+  "lng": -85.32849,
+  "website": "https://ridetheincline.com",
+  "featured": true,
+  "family": {
+   "ages": [
+    "5-8",
+    "9-12",
+    "teens",
+    "all"
+   ],
+   "setting": "outdoor",
+   "cost": "$$",
+   "duration": "1–2 hours",
+   "rainy": false
+  },
+  "verification": {
+   "status": "verified",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://www.asme.org/about-asme/engineering-history/landmarks/156-lookout-mountain-incline-railway",
+    "https://ridetheincline.com/?p=162"
+   ]
+  },
+  "active": true
+ },
+ {
+  "id": "st-elmo-historic-district",
+  "name": "St. Elmo Historic District",
+  "categories": [
+   "attractions"
+  ],
+  "neighborhoods": [
+   "st-elmo"
+  ],
+  "description": "One of Chattanooga's oldest suburbs, listed on the National Register of Historic Places, with Victorian and Craftsman homes on tree-lined streets at the foot of Lookout Mountain.",
+  "address": "St Elmo Ave, Chattanooga, TN 37409",
+  "lat": 35.005,
+  "lng": -85.328,
+  "verification": {
+   "status": "verified",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://fernwehtun.com/2025/01/11/chattanoogas-south-broad-st-elmo-historic-district-lookout-mountain"
+   ]
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "towing-museum",
+  "name": "International Towing & Recovery Museum",
+  "categories": [
+   "attractions"
+  ],
+  "neighborhoods": [
+   "st-elmo"
+  ],
+  "description": "The world's first tow truck was built in Chattanooga in 1916. This one-of-a-kind museum displays restored wreckers and antique cars, plus the moving Wall of the Fallen memorial.",
+  "address": "3315 Broad St, Chattanooga, TN 37408",
+  "lat": 35.016992,
+  "lng": -85.323582,
+  "family": {
+   "ages": [
+    "5-8",
+    "9-12",
+    "all"
+   ],
+   "setting": "indoor",
+   "cost": "$",
+   "duration": "1–1.5 hours",
+   "rainy": true
+  },
+  "verification": {
+   "status": "verified",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://tnvacation.com/point-of-interest/international-towing-museum",
+    "https://assets.atlasobscura.com/places/international-towing-and-recovery-museum"
+   ]
+  },
+  "active": true
+ },
+ {
+  "id": "little-coyote",
+  "name": "Little Coyote",
+  "categories": [
+   "restaurants"
+  ],
+  "neighborhoods": [
+   "st-elmo"
+  ],
+  "description": "Texas-style smoked meats and house-made tortillas with views of Lookout Mountain; recognized with a Michelin Bib Gourmand in 2025.",
+  "address": "3950 Tennessee Ave, Chattanooga, TN 37409",
+  "lat": 35.0094,
+  "lng": -85.3296,
+  "verification": {
+   "status": "verified",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://guide.michelin.com/tr/en/tennessee/chattanooga_2790931/restaurant/little-coyote"
+   ]
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "purple-daisy",
+  "name": "The Purple Daisy Picnic Cafe",
+  "categories": [
+   "restaurants"
+  ],
+  "neighborhoods": [
+   "st-elmo"
+  ],
+  "description": "A cheerful St. Elmo café near the Incline serving barbecue and picnic fare — save room for the bread pudding.",
+  "address": "4001 St Elmo Ave, Chattanooga, TN 37409",
+  "lat": 35.009,
+  "lng": -85.3283,
+  "verification": {
+   "status": "verified",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://www.city-data.com/restaurants/TN/THE-PURPLE-DAISY-PICNIC-CAFE.html",
+    "https://livability.com/?p=244396"
+   ]
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "st-elmo-mercantile",
+  "name": "St. Elmo Mercantile",
+  "categories": [
+   "shopping"
+  ],
+  "neighborhoods": [
+   "st-elmo"
+  ],
+  "description": "A neighborhood shop for curated everyday goods beside the Incline's lower station; it also houses a MoonPie General Store outpost.",
+  "address": "3915 St Elmo Ave, Chattanooga, TN 37409",
+  "lat": 35.0098,
+  "lng": -85.3283,
+  "verification": {
+   "status": "verified",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://www.moonpie.com/find",
+    "https://livability.com/tn/chattanooga/neighborhoods/st-elmo/"
+   ]
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "point-park",
+  "name": "Point Park (Chickamauga & Chattanooga National Military Park)",
+  "categories": [
+   "parks",
+   "attractions"
+  ],
+  "neighborhoods": [
+   "st-elmo"
+  ],
+  "description": "A National Park Service site atop Lookout Mountain with sweeping views of the city and Moccasin Bend, Civil War history, and the trailhead for the Bluff Trail. Entrance fee applies.",
+  "address": "110 Point Park Rd, Lookout Mountain, TN 37350",
+  "lat": 35.0101,
+  "lng": -85.3437,
+  "website": "https://www.nps.gov/chch/",
+  "image": {
+   "src": "/images/mountain-view.jpg",
+   "alt": "View from Lookout Mountain over the Tennessee River's Moccasin Bend at sunrise"
+  },
+  "featured": true,
+  "family": {
+   "ages": [
+    "5-8",
+    "9-12",
+    "teens",
+    "all"
+   ],
+   "setting": "outdoor",
+   "cost": "$",
+   "duration": "1–2 hours",
+   "rainy": false
+  },
+  "verification": {
+   "status": "verified",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://noogatoday.6amcity.com/parks-guide-chattanooga-tn",
+    "https://proximity2nature.squarespace.com/blog/tag/chattanooga"
+   ]
+  },
+  "active": true
+ },
+ {
+  "id": "ruby-falls",
+  "name": "Ruby Falls",
+  "categories": [
+   "attractions"
+  ],
+  "neighborhoods": [
+   "st-elmo"
+  ],
+  "description": "A guided walk deep inside Lookout Mountain to an underground waterfall, plus a scenic overlook above ground.",
+  "address": "1720 S Scenic Hwy, Chattanooga, TN 37409",
+  "lat": 35.01908,
+  "lng": -85.339372,
+  "website": "https://www.rubyfalls.com",
+  "family": {
+   "ages": [
+    "5-8",
+    "9-12",
+    "teens",
+    "all"
+   ],
+   "setting": "indoor",
+   "cost": "$$$",
+   "duration": "1.5–2 hours",
+   "rainy": true
+  },
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-15",
+   "sources": [],
+   "notes": "Address and website from editorial knowledge; verify before launch."
+  },
+  "active": true
+ },
+ {
+  "id": "rock-city",
+  "name": "Rock City Gardens",
+  "categories": [
+   "attractions",
+   "parks"
+  ],
+  "neighborhoods": [
+   "st-elmo"
+  ],
+  "description": "A walking trail through giant rock formations and gardens on top of Lookout Mountain (just over the Georgia line), ending at Lover's Leap and its famous view.",
+  "address": "1400 Patten Rd, Lookout Mountain, GA 30750",
+  "lat": 34.9734,
+  "lng": -85.3502,
+  "website": "https://www.seerockcity.com",
+  "image": {
+   "src": "/images/rock-city.jpg",
+   "alt": "Rock City's stone cliffs and Lover's Leap overlook above the valley"
+  },
+  "family": {
+   "ages": [
+    "5-8",
+    "9-12",
+    "teens",
+    "all"
+   ],
+   "setting": "outdoor",
+   "cost": "$$$",
+   "duration": "1.5–2 hours",
+   "rainy": false
+  },
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-15",
+   "sources": [],
+   "notes": "Address and website from editorial knowledge; verify before launch."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "chattanooga-zoo",
+  "name": "Chattanooga Zoo",
+  "categories": [
+   "attractions",
+   "parks"
+  ],
+  "neighborhoods": [],
+  "description": "A walkable, kid-scaled zoo in Warner Park with animals from around the world — an easy half-day with little ones.",
+  "address": "301 N Holtzclaw Ave, Chattanooga, TN 37404",
+  "lat": 35.041,
+  "lng": -85.2805,
+  "website": "https://www.chattzoo.org",
+  "family": {
+   "ages": [
+    "toddlers",
+    "5-8",
+    "9-12",
+    "all"
+   ],
+   "setting": "outdoor",
+   "cost": "$$",
+   "duration": "2–3 hours",
+   "rainy": false
+  },
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-15",
+   "sources": [],
+   "notes": "Address and website from editorial knowledge; verify before launch."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "tennessee-valley-railroad",
+  "name": "Tennessee Valley Railroad Museum",
+  "categories": [
+   "attractions"
+  ],
+  "neighborhoods": [],
+  "description": "Ride restored historic trains and explore rail yards and equipment east of downtown — a must for train-loving kids.",
+  "address": "4119 Cromwell Rd, Chattanooga, TN 37421",
+  "lat": 35.066667,
+  "lng": -85.206389,
+  "website": "https://www.tvrail.com",
+  "family": {
+   "ages": [
+    "toddlers",
+    "5-8",
+    "9-12",
+    "all"
+   ],
+   "setting": "outdoor",
+   "cost": "$$",
+   "duration": "2–3 hours",
+   "rainy": true
+  },
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-15",
+   "sources": [],
+   "notes": "Address and website from editorial knowledge; verify excursions and schedule before launch."
+  },
+  "active": true
+ },
+ {
+  "id": "reflection-riding",
+  "name": "Reflection Riding Arboretum & Nature Center",
+  "categories": [
+   "parks"
+  ],
+  "neighborhoods": [],
+  "description": "300+ acres of gardens, meadows, and forest at the base of Lookout Mountain, with about 10 miles of trails connecting to National Park land and native wildlife exhibits.",
+  "address": "400 Garden Rd, Chattanooga, TN 37419",
+  "lat": 35.0101,
+  "lng": -85.3648,
+  "website": "https://reflectionriding.org",
+  "phone": "423-821-1160",
+  "family": {
+   "ages": [
+    "toddlers",
+    "5-8",
+    "9-12",
+    "teens",
+    "all"
+   ],
+   "setting": "outdoor",
+   "cost": "$",
+   "duration": "1–3 hours",
+   "rainy": false
+  },
+  "verification": {
+   "status": "verified",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://reflectionriding.org/visit"
+   ]
+  },
+  "active": true
+ },
+ {
+  "id": "ed-johnson-memorial",
+  "name": "Ed Johnson Memorial",
+  "categories": [
+   "arts",
+   "attractions"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "Three bronze figures by artist Jerome Meadows honor Ed Johnson, who was lynched on the Walnut Street Bridge in 1906, and his attorneys Noah Parden and Styles Hutchins. Dedicated in 2021 at the bridge's downtown end as a place of remembrance and reconciliation.",
+  "address": "100 Walnut St, Chattanooga, TN 37403",
+  "lat": 35.0589,
+  "lng": -85.3069,
+  "verification": {
+   "status": "verified",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://www.chattanoogan.com/2021/8/31/433879/The-Ed-Johnson-Project-Announces.aspx",
+    "https://livability.com/tn/chattanooga/where-to-live-now/chattanooga-honors-the-past-and-looks-forward-to-the-future/"
+   ]
+  },
+  "coordsApproximate": true,
+  "active": true
+ }
+]

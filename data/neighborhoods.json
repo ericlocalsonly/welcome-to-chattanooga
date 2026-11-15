@@ -1,0 +1,459 @@
+[
+ {
+  "slug": "northshore",
+  "name": "Northshore",
+  "vibe": "Eclectic, Walkable, Creative & Relaxed",
+  "tagline": "Boutiques, galleries, and riverfront lawns between the bridges.",
+  "description": "Located across the Tennessee River from Downtown, Chattanooga's Northshore is a vibrant neighborhood filled with independent boutiques, locally owned restaurants, coffee shops, public art, and green spaces. Its walkable streets, welcoming atmosphere, and riverfront parks make it a favorite for both visitors and locals.",
+  "special": "Walk off the Walnut Street Bridge and you land on the lawn at Coolidge Park, with a carousel on one side and Frazier Avenue's shops on the other. The stretch locals call \"between the bridges\" packs artist-run galleries, a decades-old bookstore, ice cream, doughnuts, and patios into a few easy blocks. History runs deep here too: after Emancipation, this area was settled as Hill City, a town with a Black majority that later became part of Chattanooga.",
+  "hero": {
+   "src": "/images/coolidge-park.jpg",
+   "alt": "Aerial view of Coolidge Park's carousel pavilion, the Walnut Street Bridge, and Frazier Avenue storefronts"
+  },
+  "center": [
+   35.0628,
+   -85.306
+  ],
+  "zoom": 16,
+  "boundary": [
+   [
+    35.06,
+    -85.3112
+   ],
+   [
+    35.0605,
+    -85.299
+   ],
+   [
+    35.065,
+    -85.299
+   ],
+   [
+    35.0665,
+    -85.3115
+   ]
+  ],
+  "walkingRoute": {
+   "name": "Bridges & Frazier Loop",
+   "description": "About 1.5 miles. Cross the Walnut Street Bridge, explore Coolidge Park, stroll east on Frazier Avenue, detour to Renaissance Park, then return over the Market Street Bridge. Route line is approximate — follow sidewalks and crosswalks.",
+   "stops": [
+    "walnut-street-bridge",
+    "coolidge-park",
+    "locals-only-gifts-and-goods",
+    "in-town-gallery",
+    "winder-binder",
+    "julie-darling-donuts",
+    "renaissance-park"
+   ],
+   "path": [
+    [
+     35.059,
+     -85.3069
+    ],
+    [
+     35.0619,
+     -85.3068
+    ],
+    [
+     35.064,
+     -85.3066
+    ],
+    [
+     35.0623,
+     -85.3072
+    ],
+    [
+     35.0632,
+     -85.309
+    ],
+    [
+     35.0633,
+     -85.3082
+    ],
+    [
+     35.0634,
+     -85.3077
+    ],
+    [
+     35.0637,
+     -85.3058
+    ],
+    [
+     35.063,
+     -85.3015
+    ]
+   ]
+  },
+  "featured": [
+   "coolidge-park",
+   "walnut-street-bridge",
+   "frazier-avenue",
+   "renaissance-park",
+   "chattanooga-theatre-centre"
+  ],
+  "order": 1
+ },
+ {
+  "slug": "downtown",
+  "name": "Downtown",
+  "vibe": "Energetic, Scenic, Cultural & Historic",
+  "tagline": "The aquarium, the bluff, and the riverfront — all within a few blocks.",
+  "description": "Downtown Chattanooga brings together the city's most recognizable attractions, vibrant riverfront, historic architecture, museums, restaurants, and entertainment venues. From the Tennessee Aquarium to the Bluff View Art District, Downtown offers an excellent introduction to the Scenic City.",
+  "special": "Chattanooga's riverfront transformation is one of the great American comeback stories, and Downtown is where you can see it best: the terraced lawns of Ross's Landing step down to the water where the city began, the Aquarium's glass peaks rise beside them, and the Hunter Museum and Bluff View Art District sit on the cliffs above. Broad Street ties it together with places to eat, play, and catch a show.",
+  "hero": {
+   "src": "/images/tennessee-aquarium.jpg",
+   "alt": "Aerial view of the Tennessee Aquarium and Ross's Landing on the downtown riverfront"
+  },
+  "center": [
+   35.0545,
+   -85.3095
+  ],
+  "zoom": 15,
+  "boundary": [
+   [
+    35.0592,
+    -85.315
+   ],
+   [
+    35.059,
+    -85.303
+   ],
+   [
+    35.0535,
+    -85.3025
+   ],
+   [
+    35.0458,
+    -85.306
+   ],
+   [
+    35.0458,
+    -85.315
+   ]
+  ],
+  "walkingRoute": {
+   "name": "Riverfront & Bluff Stroll",
+   "description": "About 1.25 miles. Start at Ross's Landing, pass the Tennessee Aquarium, follow the riverfront east to the Walnut Street Bridge, then climb to the Hunter Museum and Bluff View Art District. Route line is approximate.",
+   "stops": [
+    "rosss-landing",
+    "tennessee-aquarium",
+    "moonpie-general-store",
+    "walnut-street-bridge",
+    "hunter-museum",
+    "bluff-view-art-district"
+   ],
+   "path": [
+    [
+     35.0568,
+     -85.3118
+    ],
+    [
+     35.0557,
+     -85.3108
+    ],
+    [
+     35.057,
+     -85.3095
+    ],
+    [
+     35.0577,
+     -85.3085
+    ],
+    [
+     35.0588,
+     -85.307
+    ],
+    [
+     35.057,
+     -85.3066
+    ],
+    [
+     35.05586,
+     -85.30641
+    ],
+    [
+     35.0561,
+     -85.305
+    ]
+   ]
+  },
+  "featured": [
+   "tennessee-aquarium",
+   "creative-discovery-museum",
+   "hunter-museum",
+   "rosss-landing",
+   "bluff-view-art-district"
+  ],
+  "order": 2
+ },
+ {
+  "slug": "westside",
+  "name": "Westside District",
+  "vibe": "Historic, Evolving, Community-Oriented & Creative",
+  "tagline": "One of Chattanooga's oldest neighborhoods, writing its next chapter.",
+  "description": "The Westside is one of Chattanooga's oldest and most historic neighborhoods, home to generations of families just west of the city center. Today it sits at the heart of one of the largest community redevelopment efforts in the city's history.",
+  "special": "The Westside District studied by the Westside Evolves plan is bordered by M.L. King Boulevard, Riverfront Parkway, Main Street, and US-27. It includes College Hill Courts — built in 1940 as Chattanooga's oldest public housing community — along with Gateway Tower and Boynton Terrace. The City Council adopted the resident-shaped Westside Evolves plan as a ten-year strategy, and the related One Westside effort connects it with The Bend, a former industrial riverfront site being redeveloped next door. Cameron Hill, once home to Boynton Park and its city overlook, was largely leveled in the mid-20th century. Visitor-facing businesses here are still limited, so explore respectfully: walk the Riverwalk past Blue Goose Hollow, and remember this is first and foremost a residential community. Note: the Westside District is a different place from West Village, the dining and hotel area near downtown's Pine and Chestnut streets.",
+  "hero": {
+   "src": "/images/waterfront.jpg",
+   "alt": "The Tennessee River flowing west past the riverfront steps, with mountains and a highway bridge in the distance"
+  },
+  "center": [
+   35.0465,
+   -85.3185
+  ],
+  "zoom": 15,
+  "boundary": [
+   [
+    35.0478,
+    -85.3145
+   ],
+   [
+    35.05,
+    -85.3215
+   ],
+   [
+    35.042,
+    -85.3255
+   ],
+   [
+    35.0385,
+    -85.324
+   ],
+   [
+    35.0385,
+    -85.3145
+   ]
+  ],
+  "boundaryNote": "Approximate area based on the Westside Evolves study area (M.L. King Blvd, Riverfront Pkwy, Main St, and US-27). Not an official boundary.",
+  "walkingRoute": {
+   "name": "Westside Riverwalk",
+   "description": "About 1 mile one way along the paved Tennessee Riverwalk from Ross's Landing to Blue Goose Hollow and the Riverfront Parkway access. Route line is approximate.",
+   "stops": [
+    "rosss-landing",
+    "blue-goose-hollow",
+    "riverwalk-westside-access"
+   ],
+   "path": [
+    [
+     35.0569,
+     -85.3118
+    ],
+    [
+     35.0552,
+     -85.315
+    ],
+    [
+     35.053,
+     -85.3178
+    ],
+    [
+     35.051,
+     -85.3196
+    ],
+    [
+     35.0478,
+     -85.3222
+    ]
+   ]
+  },
+  "history": [
+   {
+    "year": "1940",
+    "text": "College Hill Courts opens; it is now Chattanooga's oldest and largest public housing community."
+   },
+   {
+    "year": "Mid-1900s",
+    "text": "Much of Cameron Hill, once home to Boynton Park and its overlook, is excavated during urban renewal and highway construction."
+   },
+   {
+    "year": "2020–2021",
+    "text": "Residents, the Chattanooga Housing Authority, the Chattanooga Design Studio, and the City begin the Westside Evolves planning process."
+   },
+   {
+    "year": "2023",
+    "text": "City Council approves a special tax district for The Bend, linking it with Westside Evolves under the One Westside banner."
+   }
+  ],
+  "sources": [
+   "https://register.chattanooga.gov/stay-informed/latest-news/chattanooga-city-council-adopts-westside-community-transformation-plan",
+   "https://www.chattanoogan.com/2021/4/13/426596/Westside-Evolves-Enters-Phase-Of.aspx",
+   "https://www.timesfreepress.com/news/2023/oct/31/chattanooga-city-council-approves-westside-tax-zone-tfp/",
+   "https://www.chattanoogan.com/2002/11/5/28696/What--Did-That-Park-Used-To-Be--.aspx"
+  ],
+  "featured": [
+   "blue-goose-hollow",
+   "westside-park",
+   "riverwalk-westside-access"
+  ],
+  "order": 3
+ },
+ {
+  "slug": "southside",
+  "name": "Southside",
+  "vibe": "Artistic, Trendy, Independent & Lively",
+  "tagline": "Main Street eats, Station Street music, and a famous old train station.",
+  "description": "The Southside is Chattanooga's creative and culinary playground, known for independent restaurants, coffee shops, breweries, live music, galleries, and historic industrial architecture. Centered around Main Street and the historic Chattanooga Choo Choo, this district offers some of the city's most memorable dining and nightlife experiences.",
+  "special": "Old warehouses and rail lines have become bakeries, butcher counters, music halls, and art parks. Start at the Choo Choo's grand 1909 terminal, slip down Station Street for live music, grab bread at Niedlov's, and finish with sculpture and kites at Sculpture Fields.",
+  "hero": {
+   "src": "/images/chattanooga-choo-choo.jpg",
+   "alt": "The Chattanooga Choo Choo locomotive in red, green, and gold"
+  },
+  "center": [
+   35.0372,
+   -85.308
+  ],
+  "zoom": 15,
+  "boundary": [
+   [
+    35.0425,
+    -85.316
+   ],
+   [
+    35.0425,
+    -85.3
+   ],
+   [
+    35.029,
+    -85.296
+   ],
+   [
+    35.029,
+    -85.316
+   ]
+  ],
+  "walkingRoute": {
+   "name": "Main Street Food Walk",
+   "description": "About 1.25 miles. Start at Main Terrain Art Park, walk east along Main Street past Hi-Fi Clyde's, loop through the Choo Choo and Station Street, then continue to Niedlov's and Main Street Meats. Route line is approximate.",
+   "stops": [
+    "main-terrain-art-park",
+    "hi-fi-clydes",
+    "chattanooga-choo-choo",
+    "station-street",
+    "chattanooga-whiskey-experimental",
+    "niedlovs",
+    "main-street-meats"
+   ],
+   "path": [
+    [
+     35.04,
+     -85.3135
+    ],
+    [
+     35.039,
+     -85.311
+    ],
+    [
+     35.039,
+     -85.3095
+    ],
+    [
+     35.039,
+     -85.3075
+    ],
+    [
+     35.0371,
+     -85.3069
+    ],
+    [
+     35.0373,
+     -85.3085
+    ],
+    [
+     35.0365,
+     -85.308
+    ],
+    [
+     35.039,
+     -85.3074
+    ],
+    [
+     35.039,
+     -85.3048
+    ],
+    [
+     35.039,
+     -85.3046
+    ]
+   ]
+  },
+  "featured": [
+   "chattanooga-choo-choo",
+   "station-street",
+   "main-terrain-art-park",
+   "sculpture-fields",
+   "niedlovs"
+  ],
+  "order": 4
+ },
+ {
+  "slug": "st-elmo",
+  "name": "St. Elmo",
+  "vibe": "Historic, Charming, Outdoorsy & Laid-Back",
+  "tagline": "Victorian streets at the foot of Lookout Mountain.",
+  "description": "Nestled at the foot of Lookout Mountain, St. Elmo combines historic homes, independent businesses, mountain scenery, and convenient access to outdoor adventure. It's a neighborhood where visitors can explore charming streets, discover local restaurants, and experience one of Chattanooga's most recognizable attractions.",
+  "special": "Named after an 1866 novel that compared Lookout Mountain to a castle in Naples, St. Elmo is one of Chattanooga's oldest suburbs and a National Register historic district. Ride the Incline Railway up the mountain, then come back down for barbecue, tacos, and a stroll past porch-lined homes. Mountain trails, Point Park, Ruby Falls, and Rock City are all minutes away.",
+  "hero": {
+   "src": "/images/rock-city.jpg",
+   "alt": "Rock City's sandstone cliffs on Lookout Mountain overlooking the valley"
+  },
+  "center": [
+   35.0075,
+   -85.3285
+  ],
+  "zoom": 15,
+  "boundary": [
+   [
+    35.0145,
+    -85.3335
+   ],
+   [
+    35.0145,
+    -85.3225
+   ],
+   [
+    34.993,
+    -85.3225
+   ],
+   [
+    34.993,
+    -85.3335
+   ]
+  ],
+  "walkingRoute": {
+   "name": "Incline & Avenue Stroll",
+   "description": "About half a mile. Start at the Incline's lower station, browse St. Elmo Mercantile, then grab a meal at The Purple Daisy or Little Coyote. Route line is approximate.",
+   "stops": [
+    "incline-railway",
+    "st-elmo-mercantile",
+    "purple-daisy",
+    "little-coyote"
+   ],
+   "path": [
+    [
+     35.00965,
+     -85.32849
+    ],
+    [
+     35.0098,
+     -85.3283
+    ],
+    [
+     35.009,
+     -85.3283
+    ],
+    [
+     35.0094,
+     -85.3296
+    ]
+   ]
+  },
+  "featured": [
+   "incline-railway",
+   "st-elmo-historic-district",
+   "towing-museum",
+   "point-park",
+   "ruby-falls"
+  ],
+  "order": 5
+ }
+]

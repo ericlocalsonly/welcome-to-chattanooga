@@ -1,0 +1,473 @@
+[
+ {
+  "id": "tennessee-riverwalk",
+  "name": "Tennessee Riverwalk",
+  "activities": [
+   "walking",
+   "running",
+   "biking"
+  ],
+  "categories": [
+   "walking",
+   "running",
+   "biking",
+   "parks"
+  ],
+  "distanceMiles": 13,
+  "distanceNote": "About 13 miles of main path per TrailLink; some guides cite up to 16 miles depending on which segments are counted. Most visitors do a short out-and-back.",
+  "difficulty": "easy",
+  "duration": "Choose your distance — 30 minutes to a full day",
+  "surface": "Paved concrete",
+  "trailhead": {
+   "name": "Ross's Landing (downtown)",
+   "address": "100 Riverfront Pkwy, Chattanooga, TN 37402",
+   "lat": 35.0569,
+   "lng": -85.3118
+  },
+  "parking": "Paid parking downtown near Ross's Landing. Free lots at Tennessee Riverpark and several trailheads east of downtown (see access points).",
+  "family": true,
+  "familyNote": "Flat, paved, and stroller-friendly. Watch for cyclists.",
+  "description": "Chattanooga's signature greenway follows the south bank of the Tennessee River, linking downtown's riverfront parks with the Tennessee Riverpark and the Chickamauga Dam area, and connecting with the South Chickamauga Creek Greenway.",
+  "website": "https://www.visitchattanooga.com/blog/post/a-guide-to-chattanoogas-riverwalk/",
+  "image": {
+   "src": "/images/chattanooga-sign.jpg",
+   "alt": "The CHATTANOOGA lettering on the 21st Century Waterfront wall along the Riverwalk"
+  },
+  "warnings": "Sections can close for maintenance or high water. Check with Hamilton County and the City of Chattanooga before a long ride.",
+  "verification": {
+   "status": "verified",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://www.traillink.com/trail/tennessee-riverwalk/",
+    "https://www.visitchattanooga.com/blog/post/a-guide-to-chattanoogas-riverwalk/"
+   ]
+  },
+  "featured": true
+ },
+ {
+  "id": "stringers-ridge",
+  "name": "Stringer's Ridge",
+  "activities": [
+   "hiking",
+   "biking",
+   "running"
+  ],
+  "categories": [
+   "hiking",
+   "biking",
+   "running",
+   "overlooks"
+  ],
+  "distanceMiles": 7,
+  "distanceNote": "About 7 miles of natural-surface trail across a 92-acre urban wilderness park.",
+  "difficulty": "moderate",
+  "duration": "1–2 hours",
+  "surface": "Natural path",
+  "trailhead": {
+   "name": "Spears Avenue Trailhead (main)",
+   "address": "1312 Spears Ave, Chattanooga, TN 37405",
+   "lat": 35.074,
+   "lng": -85.315
+  },
+  "parking": "Main trailhead on Spears Ave has parking, restrooms, a bike repair station, and a pump track. Limited parking at the Bell Ave trailhead (787 W Bell Ave).",
+  "family": true,
+  "familyNote": "Shorter loops work for school-age kids; some climbs.",
+  "description": "A forested ridge right above the Northshore with overlooks of downtown and the river, preserved through a citizen-led effort.",
+  "website": "https://register.chattanooga.gov/things-to-do/greenways-trails/stringers-ridge",
+  "verification": {
+   "status": "verified",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://register.chattanooga.gov/things-to-do/greenways-trails/stringers-ridge"
+   ]
+  },
+  "coordsApproximate": true
+ },
+ {
+  "id": "sunset-rock",
+  "name": "Sunset Rock via the Bluff Trail",
+  "activities": [
+   "hiking"
+  ],
+  "categories": [
+   "hiking",
+   "overlooks"
+  ],
+  "distanceMiles": 4,
+  "distanceNote": "Roughly 2 miles each way from Point Park on the Bluff Trail. A much shorter, rocky path leads down from the small West Brow Rd lot.",
+  "difficulty": "moderate",
+  "duration": "2–3 hours from Point Park",
+  "surface": "Rocky, with stone stairs",
+  "trailhead": {
+   "name": "West Brow Rd lot (Sunset Rock)",
+   "address": "405 W Brow Rd, Lookout Mountain, TN 37350",
+   "lat": 35.0003,
+   "lng": -85.3544
+  },
+  "parking": "Very limited parking at West Brow Rd (about 10 spaces; the Park Service asks visitors not to park on the street or in yards). Paid parking at Point Park.",
+  "family": false,
+  "familyNote": "Sheer drop-offs — keep children close.",
+  "description": "A sandstone ledge on the west face of Lookout Mountain with one of the area's best sunset views over Lookout Valley.",
+  "website": "https://www.nps.gov/chch/",
+  "warnings": "Cliff edges with no railings. Point Park charges an entrance fee — check NPS for the current amount and hours.",
+  "verification": {
+   "status": "verified",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://proximity2nature.squarespace.com/blog/tag/chattanooga",
+    "https://www.badbeardevents.com/chattanooga/sunset-rock"
+   ]
+  }
+ },
+ {
+  "id": "point-park-overlook",
+  "name": "Point Park Overlook",
+  "activities": [
+   "walking"
+  ],
+  "categories": [
+   "walking",
+   "overlooks"
+  ],
+  "distanceMiles": 0.5,
+  "distanceNote": "Short paved and gravel paths inside the park.",
+  "difficulty": "easy",
+  "duration": "45–90 minutes",
+  "surface": "Paved and gravel",
+  "trailhead": {
+   "name": "Point Park entrance",
+   "address": "110 Point Park Rd, Lookout Mountain, TN 37350",
+   "lat": 35.0101,
+   "lng": -85.3437
+  },
+  "parking": "Paid parking near the park entrance. You can also ride the Incline Railway up and walk a few blocks.",
+  "family": true,
+  "familyNote": "Easy walking; supervise children near overlooks.",
+  "description": "Civil War history and the classic view of Moccasin Bend and downtown from the top of Lookout Mountain. Open roughly 6 a.m. to sunset.",
+  "website": "https://www.nps.gov/chch/",
+  "image": {
+   "src": "/images/mountain-view.jpg",
+   "alt": "Cannon at Point Park overlooking Moccasin Bend at sunrise"
+  },
+  "warnings": "Entrance fee applies.",
+  "verification": {
+   "status": "verified",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://proximity2nature.squarespace.com/blog/tag/chattanooga"
+   ]
+  }
+ },
+ {
+  "id": "lookout-bluff-trail",
+  "name": "Lookout Mountain Bluff Trail",
+  "activities": [
+   "hiking",
+   "running"
+  ],
+  "categories": [
+   "hiking",
+   "running",
+   "overlooks"
+  ],
+  "distanceMiles": 5,
+  "distanceNote": "About a 5-mile loop when combined with connecting trails; part of a 30+ mile trail network in the national military park.",
+  "difficulty": "moderate",
+  "duration": "2.5–3.5 hours",
+  "surface": "Rocky natural path",
+  "trailhead": {
+   "name": "Point Park",
+   "address": "110 Point Park Rd, Lookout Mountain, TN 37350",
+   "lat": 35.0101,
+   "lng": -85.3437
+  },
+  "parking": "Paid parking at Point Park; limited parking at Cravens House and West Brow Rd.",
+  "family": false,
+  "familyNote": "Better for older kids and teens.",
+  "description": "Hug the base of Lookout Mountain's upper cliffs past rock outcrops, springs, and views — with options to connect to Sunset Rock and Cravens House.",
+  "website": "https://www.nps.gov/chch/",
+  "warnings": "Check NPS alerts for trail closures before you go.",
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://www.rei.com/blog/hike/best-chattanooga-hikes"
+   ],
+   "notes": "Loop distance from REI guide; confirm route with NPS."
+  }
+ },
+ {
+  "id": "reflection-riding-trails",
+  "name": "Reflection Riding Trails",
+  "activities": [
+   "hiking",
+   "walking"
+  ],
+  "categories": [
+   "hiking",
+   "walking",
+   "parks"
+  ],
+  "distanceMiles": 10,
+  "distanceNote": "About 10 miles of trails on campus that connect to National Park land leading up Lookout Mountain.",
+  "difficulty": "easy",
+  "duration": "1–3 hours",
+  "surface": "Natural path and gravel",
+  "trailhead": {
+   "name": "Reflection Riding main lot",
+   "address": "400 Garden Rd, Chattanooga, TN 37419",
+   "lat": 35.0101,
+   "lng": -85.3648
+  },
+  "parking": "Check in at the main parking lot for a visitor pass. Do not block the gate.",
+  "family": true,
+  "familyNote": "Gentle meadow and creekside loops; native wildlife exhibits.",
+  "description": "Gardens, meadows, and forest at the base of Lookout Mountain, run by a nonprofit nature center. Access is open to all; donations are welcome.",
+  "website": "https://reflectionriding.org/visit",
+  "verification": {
+   "status": "verified",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://reflectionriding.org/visit"
+   ]
+  }
+ },
+ {
+  "id": "enterprise-south",
+  "name": "Enterprise South Nature Park",
+  "activities": [
+   "hiking",
+   "biking",
+   "running",
+   "walking"
+  ],
+  "categories": [
+   "hiking",
+   "biking",
+   "running",
+   "walking",
+   "parks"
+  ],
+  "distanceMiles": null,
+  "distanceNote": "Paved and natural-surface trails for hiking, biking, and horseback riding. Check the park map for current mileage.",
+  "difficulty": "easy",
+  "duration": "1–3 hours",
+  "surface": "Paved and natural",
+  "trailhead": {
+   "name": "Main entrance",
+   "address": "190 Still Hollow Loop, Chattanooga, TN 37416",
+   "lat": 35.069,
+   "lng": -85.146
+  },
+  "parking": "Parking at the visitor center and trailheads inside the park.",
+  "family": true,
+  "familyNote": "Paved loops are good for bikes and strollers.",
+  "description": "A large wooded park northeast of downtown with trails for hikers, mountain bikers, and riders.",
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://noogatoday.6amcity.com/parks-guide-chattanooga-tn"
+   ],
+   "notes": "Confirm official website and trail mileage with Hamilton County."
+  },
+  "coordsApproximate": true
+ },
+ {
+  "id": "south-chickamauga-creek-greenway",
+  "name": "South Chickamauga Creek Greenway",
+  "activities": [
+   "walking",
+   "running",
+   "biking"
+  ],
+  "categories": [
+   "walking",
+   "running",
+   "biking",
+   "parks"
+  ],
+  "distanceMiles": 12,
+  "distanceNote": "About 12 miles, connecting to the Tennessee Riverwalk at its northern end.",
+  "difficulty": "easy",
+  "duration": "1–4 hours",
+  "surface": "Paved, boardwalk, and some gravel",
+  "trailhead": {
+   "name": "Amnicola Hwy connection",
+   "address": "3716 Amnicola Hwy, Chattanooga, TN 37406",
+   "lat": 35.086,
+   "lng": -85.234
+  },
+  "parking": "All trailheads have free parking, per the City.",
+  "family": true,
+  "familyNote": "Boardwalks and interpretive signs; some rough sections.",
+  "description": "A creekside greenway through eastern Chattanooga and East Ridge with elevated boardwalks, overlooks, and a boat ramp.",
+  "website": "https://register.chattanooga.gov/things-to-do/greenways-trails/south-chickamauga-creek-greenway",
+  "warnings": "Some sections are gravel and rough pavement.",
+  "verification": {
+   "status": "verified",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://register.chattanooga.gov/things-to-do/greenways-trails/south-chickamauga-creek-greenway",
+    "https://www.traillink.com/trail/south-chickamauga-creek-greenway/"
+   ]
+  },
+  "coordsApproximate": true
+ },
+ {
+  "id": "raccoon-mountain",
+  "name": "Raccoon Mountain Trails",
+  "activities": [
+   "biking",
+   "hiking",
+   "running"
+  ],
+  "categories": [
+   "biking",
+   "hiking",
+   "running",
+   "overlooks"
+  ],
+  "distanceMiles": null,
+  "distanceNote": "A well-known singletrack network around the TVA reservoir atop Raccoon Mountain. Check current maps for mileage.",
+  "difficulty": "challenging",
+  "duration": "2–4 hours",
+  "surface": "Natural singletrack",
+  "trailhead": {
+   "name": "Raccoon Mountain",
+   "address": "Raccoon Mountain, Chattanooga, TN",
+   "lat": 35.048,
+   "lng": -85.397
+  },
+  "parking": "Trailhead parking on the mountain — confirm current access with TVA.",
+  "family": false,
+  "familyNote": "Best for experienced riders and hikers.",
+  "description": "Rolling, technical trails with reservoir and valley views west of downtown — a mountain-biking favorite.",
+  "warnings": "Access is managed by TVA and can change. Verify before visiting.",
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-15",
+   "sources": [],
+   "notes": "No source checked this session. Confirm access, mileage, website, and trailhead address before publishing."
+  },
+  "coordsApproximate": true,
+  "active": false
+ },
+ {
+  "id": "chickamauga-battlefield",
+  "name": "Chickamauga Battlefield",
+  "activities": [
+   "walking",
+   "biking",
+   "running",
+   "hiking"
+  ],
+  "categories": [
+   "walking",
+   "biking",
+   "running",
+   "hiking",
+   "parks"
+  ],
+  "distanceMiles": null,
+  "distanceNote": "Park roads and trails across the battlefield, part of the Chickamauga & Chattanooga National Military Park.",
+  "difficulty": "easy",
+  "duration": "1–3 hours",
+  "surface": "Paved roads and natural trails",
+  "trailhead": {
+   "name": "Chickamauga Battlefield Visitor Center",
+   "address": "3370 Lafayette Rd, Fort Oglethorpe, GA 30742",
+   "lat": 34.9396,
+   "lng": -85.26
+  },
+  "parking": "Parking at the visitor center and pull-offs throughout the park.",
+  "family": true,
+  "familyNote": "Wide open fields and quiet park roads.",
+  "description": "Biking, walking, and scenic driving through Civil War history about 20 minutes south of downtown, in Georgia.",
+  "website": "https://www.nps.gov/chch/",
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-15",
+   "sources": [
+    "https://www.visitchattanooga.com/blog/post/18-must-visit-chattanooga-parks-and-the-best-things-to-do-at-each/"
+   ],
+   "notes": "Visitor center address from editorial knowledge; confirm."
+  },
+  "coordsApproximate": true
+ },
+ {
+  "id": "coolidge-renaissance-parks",
+  "name": "Coolidge & Renaissance Parks",
+  "activities": [
+   "walking",
+   "running"
+  ],
+  "categories": [
+   "walking",
+   "running",
+   "parks"
+  ],
+  "distanceMiles": 1,
+  "distanceNote": "About a mile of paved paths and boardwalk between the two Northshore riverfront parks.",
+  "difficulty": "easy",
+  "duration": "30–60 minutes",
+  "surface": "Paved and boardwalk",
+  "trailhead": {
+   "name": "Coolidge Park",
+   "address": "150 River St, Chattanooga, TN 37405",
+   "lat": 35.0611,
+   "lng": -85.3074
+  },
+  "parking": "Paid parking around Coolidge Park; or walk over the Walnut Street Bridge.",
+  "family": true,
+  "familyNote": "Stroller-friendly with a carousel at Coolidge Park.",
+  "description": "Easy riverside strolling with skyline views, connected to Downtown by the Walnut Street and Market Street bridges.",
+  "image": {
+   "src": "/images/coolidge-park-aerial.jpg",
+   "alt": "Coolidge Park's lawn and paths from above"
+  },
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-15",
+   "sources": [],
+   "notes": "Path length is an editorial estimate."
+  },
+  "coordsApproximate": true
+ },
+ {
+  "id": "tennessee-river-paddling",
+  "name": "Paddling the Tennessee River",
+  "activities": [
+   "paddling"
+  ],
+  "categories": [
+   "paddling"
+  ],
+  "distanceMiles": null,
+  "distanceNote": "Distance depends on your launch and take-out.",
+  "difficulty": "moderate",
+  "duration": "Varies",
+  "surface": "Open river",
+  "trailhead": {
+   "name": "Ross's Landing riverfront",
+   "address": "100 Riverfront Pkwy, Chattanooga, TN 37402",
+   "lat": 35.0569,
+   "lng": -85.3118
+  },
+  "parking": "Paid parking downtown.",
+  "family": false,
+  "familyNote": "Kids should paddle with an experienced adult and a life jacket.",
+  "description": "Kayaking and paddleboarding past the downtown skyline is one of Chattanooga's most memorable views. First-timers should book with a local outfitter for gear, guidance, and current river conditions.",
+  "image": {
+   "src": "/images/water-sports.jpg",
+   "alt": "A rider jumping off a dock during a water sports event on the Tennessee River"
+  },
+  "warnings": "The river is shared with barges and boats, and current changes with dam releases. Always wear a life jacket and check conditions first.",
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-15",
+   "sources": [],
+   "notes": "General guidance only. Add verified public launch sites and local outfitters before launch."
+  }
+ }
+]
