@@ -42,7 +42,7 @@ npm run check:data           # validate listings; add -- --links to test every U
    - Authentication → Users → add your user, then run the `insert into admin_users …` line at the bottom of `schema.sql`.
    - Optional: enable `pg_cron` and schedule `archive_past_events()` (commented in schema).
 3. **Other env vars** — `NEXT_PUBLIC_SITE_URL` (your domain), `NWS_CONTACT_EMAIL` (sent to the Weather Service as required), `CONTACT_EMAIL` (fallback for submissions), optional `NEXT_PUBLIC_PLAUSIBLE_DOMAIN` for cookie-free analytics.
-4. **Domain** — point your domain at Vercel.
+4. **Domain** — `thelocalguidechattanooga.com`: add it in Vercel → Project → Settings → Domains and set `NEXT_PUBLIC_SITE_URL=https://thelocalguidechattanooga.com`.
 5. **Before launch** — work through the review list from `npm run check:data`, run `npm run check:data -- --links`, and confirm photo usage rights.
 
 ## Notes & known limitations
