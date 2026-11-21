@@ -5,7 +5,7 @@ import { HeaderLogo } from "./HeaderLogo";
 
 export function SiteHeader() {
   return (
-    <header className="sticky top-0 z-40 border-b border-charcoal/10 bg-cream/90 backdrop-blur">
+    <header className="sticky top-0 z-40 border-b border-charcoal/10 bg-white">
       <div className="container-page flex h-16 items-center justify-between gap-4">
         <Link href="/" className="group flex flex-col leading-none" aria-label="Welcome to Chattanooga — home">
           <span className="font-serif text-lg font-semibold text-forest sm:text-xl">Welcome to Chattanooga</span>
