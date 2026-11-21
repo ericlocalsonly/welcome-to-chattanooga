@@ -36,7 +36,7 @@ export default async function HomePage() {
           Welcome to Chattanooga, Tennessee — where mountain views meet riverfront streets, outdoor adventure is always close by, and every neighborhood has a story to tell. From independent shops and unforgettable restaurants to scenic trails, historic landmarks, and family adventures, the Scenic City has a little something for everyone. Whether you're here for a weekend or you've called Chattanooga home for years, there's always something new to discover.
         </p>
         <div className="mt-8 flex flex-wrap gap-3">
-          <Link href="/things-to-do" className="btn-accent">Explore Chattanooga <ArrowRight aria-hidden className="h-4 w-4" /></Link>
+          <Link href="/things-to-do" className="btn-primary">Explore Chattanooga <ArrowRight aria-hidden className="h-4 w-4" /></Link>
           <Link href="/neighborhoods" className="btn-light">Find Your Neighborhood</Link>
         </div>
       </PageHero>
