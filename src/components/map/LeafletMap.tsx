@@ -65,7 +65,7 @@ export default function LeafletMap(p: LeafletMapProps) {
         maxZoom={19}
       />
       {p.boundary && (
-        <Polygon positions={p.boundary} pathOptions={{ color: "#244B40", weight: 2, dashArray: "6 6", fillColor: "#477D8C", fillOpacity: 0.08 }}>
+        <Polygon positions={p.boundary} pathOptions={{ color: "#1E7B6E", weight: 2, dashArray: "6 6", fillColor: "#477D8C", fillOpacity: 0.08 }}>
           {p.boundaryLabel && <Tooltip sticky>{p.boundaryLabel}</Tooltip>}
         </Polygon>
       )}

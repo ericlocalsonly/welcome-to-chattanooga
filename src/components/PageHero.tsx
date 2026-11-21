@@ -1,6 +1,6 @@
 import type { ImageRef } from "@/lib/types";
 
-export function PageHero({ image, eyebrow, title, subtitle, children, tall = false }: { image: ImageRef; eyebrow?: string; title: string; subtitle?: string; children?: React.ReactNode; tall?: boolean }) {
+export function PageHero({ image, eyebrow, title, byline, subtitle, children, tall = false }: { image: ImageRef; eyebrow?: string; title: string; byline?: React.ReactNode; subtitle?: string; children?: React.ReactNode; tall?: boolean }) {
   return (
     <section className={`relative isolate overflow-hidden ${tall ? "min-h-[86vh]" : "min-h-[46vh]"} flex items-end`}>
       <picture>
@@ -12,6 +12,7 @@ export function PageHero({ image, eyebrow, title, subtitle, children, tall = fal
       <div className="container-page fade-in pb-12 pt-28 text-white">
         {eyebrow && <p className="text-xs font-semibold uppercase tracking-[0.2em] text-cream/90">{eyebrow}</p>}
         <h1 className="mt-2 max-w-3xl text-4xl font-semibold leading-[1.05] !text-white sm:text-6xl">{title}</h1>
+        {byline && <p className="mt-3 text-base font-medium text-cream/90 sm:text-lg">{byline}</p>}
         {subtitle && <p className="mt-4 max-w-2xl text-lg text-cream/95 sm:text-xl">{subtitle}</p>}
         {children}
       </div>

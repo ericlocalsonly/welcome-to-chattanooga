@@ -4,7 +4,8 @@ export default {
   theme: {
     extend: {
       colors: {
-        forest: { DEFAULT: "#244B40", 50: "#EEF3F1", 100: "#D5E2DD", 700: "#1C3B32", 900: "#13281F" },
+        // Primary: PANTONE 335 U (screen match taken from the Locals Only logo)
+        forest: { DEFAULT: "#1E7B6E", 50: "#E8F2F0", 100: "#C9E2DD", 700: "#18665B", 900: "#0C3530" },
         river: { DEFAULT: "#477D8C", 50: "#EEF4F6", 100: "#D3E3E8", 700: "#36616D" },
         cream: { DEFAULT: "#F7F4EC", 200: "#EFE9DA" },
         terracotta: { DEFAULT: "#C77B58", 50: "#FAF0EB", 700: "#A15D3E" },

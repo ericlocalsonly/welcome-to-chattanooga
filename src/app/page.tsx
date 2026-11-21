@@ -29,6 +29,7 @@ export default async function HomePage() {
         image={{ src: "/images/tennessee-river.jpg", alt: "Downtown Chattanooga's skyline above the Tennessee River, with the blue Walnut Street Bridge in the foreground and Lookout Mountain behind" }}
         eyebrow="Chattanooga, Tennessee"
         title="Welcome to Chattanooga"
+        byline={<>Brought to you by <Link href="/shop-local" className="underline decoration-cream/50 underline-offset-4 hover:decoration-cream">Locals Only Gifts and Goods</Link></>}
         subtitle="Big Views. Local Flavor. Endless Adventures."
       >
         <p className="mt-5 max-w-2xl text-base leading-relaxed text-cream/90 sm:text-lg">

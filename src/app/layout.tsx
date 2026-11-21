@@ -26,7 +26,7 @@ export const metadata: Metadata = {
   appleWebApp: { capable: true, title: "Chattanooga", statusBarStyle: "default" },
 };
 
-export const viewport: Viewport = { themeColor: "#244B40", width: "device-width", initialScale: 1, viewportFit: "cover" };
+export const viewport: Viewport = { themeColor: "#1E7B6E", width: "device-width", initialScale: 1, viewportFit: "cover" };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
