@@ -11,26 +11,30 @@
    "alt": "Aerial view of Coolidge Park's carousel pavilion, the Walnut Street Bridge, and Frazier Avenue storefronts"
   },
   "center": [
-   35.0628,
-   -85.306
+   35.0658,
+   -85.3085
   ],
-  "zoom": 16,
+  "zoom": 15,
   "boundary": [
    [
     35.06,
-    -85.3112
+    -85.3155
    ],
    [
     35.0605,
-    -85.299
+    -85.297
    ],
    [
-    35.065,
-    -85.299
+    35.0712,
+    -85.297
    ],
    [
-    35.0665,
-    -85.3115
+    35.0715,
+    -85.3195
+   ],
+   [
+    35.0655,
+    -85.3195
    ]
   ],
   "walkingRoute": {

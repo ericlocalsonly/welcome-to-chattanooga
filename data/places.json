@@ -1671,5 +1671,810 @@
   },
   "coordsApproximate": true,
   "active": true
+ },
+ {
+  "id": "milk-and-honey",
+  "name": "Milk & Honey",
+  "categories": [
+   "restaurants",
+   "coffee"
+  ],
+  "neighborhoods": [
+   "northshore"
+  ],
+  "description": "Counter-service cafe near Taco Mamacita serving breakfast, brunch, coffee and house-made gelato.",
+  "address": "135 N Market St, Chattanooga, TN 37405",
+  "lat": 35.0645,
+  "lng": -85.3096,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://order.toasttab.com/online/milk-honey-chattanooga-135-n-market-st"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "frazier-five-and-dime",
+  "name": "Frazier Five & Dime",
+  "categories": [
+   "restaurants",
+   "nightlife"
+  ],
+  "neighborhoods": [
+   "northshore"
+  ],
+  "description": "Polished-casual restaurant and bar with small plates, brunch and a nod to the building's five-and-dime past.",
+  "address": "16 Frazier Ave, Chattanooga, TN 37405",
+  "lat": 35.0632,
+  "lng": -85.3087,
+  "website": "https://www.frazier5and10.com",
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://citylifestyle.com/articles/frazier-five-and-dime",
+    "https://www.restaurantji.com/tn/chattanooga/frazier-five-and-dime-/comments/"
+   ],
+   "notes": "Address and website from a City Lifestyle profile; one older directory lists 330 Frazier. Confirm with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "bento-ya",
+  "name": "Bento-Ya",
+  "categories": [
+   "restaurants"
+  ],
+  "neighborhoods": [
+   "northshore"
+  ],
+  "description": "Small Japanese spot on Frazier Avenue built around bento boxes, sushi and oden bowls.",
+  "address": "111 Frazier Ave, Chattanooga, TN 37405",
+  "lat": 35.0636,
+  "lng": -85.3061,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://www.restaurantji.com/tn/chattanooga/bento-ya-/comments/",
+    "https://www.mapquest.com/us/tennessee/bento-ya-674145414"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "cashew",
+  "name": "Cashew",
+  "categories": [
+   "restaurants"
+  ],
+  "neighborhoods": [
+   "northshore"
+  ],
+  "description": "Plant-based vegan restaurant on River Street with a counter of house-baked desserts.",
+  "address": "149 River St, Chattanooga, TN 37405",
+  "lat": 35.0627,
+  "lng": -85.3078,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://www.toasttab.com/local/cashew/r-77dc5b30-720e-44d7-8be8-45fe1701a26b"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "sullys-crepe-co",
+  "name": "Sully's Crepe Co",
+  "categories": [
+   "restaurants",
+   "coffee"
+  ],
+  "neighborhoods": [
+   "northshore"
+  ],
+  "description": "Crepe and coffee shop near Coolidge Park with sweet and savory crepes and a small patio.",
+  "address": "163 River St, Chattanooga, TN 37405",
+  "lat": 35.0626,
+  "lng": -85.3075,
+  "website": "https://www.sullyscrepeco.com",
+  "verification": {
+   "status": "verified",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://www.sullyscrepeco.com/"
+   ],
+   "notes": "Address from the business's own website. Hours change seasonally. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "totto-sushi-and-grill",
+  "name": "Totto Sushi & Grill",
+  "categories": [
+   "restaurants"
+  ],
+  "neighborhoods": [
+   "northshore"
+  ],
+  "description": "Long-running Frazier Avenue sushi and Japanese grill, known locally for its weekday lunch buffet.",
+  "address": "330 Frazier Ave Ste 124, Chattanooga, TN 37405",
+  "lat": 35.0645,
+  "lng": -85.3012,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://www.wdef.com/?p=91065",
+    "https://www.groupon.com/biz/chattanooga/totto-sushi-grill"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "basecamp",
+  "name": "Basecamp Bar & Restaurant",
+  "categories": [
+   "restaurants",
+   "nightlife"
+  ],
+  "neighborhoods": [
+   "northshore"
+  ],
+  "description": "Outdoorsy bar and restaurant serving comfort food and local craft beer, with a patio facing the river side of Frazier.",
+  "address": "346 Frazier Ave, Chattanooga, TN 37405",
+  "lat": 35.0646,
+  "lng": -85.3007,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://www.toasttab.com/local/order/basecamp-bar-and-restaurant-346-frazier-ave/r-c518f1c9-4e57-43f9-a4ba-bc04b74b4d99"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate. Website basecampcha.com mentioned in a locals' tip; not confirmed."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "la-santa",
+  "name": "La Santa",
+  "categories": [
+   "restaurants"
+  ],
+  "neighborhoods": [
+   "northshore"
+  ],
+  "description": "Mexican restaurant (formerly Poblano's) with traditional and Tex-Mex plates and house margaritas.",
+  "address": "551 River St, Chattanooga, TN 37405",
+  "lat": 35.063,
+  "lng": -85.3045,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://reviews.birdeye.com/la-santa-154103554871463?page=6"
+   ],
+   "notes": "Single directory source for the address; map pin is a rough estimate. Confirm with the business."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "mezcla-cocina-y-cantina",
+  "name": "Mezcla Cocina y Cantina",
+  "categories": [
+   "restaurants"
+  ],
+  "neighborhoods": [
+   "northshore"
+  ],
+  "description": "Scratch Mexican kitchen and cantina at the corner of Market Street and Frazier Avenue, opened in 2020.",
+  "address": "2 Cherokee Blvd, Chattanooga, TN 37405",
+  "lat": 35.0638,
+  "lng": -85.3099,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://order.toasttab.com/online/mezcla-cocina-y-cantina",
+    "https://postmates.com/store/mezcla-cocina-y-cantina/ZgJ9Uy9ARteNtM4twow0mQ"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "chipotle-northshore",
+  "name": "Chipotle (Northshore)",
+  "categories": [
+   "restaurants"
+  ],
+  "neighborhoods": [
+   "northshore"
+  ],
+  "description": "Fast-casual burritos and bowls on the ground floor of the 10/North building.",
+  "address": "20 Cherokee Blvd, Chattanooga, TN 37405",
+  "lat": 35.0643,
+  "lng": -85.3106,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://startpage.mapquest.com/us/tennessee/chipotle-mexican-grill-429166676",
+    "https://www.timesfreepress.com/?p=41292"
+   ],
+   "notes": "National chain location; confirm hours on the chain's store locator. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "the-big-chill-and-grill",
+  "name": "The Big Chill and Grill",
+  "categories": [
+   "restaurants",
+   "nightlife"
+  ],
+  "neighborhoods": [
+   "northshore"
+  ],
+  "description": "Longtime bar and grill famous for its wall of frozen-daiquiri machines, plus karaoke, trivia and DJ nights.",
+  "address": "103 Cherokee Blvd, Chattanooga, TN 37405",
+  "lat": 35.065,
+  "lng": -85.3113,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://superpages.com/chattanooga-tn/bpp/the-big-chill-and-grill-6230915",
+    "https://www.chattanoogapulse.com/food-drink/mixology/summer%E2%80%99s-hot-but-the-drinks-are-chilly/"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "zaya-1943-korean-steakhouse",
+  "name": "Zaya 1943 Korean Steakhouse",
+  "categories": [
+   "restaurants"
+  ],
+  "neighborhoods": [
+   "northshore"
+  ],
+  "description": "Upscale Korean steakhouse where servers grill dry-aged cuts tableside; reservations suggested.",
+  "address": "300 Cherokee Blvd Ste 125, Chattanooga, TN 37405",
+  "lat": 35.0666,
+  "lng": -85.3128,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://book.toasttab.com/r/zaya-1943-korean-steakhouse-300-cherokee-blvd-ste-125",
+    "https://www.aaa.com/tripcanvas/restaurant/zaya-1943-korean-steakhouse-AA62724"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "first-watch-northshore",
+  "name": "First Watch (Northshore)",
+  "categories": [
+   "restaurants"
+  ],
+  "neighborhoods": [
+   "northshore"
+  ],
+  "description": "Daytime chain serving breakfast, brunch and lunch in the 300 Cherokee development.",
+  "address": "300 Cherokee Blvd, Chattanooga, TN 37405",
+  "lat": 35.0667,
+  "lng": -85.3126,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://www.chattanoogan.com/2018/3/29/365910/Local-Brunch-Spot-To-Open-2nd.aspx"
+   ],
+   "notes": "National chain; address from the 2018 opening announcement. Confirm suite and hours on the chain's site. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "edleys-bar-b-que-northshore",
+  "name": "Edley's Bar-B-Que",
+  "categories": [
+   "restaurants"
+  ],
+  "neighborhoods": [
+   "northshore"
+  ],
+  "description": "Nashville-born barbecue joint with smoked meats, sandwiches and a happy-hour beer deal.",
+  "address": "205 Manufacturers Rd Ste 110, Chattanooga, TN 37405",
+  "lat": 35.0633,
+  "lng": -85.3122,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://www.mapquest.com/us/tennessee/edleys-bar-b-que-378917744",
+    "https://www.toasttab.com/local/edleys-bbq-chattanooga/r-6469fdc2-25e2-4e8d-b291-fe0a90d2788e"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "embargo-62",
+  "name": "Embargo '62",
+  "categories": [
+   "restaurants",
+   "nightlife"
+  ],
+  "neighborhoods": [
+   "northshore"
+  ],
+  "description": "Cuban cantina and rum bar serving Cuban sandwiches, ropa vieja and tropical cocktails since 2015.",
+  "address": "301 Cherokee Blvd Ste B, Chattanooga, TN 37405",
+  "lat": 35.0668,
+  "lng": -85.3131,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://startpage.mapquest.com/us/tennessee/embargo-62-365037582",
+    "https://www.allmenus.com/tn/chattanooga/587874-embargo-62/menu/"
+   ],
+   "notes": "A 2017 article said it was moving to 325 Cherokee Blvd; current directories list 301 Cherokee Blvd Ste B. Confirm with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "mikes-hole-in-the-wall",
+  "name": "Mike's Hole in the Wall",
+  "categories": [
+   "restaurants",
+   "nightlife"
+  ],
+  "neighborhoods": [
+   "northshore"
+  ],
+  "description": "Casual sports bar and grill on Cherokee Boulevard with a dog-friendly patio.",
+  "address": "538 Cherokee Blvd, Chattanooga, TN 37405",
+  "lat": 35.0688,
+  "lng": -85.3158,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://marieletseat.com/2017/01/09/mikes-hole-in-the-wall-chattanooga-tn",
+    "https://startpage.mapquest.com/us/tennessee/mikes-hole-in-the-wall-369421537"
+   ],
+   "notes": "Sources disagree on 535 vs 538 Cherokee Blvd. Confirm with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "big-bad-breakfast-chattanooga",
+  "name": "Big Bad Breakfast",
+  "categories": [
+   "restaurants"
+  ],
+  "neighborhoods": [
+   "northshore"
+  ],
+  "description": "Chef John Currence's Southern breakfast-and-lunch house, open mornings until mid-afternoon.",
+  "address": "313 Manufacturers Rd Ste 119, Chattanooga, TN 37405",
+  "lat": 35.0628,
+  "lng": -85.3142,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://noogatoday.6amcity.com/food/try-this-brunch-at-big-bad-breakfast-chattanooga",
+    "https://chattanoogapulse.com/dining-guide/chattanooga-dining-guide-breakfast-coffee-houses"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "fast-break-athletics",
+  "name": "Fast Break Athletics",
+  "categories": [
+   "shopping"
+  ],
+  "neighborhoods": [
+   "northshore"
+  ],
+  "description": "Running and walking specialty store, in business since 1977, known for personal shoe fittings.",
+  "address": "802 Hamilton Ave, Chattanooga, TN 37405",
+  "lat": 35.07,
+  "lng": -85.2985,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://www.timesfreepress.com/news/2024/apr/08/a-guide-to-chattanooga-sport-and-outdoor-shops/",
+    "https://reviews.birdeye.com/fast-break-athletics-166858480971555"
+   ],
+   "notes": "Store is in North Chattanooga a short drive from Frazier Ave, not on the main strip. Map pin is a rough estimate. Confirm with the business."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "street-rat-retail",
+  "name": "Street Rat Retail",
+  "categories": [
+   "shopping"
+  ],
+  "neighborhoods": [
+   "northshore"
+  ],
+  "description": "Vintage shop on Cherokee Boulevard mixing clothing with art, records, jewelry and local makers' goods.",
+  "address": "710 Cherokee Blvd, Chattanooga, TN 37405",
+  "lat": 35.0705,
+  "lng": -85.3178,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://www.welcometoyellowdoor.com/chattanoogas-funky-finds-our-5-favorite-secondhand-stores-to-shop",
+    "https://www.mapquest.com/us/tennessee/street-rat-retail-821245684"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "i-go-tokyo",
+  "name": "I Go Tokyo",
+  "categories": [
+   "shopping"
+  ],
+  "neighborhoods": [
+   "northshore"
+  ],
+  "description": "Japanese-imports boutique with stationery, linens, ceramics and kawaii gifts, plus a small lending library.",
+  "address": "34 Frazier Ave, Chattanooga, TN 37405",
+  "lat": 35.0633,
+  "lng": -85.3079,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://maps.roadtrippers.com/us/chattanooga-tn/shopping/i-go-tokyo",
+    "https://www.visitchattanooga.com/magazine-spring-summer/retail/new-drops/"
+   ],
+   "notes": "Store moved to Frazier Ave from Signal Mill; 34 Frazier is from one directory. Confirm with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "collective-clothing",
+  "name": "Collective Clothing",
+  "categories": [
+   "shopping"
+  ],
+  "neighborhoods": [
+   "northshore"
+  ],
+  "description": "Frazier Avenue vintage store open since 2009, with decades of clothing, band tees and vinyl.",
+  "address": "40 Frazier Ave, Chattanooga, TN 37405",
+  "lat": 35.0634,
+  "lng": -85.3076,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://www.airbnb.cat/things-to-do/places/782613",
+    "https://issuu.com/cityscopemagazine/docs/_cs2.24.final/s/47528165"
+   ],
+   "notes": "Shares the 40 Frazier address with another listing; confirm suite. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "sophies-shoppe",
+  "name": "Sophie's Shoppe",
+  "categories": [
+   "shopping"
+  ],
+  "neighborhoods": [
+   "northshore"
+  ],
+  "description": "Women- and family-owned gift and home store on the corner of North Market and West Manning.",
+  "address": "401 N Market St, Chattanooga, TN 37405",
+  "lat": 35.0668,
+  "lng": -85.3094,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://startpage.mapquest.com/us/tennessee/sophies-shoppe-303793760",
+    "https://www.chattanoogapulse.com/citylife/community-spotlight/discovering-sophie-s-shoppe/"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "four-bridges-outfitters",
+  "name": "Four Bridges Outfitters",
+  "categories": [
+   "shopping"
+  ],
+  "neighborhoods": [
+   "northshore"
+  ],
+  "description": "Consignment and new outdoor gear shop for climbers, paddlers, hikers and bikers.",
+  "address": "315 N Market St, Chattanooga, TN 37405",
+  "lat": 35.066,
+  "lng": -85.3095,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://www.timesfreepress.com/news/2024/apr/08/a-guide-to-chattanooga-sport-and-outdoor-shops/",
+    "https://chattanoogapulse.com/the-pulse-local-shopping-guide-sporting-goods"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "ugly-duck-vintage",
+  "name": "Ugly Duck Vintage",
+  "categories": [
+   "shopping"
+  ],
+  "neighborhoods": [
+   "northshore"
+  ],
+  "description": "Buy-sell-trade vintage clothing shop with pieces from the 1930s through the '90s.",
+  "address": "30 Frazier Ave Unit B, Chattanooga, TN 37405",
+  "lat": 35.0633,
+  "lng": -85.3081,
+  "website": "https://www.uglyduckvintage.com",
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://maps.apple.com/place?place-id=I11A70629BB3CDC8F",
+    "https://www.enjoyuniquestays.com/blog/the-coolest-independent-bookshops-record-stores-and-vintage-spots-in-chattanooga"
+   ],
+   "notes": "Older listings show 163 River St; newer ones show 30 Frazier Ave Unit B. Confirm with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "belle-rive-boutique",
+  "name": "Belle Rive Boutique",
+  "categories": [
+   "shopping"
+  ],
+  "neighborhoods": [
+   "northshore"
+  ],
+  "description": "Women's boutique with clothing, accessories and gifts on Frazier Avenue.",
+  "address": "113 Frazier Ave, Chattanooga, TN 37405",
+  "lat": 35.0636,
+  "lng": -85.306,
+  "website": "https://belleriveboutique.com",
+  "phone": "(423) 468-1099",
+  "verification": {
+   "status": "verified",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://belleriveboutique.com/policies/contact-information"
+   ],
+   "notes": "Address from the business's own website. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "chattanooga-souvenirs",
+  "name": "Chattanooga Souvenirs",
+  "categories": [
+   "shopping"
+  ],
+  "neighborhoods": [
+   "northshore"
+  ],
+  "description": "River Street souvenir shop with Chattanooga mementos and snacks such as warm pretzels.",
+  "address": "181 River St, Chattanooga, TN 37405",
+  "lat": 35.0625,
+  "lng": -85.3071,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://www.timesfreepress.com/news/2024/apr/08/the-chattanooga-shopping-guide-gift-and-souvenir/"
+   ],
+   "notes": "Single source (Times Free Press shopping guide). Confirm with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "starbucks-northshore",
+  "name": "Starbucks (Northshore)",
+  "categories": [
+   "coffee"
+  ],
+  "neighborhoods": [
+   "northshore"
+  ],
+  "description": "Corner Starbucks in the 10/North building with a patio looking toward Renaissance Park.",
+  "address": "20 Cherokee Blvd, Chattanooga, TN 37405",
+  "lat": 35.0644,
+  "lng": -85.3104,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://reviews.birdeye.com/starbucks-north-shore-173505370739464",
+    "https://www.chattanoogan.com/2018/6/1/369784/Vision-Hospitality-Group-Inc.-Opens.aspx"
+   ],
+   "notes": "National chain; confirm hours on the chain's store locator. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "stone-cup-cafe",
+  "name": "Stone Cup Cafe",
+  "categories": [
+   "coffee"
+  ],
+  "neighborhoods": [
+   "northshore"
+  ],
+  "description": "Frazier Avenue coffee shop open since 1997, roasting its own beans, with upstairs seating and bridge views.",
+  "address": "208 Frazier Ave, Chattanooga, TN 37405",
+  "lat": 35.064,
+  "lng": -85.3039,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://noogatoday.6amcity.com/city-guide/work/coffee-shops-in-chattanooga",
+    "https://phoenix.aws.mapquest.com/us/tennessee/stone-cup-cafe-303682076"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "mean-mug-northshore",
+  "name": "Mean Mug Coffeehouse (Northshore)",
+  "categories": [
+   "coffee"
+  ],
+  "neighborhoods": [
+   "northshore"
+  ],
+  "description": "Local coffeehouse and roaster serving breakfast and lunch, known for oversized cinnamon rolls.",
+  "address": "205 Manufacturers Rd Ste 109, Chattanooga, TN 37405",
+  "lat": 35.0634,
+  "lng": -85.3121,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://startpage.mapquest.com/us/tennessee/mean-mug-coffeehouse-northshore-378894047",
+    "https://www.ubereats.com/store/mean-mug-coffeehouse-manufacturers-rd/SMwStlANQzCbfRGbD3FIiQ/ebec1c1a-bf93-487f-9fb0-9e678e5cd403/e8848b50-0260-4b9c-966e-0047d56a25ed"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "be-caffeinated-northshore",
+  "name": "(Be)Caffeinated (Northshore)",
+  "categories": [
+   "coffee"
+  ],
+  "neighborhoods": [
+   "northshore"
+  ],
+  "description": "Local coffee shop with a drive-thru, an in-house roaster and covered and open-air patios.",
+  "address": "14 W Kent St, Chattanooga, TN 37405",
+  "lat": 35.0668,
+  "lng": -85.3088,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://www.joinlolo.com/merchants/becaffeinated-chattanooga-tn-37405",
+    "https://startpage.mapquest.com/us/tennessee/be-caffeinated-423841444"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "mug-shotz-coffee-co",
+  "name": "Mug Shotz Coffee Co.",
+  "categories": [
+   "coffee"
+  ],
+  "neighborhoods": [
+   "northshore"
+  ],
+  "description": "New mobster-themed coffee shop on Frazier serving espresso drinks, cold brew, lemonades and teas.",
+  "address": "330 Frazier Ave #100, Chattanooga, TN 37405",
+  "lat": 35.0645,
+  "lng": -85.3013,
+  "website": "https://mugshotz.net",
+  "verification": {
+   "status": "verified",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://mugshotz.net/"
+   ],
+   "notes": "Address from the business's own website. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "real-roots-cafe",
+  "name": "Real Roots Cafe",
+  "categories": [
+   "coffee",
+   "restaurants"
+  ],
+  "neighborhoods": [
+   "northshore"
+  ],
+  "description": "All-vegan cafe with coffee, smoothies, bowls and paninis, and a dog-friendly patio.",
+  "address": "607 N Market St Ste 103, Chattanooga, TN 37405",
+  "lat": 35.069,
+  "lng": -85.3093,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://phoenix.aws.mapquest.com/us/tennessee/real-roots-cafe-378620304",
+    "https://vrg.org/blog/?p=21436"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
  }
 ]
