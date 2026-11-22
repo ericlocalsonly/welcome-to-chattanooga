@@ -2126,31 +2126,6 @@
   "active": true
  },
  {
-  "id": "street-rat-retail",
-  "name": "Street Rat Retail",
-  "categories": [
-   "shopping"
-  ],
-  "neighborhoods": [
-   "northshore"
-  ],
-  "description": "Vintage shop on Cherokee Boulevard mixing clothing with art, records, jewelry and local makers' goods.",
-  "address": "710 Cherokee Blvd, Chattanooga, TN 37405",
-  "lat": 35.0705,
-  "lng": -85.3178,
-  "verification": {
-   "status": "needs_review",
-   "lastVerified": "2026-11-21",
-   "sources": [
-    "https://www.welcometoyellowdoor.com/chattanoogas-funky-finds-our-5-favorite-secondhand-stores-to-shop",
-    "https://www.mapquest.com/us/tennessee/street-rat-retail-821245684"
-   ],
-   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
-  },
-  "coordsApproximate": true,
-  "active": true
- },
- {
   "id": "i-go-tokyo",
   "name": "I Go Tokyo",
   "categories": [
@@ -2473,6 +2448,1242 @@
     "https://vrg.org/blog/?p=21436"
    ],
    "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "overboard-bar-and-grille",
+  "name": "Overboard Bar & Grille",
+  "categories": [
+   "restaurants",
+   "nightlife"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "Burger bar and grill on the second deck of the Southern Belle riverboat, with a river-view patio and bar games.",
+  "address": "201 Riverfront Pkwy, Chattanooga, TN 37402",
+  "lat": 35.0576,
+  "lng": -85.3093,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://chattanoogariverboat.com/overboard-bar-grille/",
+    "https://order.online/store/27834174"
+   ],
+   "notes": "Docked with the Southern Belle; directories list both 151 and 201 Riverfront Pkwy. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "scotties-on-the-river",
+  "name": "Scottie's on the River",
+  "categories": [
+   "restaurants"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "Riverside seafood and steak house next to the SpringHill Suites, opened in 2018.",
+  "address": "491 Riverfront Pkwy, Chattanooga, TN 37402",
+  "lat": 35.0555,
+  "lng": -85.3165,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://startpage.mapquest.com/us/tennessee/scotties-on-the-river-387630924"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "agave-and-rye-chattanooga",
+  "name": "Agave & Rye",
+  "categories": [
+   "restaurants",
+   "nightlife"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "Tequila-and-bourbon hall serving over-the-top tacos, across Chestnut Street from the Tennessee Aquarium.",
+  "address": "185 Chestnut St, Chattanooga, TN 37402",
+  "lat": 35.0561,
+  "lng": -85.3117,
+  "website": "https://agaveandrye.com/locations/agave-rye-chattanooga",
+  "phone": "(423) 475-6403",
+  "verification": {
+   "status": "verified",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://agaveandrye.com/locations/agave-rye-chattanooga"
+   ],
+   "notes": "Address from the business's own website or an official source. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "wooden-city",
+  "name": "Wooden City",
+  "categories": [
+   "restaurants",
+   "nightlife"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "Upscale-casual American spot near the Aquarium known for tavern burgers, wood-fired pizza and cocktails.",
+  "address": "203 Broad St, Chattanooga, TN 37402",
+  "lat": 35.0541,
+  "lng": -85.3106,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://www.aaa.com/tripcanvas/restaurant/wooden-city-AA90660",
+    "https://www.timesfreepress.com/news/2022/sep/01/wooden-city-to-open-in-chattanooga-as-part-of/"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "pucketts-chattanooga",
+  "name": "Puckett's Restaurant",
+  "categories": [
+   "restaurants",
+   "nightlife"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "Southern comfort food and barbecue on Aquarium Plaza, with live music on weekends.",
+  "address": "2 Aquarium Way, Chattanooga, TN 37402",
+  "lat": 35.0553,
+  "lng": -85.3097,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://www.opentable.com/r/pucketts-chattanooga",
+    "https://www.visitchattanooga.com/blog/post/celebrating-ten-years-of-pucketts-in-chatt/"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "buffalo-wild-wings-downtown",
+  "name": "Buffalo Wild Wings (Downtown)",
+  "categories": [
+   "restaurants",
+   "nightlife"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "Chain sports bar serving wings and burgers near the riverfront.",
+  "address": "120 Market St, Chattanooga, TN 37402",
+  "lat": 35.0545,
+  "lng": -85.3089,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://postmates.com/store/buffalo-wild-wings-120-market-st/nBE62vRjR0qCyh_bqUbzkA",
+    "https://directory.yext.com/en/buffalo-wild-wings-1629846787"
+   ],
+   "notes": "National chain; confirm hours on the chain's store locator. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "metropolis-cafe-chattanooga",
+  "name": "Metropolis Cafe",
+  "categories": [
+   "restaurants"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "Mediterranean and Greek kitchen with gyros, kabobs and shawarma, plus a private party room.",
+  "address": "200 Market St, Chattanooga, TN 37402",
+  "lat": 35.0537,
+  "lng": -85.3089,
+  "website": "https://chattanooga.themetropoliscafe.com",
+  "verification": {
+   "status": "verified",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://chattanooga.themetropoliscafe.com/"
+   ],
+   "notes": "Address from the business's own website or an official source. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "riverport-grille",
+  "name": "Riverport Grille",
+  "categories": [
+   "restaurants"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "Large, family-friendly riverfront restaurant mixing Southern comfort food with seafood and steaks.",
+  "address": "224 Broad St, Chattanooga, TN 37402",
+  "lat": 35.0538,
+  "lng": -85.3102,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://order.online/store/-30559995/",
+    "https://giantscreencinema.com/?p=8321"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "ruby-sunshine-chattanooga",
+  "name": "Ruby Sunshine",
+  "categories": [
+   "restaurants"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "New Orleans–style brunch spot with beignets, shrimp and grits, and brunch cocktails.",
+  "address": "405 Market St, Chattanooga, TN 37402",
+  "lat": 35.0515,
+  "lng": -85.3091,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://www.iexitapp.com/Tennessee/I-124/Exit%201C/34229",
+    "https://giantscreencinema.com/?p=8321"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "maple-street-biscuit-city-center",
+  "name": "Maple Street Biscuit Co. (City Center)",
+  "categories": [
+   "restaurants"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "Breakfast-and-lunch biscuit house with fried-chicken biscuits, gravy and house-made jams.",
+  "address": "407 Broad St, Chattanooga, TN 37402",
+  "lat": 35.0515,
+  "lng": -85.3106,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://maps.roadtrippers.com/us/chattanooga-tn/food-drink/maple-street-biscuit-company-city-center",
+    "https://www.timesfreepress.com/news/2014/oct/09/maple-street-biscuits-hearty-addition-downtown/"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "rodizio-grill-chattanooga",
+  "name": "Rodizio Grill",
+  "categories": [
+   "restaurants"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "Brazilian steakhouse where servers carve skewered meats tableside, plus a salad bar.",
+  "address": "439 Broad St, Chattanooga, TN 37402",
+  "lat": 35.0511,
+  "lng": -85.3106,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://www.aaa.com/tripcanvas/restaurant/rodizio-grill-brazilian-steakhouse-chattanooga-downtown-AA88437"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "mayan-kitchen",
+  "name": "Mayan Kitchen",
+  "categories": [
+   "restaurants",
+   "nightlife"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "Latin American kitchen with a tequila bar, in the former Sugar's Ribs space on Broad Street.",
+  "address": "507 Broad St, Chattanooga, TN 37402",
+  "lat": 35.0504,
+  "lng": -85.3106,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://www.mapquest.com/us/tennessee/mayan-kitchen-378913088",
+    "https://tableagent.com/chattanooga/mayan-kitchen/"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "little-venezuela",
+  "name": "Little Venezuela",
+  "categories": [
+   "restaurants"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "Family-run spot billed as the city's first Venezuelan restaurant: arepas, cachapas and empanadas.",
+  "address": "511 Market St, Chattanooga, TN 37402",
+  "lat": 35.0504,
+  "lng": -85.3099,
+  "website": "https://littlevenezuelarestauranttn.com",
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://www.yelp.com/biz/little-venezuela-restaurant-chattanooga",
+    "https://maps.apple.com/place?place-id=I8F7155A155457F34"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "whitebird",
+  "name": "Whitebird",
+  "categories": [
+   "restaurants"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "Modern American restaurant in The Edwin Hotel at the foot of the Walnut Street Bridge.",
+  "address": "102 Walnut St, Chattanooga, TN 37403",
+  "lat": 35.0582,
+  "lng": -85.307,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://www.marriott.com/en-us/hotels/chaak-the-edwin-hotel-autograph-collection/dining",
+    "https://giantscreencinema.com/?p=8321"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "tonys-pasta-shop",
+  "name": "Tony's Pasta Shop & Trattoria",
+  "categories": [
+   "restaurants"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "Italian trattoria in a former carriage house in the Bluff View Art District, with fresh pasta and a river-view deck.",
+  "address": "212 High St, Chattanooga, TN 37403",
+  "lat": 35.0556,
+  "lng": -85.3047,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://startpage.mapquest.com/us/tennessee/tonys-pasta-shop-trattoria-5114705"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "universal-joint-chattanooga",
+  "name": "Universal Joint",
+  "categories": [
+   "restaurants",
+   "nightlife"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "Casual bar and grill in a converted 1940s service station near UTC, with a big outdoor patio.",
+  "address": "532 Lookout St, Chattanooga, TN 37403",
+  "lat": 35.0468,
+  "lng": -85.3048,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://www.mapquest.com/us/tennessee/universal-joint-356194824"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "st-johns-restaurant",
+  "name": "St. John's Restaurant",
+  "categories": [
+   "restaurants"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "Fine-dining room in the historic St. John's Hotel building serving seasonal regional American cuisine.",
+  "address": "1278 Market St, Chattanooga, TN 37402",
+  "lat": 35.0412,
+  "lng": -85.3085,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://yellowpages.com/chattanooga-tn/mip/st-johns-restaurant-12333939",
+    "https://www.tnvacation.com/local/chattanooga-st-johns-restaurant"
+   ],
+   "notes": "On the Southside edge of downtown. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "st-johns-meeting-place",
+  "name": "St. John's Meeting Place",
+  "categories": [
+   "restaurants",
+   "nightlife"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "Casual sister to St. John's, sharing its kitchen, with a popular weekday happy hour.",
+  "address": "1278 Market St, Chattanooga, TN 37402",
+  "lat": 35.0413,
+  "lng": -85.3087,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://www.opentable.com/r/st-johns-meeting-place-chattanooga?lang=en"
+   ],
+   "notes": "OpenTable lists 1278 Market St; other directories list 1274. On the Southside edge of downtown. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "easy-bistro",
+  "name": "Easy Bistro & Bar",
+  "categories": [
+   "restaurants",
+   "nightlife"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "Southern-inflected bistro with an open kitchen, full bar and raw bar.",
+  "address": "801 Chestnut St, Chattanooga, TN 37402",
+  "lat": 35.047,
+  "lng": -85.312,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://giantscreencinema.com/?p=8321"
+   ],
+   "notes": "Single source for the address (moved to the West Village in 2020). Confirm with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "old-gilman-grill",
+  "name": "Old Gilman Grill",
+  "categories": [
+   "restaurants"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "Upscale American restaurant with a French twist in the 1910 Gilman Paint building, across from the Westin.",
+  "address": "216 W 8th St, Chattanooga, TN 37402",
+  "lat": 35.047,
+  "lng": -85.3119,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://www.chattanoogan.com/2018/7/20/373175/Old-Gilman-Grill-To-Open-In-West-Village.aspx",
+    "https://opentable.co.uk/r/old-gilman-grill-chattanooga"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "attack-of-the-tatsu",
+  "name": "Attack of the Tatsu",
+  "categories": [
+   "restaurants",
+   "nightlife"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "Ramen and katsu shop up front, with a hidden izakaya bar pouring sake and Japanese spirits in back.",
+  "address": "818 Georgia Ave Unit 118, Chattanooga, TN 37402",
+  "lat": 35.0462,
+  "lng": -85.3068,
+  "website": "https://attackofthetatsu.com",
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://www.kupi.com/en-ae/explore/united-states/chattanooga/attack-of-the-tatsu",
+    "https://noogatoday.6amcity.com/newsletter/0000018a-f2eb-d4c7-a9bb-ffff9290002f"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "public-house-chattanooga",
+  "name": "Public House",
+  "categories": [
+   "restaurants",
+   "nightlife"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "Long-running Warehouse Row restaurant with elevated Southern comfort food and a lively bar.",
+  "address": "1110 Market St, Chattanooga, TN 37402",
+  "lat": 35.0431,
+  "lng": -85.3088,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://www.airbnb.com/things-to-do/places/189946",
+    "https://opentable.com/r/public-house-chattanooga"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "amada-tapas-and-wine",
+  "name": "Amada Tapas & Wine",
+  "categories": [
+   "restaurants",
+   "nightlife"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "Family-owned Spanish tapas and wine bar with sangria and a Spanish-forward wine list.",
+  "address": "1413 Chestnut St, Chattanooga, TN 37402",
+  "lat": 35.0396,
+  "lng": -85.3113,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://www.opentable.com/r/amada-tapas-chattanooga?lang=nl",
+    "https://newschannel9.com/the-daily-refresh/date-night-at-amada-tapas"
+   ],
+   "notes": "Listed as 'Amanda Tapas and Wine' in the owner's list; the business name is Amada. On the Southside edge of downtown. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "parkway-pourhouse",
+  "name": "Parkway Pourhouse",
+  "categories": [
+   "restaurants",
+   "nightlife"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "New Orleans–inspired bar and grill beside the Riverwalk with a covered, dog-friendly patio.",
+  "address": "801 Riverfront Pkwy, Chattanooga, TN 37402",
+  "lat": 35.053,
+  "lng": -85.3195,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://www.airbnb.dk/things-to-do/places/3036512",
+    "https://tinkerma.squarespace.com/food-beverage/parkway-pourhouse"
+   ],
+   "notes": "Single directory source for the street number. Confirm with the business. Map pin is a rough estimate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "yellow-deli-chattanooga",
+  "name": "Yellow Deli",
+  "categories": [
+   "restaurants"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "Hand-built, two-story deli next to UTC serving hot sandwiches on fresh bread; run by a communal church group.",
+  "address": "737 McCallie Ave, Chattanooga, TN 37403",
+  "lat": 35.0455,
+  "lng": -85.3005,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://www.chattanoogan.com/2008/5/2/126956/Yellow-Deli-Back-After-Long-Hiatus.aspx",
+    "https://www.mapquest.com/us/tennessee/yellow-deli-44091822"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "warehouse-row",
+  "name": "Warehouse Row",
+  "categories": [
+   "shopping"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "Historic warehouse block turned shopping and dining center, home to national and local boutiques.",
+  "address": "1110 Market St, Chattanooga, TN 37402",
+  "lat": 35.0429,
+  "lng": -85.3086,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://www.mapquest.com/us/tennessee/warehouse-row-5113482",
+    "https://www.visitchattanooga.com/blog/post/chattanooga-shopping-guide/"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "life-is-good-chattanooga",
+  "name": "Life Is Good Chattanooga",
+  "categories": [
+   "shopping"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "Locally owned Life is Good shop with upbeat apparel and Chattanooga-themed gifts.",
+  "address": "411 Broad St Unit 101, Chattanooga, TN 37402",
+  "lat": 35.0514,
+  "lng": -85.3104,
+  "website": "https://www.ligchattanooga.com",
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://www.chattanoogan.com/2021/10/7/436236/Life-Is-Good-Store-Opens-In-Chattanooga.aspx",
+    "https://www.mapquest.com/us/tennessee/life-is-good-543266121"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "madewell-chattanooga",
+  "name": "Madewell",
+  "categories": [
+   "shopping"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "National denim and apparel brand on the first floor of Warehouse Row.",
+  "address": "1110 Market St, Chattanooga, TN 37402",
+  "lat": 35.0428,
+  "lng": -85.3088,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://www.timesfreepress.com/news/2022/jun/03/madewell-brings-denim-brand-store-warehouse-row/"
+   ],
+   "notes": "Inside Warehouse Row; suite not confirmed. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "rocket-fizz-chattanooga",
+  "name": "Rocket Fizz",
+  "categories": [
+   "shopping"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "Retro soda-pop and candy shop stocked with hundreds of bottled sodas and international sweets.",
+  "address": "411 Broad St Ste 105, Chattanooga, TN 37402",
+  "lat": 35.0513,
+  "lng": -85.3107,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://overlookmaps.com/places/rocket-fizz-chattanooga-4845822566950566",
+    "https://chattanoogaradiotv.com/?p=3770"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "monkees-of-chattanooga",
+  "name": "Monkee's of Chattanooga",
+  "categories": [
+   "shopping"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "Women's boutique with designer clothing, shoes and accessories inside The Read House.",
+  "address": "107 W M.L.K. Blvd, Chattanooga, TN 37402",
+  "lat": 35.0466,
+  "lng": -85.3105,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://www.thereadhousehotel.com/attractions/monkees-of-chattanooga/"
+   ],
+   "notes": "Located in The Read House; address is the hotel's. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "antibes-boutique",
+  "name": "Antibes",
+  "categories": [
+   "shopping"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "West Village boutique with an eclectic mix of clothing at a range of price points.",
+  "address": "813 Chestnut St, Chattanooga, TN 37402",
+  "lat": 35.0469,
+  "lng": -85.3122,
+  "website": "https://antibesclothing.com",
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://local.yahoo.com/info-220162473-antibes-chattanooga/",
+    "https://www.westvillagechattanooga.com/directory"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "embellish-collection",
+  "name": "Embellish Collection",
+  "categories": [
+   "shopping"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "High-end women's boutique in Warehouse Row known for designer shoes, handbags and clothing.",
+  "address": "1110 Market St Ste 105, Chattanooga, TN 37402",
+  "lat": 35.043,
+  "lng": -85.3085,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://www.timesfreepress.com/news/2024/apr/16/check-out-these-five-chattanooga-area-fashion-and-accessory-shops/"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "hemline-chattanooga",
+  "name": "Hemline",
+  "categories": [
+   "shopping"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "Women's boutique in Warehouse Row with on-trend clothing and accessories.",
+  "address": "1110 Market St Ste 117A, Chattanooga, TN 37402",
+  "lat": 35.0427,
+  "lng": -85.3087,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://www.chamberofcommerce.com/united-states/tennessee/chattanooga/clothing-store/2014401875-life-is-good-chattanooga",
+    "https://noogatoday.6amcity.com/history-walking-tour-warehouse-row-chattanooga"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "national-medal-of-honor-heritage-center",
+  "name": "National Medal of Honor Heritage Center",
+  "categories": [
+   "attractions"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "Museum on Aquarium Plaza telling the stories of Medal of Honor recipients; Chattanooga is the medal's birthplace.",
+  "address": "2 W Aquarium Way Ste 104, Chattanooga, TN 37402",
+  "lat": 35.0554,
+  "lng": -85.3101,
+  "website": "https://www.mohhc.org",
+  "verification": {
+   "status": "verified",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://www.mohhc.org/?p=23"
+   ],
+   "notes": "Address from the business's own website or an official source. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "escape-experience-chattanooga",
+  "name": "Escape Experience",
+  "categories": [
+   "attractions"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "Immersive escape rooms, including a train-themed room at the Chattanooga Choo Choo.",
+  "address": "1800 Rossville Ave Ste 1, Chattanooga, TN 37408",
+  "lat": 35.0335,
+  "lng": -85.304,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://morty.app/location/escape-experience/escape-experience-chattanooga",
+    "https://morty.app/location/escape-experience/escape-experience-chattanooga-choo-choo"
+   ],
+   "notes": "Older listings show 224 Broad St (now Riverport Grille); current booking pages list 1800 Rossville Ave on the Southside plus a room at 16 Choo Choo Ave. Confirm with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "chattanooga-ghost-tours",
+  "name": "Chattanooga Ghost Tours",
+  "categories": [
+   "attractions"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "Nightly walking ghost tours of downtown, starting from the company's steampunk-themed shop.",
+  "address": "57 E 5th St, Chattanooga, TN 37402",
+  "lat": 35.0505,
+  "lng": -85.3082,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://www.travelocity.com/things-to-do/murder-mayhem-haunted-history-walking-tour.a1349672.activity-details",
+    "https://maps.roadtrippers.com/us/chattanooga-tn/activities/chattanooga-ghost-tours-chattanooga"
+   ],
+   "notes": "Meeting point per booking listings; an older listing shows 138 Market St. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "time-to-escape-chattanooga",
+  "name": "Time To Escape",
+  "categories": [
+   "attractions"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "Downtown escape rooms with family-friendly themes such as King Tut and a Christmas room.",
+  "address": "432 Market St Ste 204, Chattanooga, TN 37402",
+  "lat": 35.0512,
+  "lng": -85.3088,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://chattanooga-tn.yiftee.com/business/time-to-escape-the-escape-room-experience-llc-501158",
+    "https://maps.roadtrippers.com/us/chattanooga-tn/places/time-to-escape-chattanooga"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "southern-belle-riverboat",
+  "name": "Southern Belle Riverboat",
+  "categories": [
+   "attractions"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "Sightseeing, lunch and dinner cruises on the Tennessee River, leaving from the downtown pier.",
+  "address": "201 Riverfront Pkwy, Pier 2, Chattanooga, TN 37402",
+  "lat": 35.0574,
+  "lng": -85.3097,
+  "website": "https://chattanoogariverboat.com",
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://tnvacation.com/point-of-interest/southern-belle-riverboat",
+    "https://www.aaa.com/travelinfo/tn/chattanooga/attractions/chattanooga-riverboat-co-513658.html"
+   ],
+   "notes": "Directories list both 151 and 201 Riverfront Pkwy for the boarding area. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "burlaep",
+  "name": "Burlaep Print & Press",
+  "categories": [
+   "coffee",
+   "shopping"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "Coffee shop at the front of a print-and-apparel warehouse, pouring rotating guest roasters.",
+  "address": "801 E 11th St, Chattanooga, TN 37403",
+  "lat": 35.043,
+  "lng": -85.2985,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://www.mapquest.com/us/tennessee/burlaep-430451587",
+    "https://www.visitchattanooga.com/blog/post/sip-happens-chattanoogas-must-visit-coffee-shops/"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "culture-coffee-co",
+  "name": "Culture Coffee Co.",
+  "categories": [
+   "coffee"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "Neighborhood cafe next to UTC with specialty lattes and a monthly themed drink lineup.",
+  "address": "610 Georgia Ave, Chattanooga, TN 37402",
+  "lat": 35.049,
+  "lng": -85.3062,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://www.toasttab.com/local/order/culture-coffee-co-610-georgia-ave",
+    "https://mycoffeeexplorer.com/shops/culture-coffee-co-chattanooga"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "rembrandts-coffee-house",
+  "name": "Rembrandt's Coffee House",
+  "categories": [
+   "coffee"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "European-style cafe in the Bluff View Art District with house pastries, chocolates and a garden patio.",
+  "address": "204 High St, Chattanooga, TN 37403",
+  "lat": 35.0558,
+  "lng": -85.305,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://startpage.mapquest.com/us/tennessee/rembrandts-coffee-house-5114703"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "sleepyhead-coffee-downtown",
+  "name": "Sleepyhead Coffee",
+  "categories": [
+   "coffee"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "Plant-filled coffee shop next to the Tivoli Theatre with house syrups and vegan pastries.",
+  "address": "735 Broad St Ste 104, Chattanooga, TN 37402",
+  "lat": 35.0478,
+  "lng": -85.3104,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://chattanooga-tn.yiftee.com/business/sleepyhead-coffee-499882",
+    "https://noogatoday.6amcity.com/city-guide/work/coffee-shops-in-chattanooga"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "trail-town-coffee",
+  "name": "Trail Town Coffee",
+  "categories": [
+   "coffee"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "Outdoors-themed downtown coffee shop serving classic lattes and seasonal drinks.",
+  "address": "225 Broad St, Chattanooga, TN 37402",
+  "lat": 35.0537,
+  "lng": -85.3107,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://cremaapp.com/shop/82e283d9-5d93-4246-ad92-cd06ad6e898f",
+    "https://www.visitchattanooga.com/blog/post/sip-happens-chattanoogas-must-visit-coffee-shops/"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "cadence-coffee-company",
+  "name": "Cadence Coffee Company",
+  "categories": [
+   "coffee"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "Mission-driven cafe since 2011 that donates a share of sales to local nonprofits.",
+  "address": "11 E 7th St, Chattanooga, TN 37402",
+  "lat": 35.0484,
+  "lng": -85.3085,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://noogatoday.6amcity.com/city-guide/work/coffee-shops-in-chattanooga",
+    "https://mycoffeeexplorer.com/shops/cadence-coffee-co-chattanooga"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "hungry-mother",
+  "name": "Hungry Mother",
+  "categories": [
+   "coffee",
+   "restaurants"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "Morning cafe inside The Bitter Alibi serving espresso, bagels and stecca-bread sandwiches.",
+  "address": "825 Houston St, Chattanooga, TN 37403",
+  "lat": 35.0455,
+  "lng": -85.3035,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://toast.app/r/bedhead-llc-825-houston-st/order",
+    "https://www.hits96.com/?p=145602"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "provisions-edwin",
+  "name": "Provisions",
+  "categories": [
+   "coffee"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "Coffee house in the lobby of The Edwin Hotel with pastries, juices and grab-and-go sandwiches.",
+  "address": "102 Walnut St, Chattanooga, TN 37403",
+  "lat": 35.0583,
+  "lng": -85.3072,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://www.marriott.com/en-us/hotels/chaak-the-edwin-hotel-autograph-collection/dining",
+    "https://www.mapquest.com/us/tennessee/provisions-388360175"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "medal-of-honor-coffee-bar",
+  "name": "Medal of Honor Coffee Bar",
+  "categories": [
+   "coffee"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "Coffee bar inside the gift shop of the National Medal of Honor Heritage Center.",
+  "address": "2 W Aquarium Way Ste 104, Chattanooga, TN 37402",
+  "lat": 35.0555,
+  "lng": -85.3102,
+  "verification": {
+   "status": "verified",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://www.mohhc.org/?p=33"
+   ],
+   "notes": "Located in the Heritage Center's gift shop per the center's website; listed as 'Metal of Honor' in the owner's list. Hours follow the museum's. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "bessie-smith-cultural-center",
+  "name": "Bessie Smith Cultural Center",
+  "categories": [
+   "arts"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "African American history museum and performance hall honoring Chattanooga-born blues legend Bessie Smith.",
+  "address": "200 E M.L. King Blvd, Chattanooga, TN 37403",
+  "lat": 35.0458,
+  "lng": -85.3062,
+  "website": "https://www.bessiesmithcc.org",
+  "verification": {
+   "status": "verified",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://www.bessiesmithcc.org/event-details/museum-admission",
+    "https://www.timesfreepress.com/news/edge/story/2021/apr/01/brand-bessie-smith-cultural-center/543764/"
+   ],
+   "notes": "Address from the business's own website or an official source. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "utc-fine-arts-center",
+  "name": "UTC Fine Arts Center",
+  "categories": [
+   "arts"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "UTC's home for music, theatre and visual arts, with concert hall, theater and free ICA galleries.",
+  "address": "752 Vine St, Chattanooga, TN 37403",
+  "lat": 35.0458,
+  "lng": -85.3,
+  "website": "https://www.utc.edu/arts-and-sciences/fine-arts-center",
+  "verification": {
+   "status": "verified",
+   "lastVerified": "2026-11-21",
+   "sources": [
+    "https://www.utc.edu/arts-and-sciences/fine-arts-center"
+   ],
+   "notes": "Address from the business's own website or an official source. Map pin is approximate."
   },
   "coordsApproximate": true,
   "active": true
