@@ -113,7 +113,7 @@ export default async function HomePage() {
             <p className="eyebrow">Share your experience</p>
             <h2 id="review" className="mt-1 text-2xl font-semibold">Tell others about Locals Only</h2>
             <p className="mt-2 text-sm leading-relaxed text-charcoal-600">
-              Did you enjoy your experience at Locals Only Gifts and Goods? Tell us about it in a quick Google review — it helps other people find Chattanooga-made gifts and keeps this free guide going.
+              Did you enjoy your experience at Locals Only Gifts and Goods? Tell us about it in a quick Google review. We'd love to hear from you!
             </p>
           </div>
           <a href={GOOGLE_REVIEW_URL} target="_blank" rel="noopener noreferrer" className="btn-accent shrink-0">
