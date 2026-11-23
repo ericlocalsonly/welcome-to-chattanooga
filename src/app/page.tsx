@@ -110,10 +110,10 @@ export default async function HomePage() {
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img src="/brand/locals-only-logo-sm.png" alt="" loading="lazy" className="h-20 w-20 shrink-0 rounded-2xl bg-white object-contain p-2 ring-1 ring-charcoal/10" />
           <div className="flex-1">
-            <p className="eyebrow">Enjoying the guide?</p>
+            <p className="eyebrow">Share your experience</p>
             <h2 id="review" className="mt-1 text-2xl font-semibold">Tell others about Locals Only</h2>
             <p className="mt-2 text-sm leading-relaxed text-charcoal-600">
-              This free guide is brought to you by Locals Only Gifts and Goods on Frazier Avenue. If you've visited the shop, a quick Google review helps other people find Chattanooga-made gifts and keeps this guide going.
+              Did you enjoy your experience at Locals Only Gifts and Goods? Tell us about it in a quick Google review — it helps other people find Chattanooga-made gifts and keeps this free guide going.
             </p>
           </div>
           <a href={GOOGLE_REVIEW_URL} target="_blank" rel="noopener noreferrer" className="btn-accent shrink-0">
