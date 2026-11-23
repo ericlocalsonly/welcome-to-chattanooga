@@ -1,11 +1,14 @@
 import Link from "next/link";
-import { ArrowRight } from "lucide-react";
+import { ArrowRight, Star } from "lucide-react";
 import { PageHero, SectionHeading } from "@/components/PageHero";
 import { WeatherWidget } from "@/components/weather/WeatherWidget";
 import { EventCard } from "@/components/events/EventCard";
 import { getNeighborhoods, getUpcomingEvents } from "@/lib/data";
 
 export const revalidate = 300;
+
+/** Google's official "write a review" link for Locals Only Gifts & Goods (10 Frazier Ave). */
+const GOOGLE_REVIEW_URL = "https://search.google.com/local/writereview?placeid=ChIJE5DZi1leYIgRtDLRDP9FRCM";
 
 const FEATURES = [
   { href: "/neighborhoods", title: "Explore Our Neighborhoods", text: "Five districts, five personalities — with maps of where to eat, shop, and wander.", img: "/images/coolidge-park-sm.jpg", alt: "Aerial view of Coolidge Park and the Walnut Street Bridge" },
@@ -100,6 +103,23 @@ export default async function HomePage() {
             </li>
           ))}
         </ul>
+      </section>
+
+      <section className="container-page mt-20" aria-labelledby="review">
+        <div className="card flex flex-col items-start gap-5 p-6 sm:flex-row sm:items-center sm:p-8">
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img src="/brand/locals-only-logo-sm.png" alt="" loading="lazy" className="h-20 w-20 shrink-0 rounded-2xl bg-white object-contain p-2 ring-1 ring-charcoal/10" />
+          <div className="flex-1">
+            <p className="eyebrow">Enjoying the guide?</p>
+            <h2 id="review" className="mt-1 text-2xl font-semibold">Tell others about Locals Only</h2>
+            <p className="mt-2 text-sm leading-relaxed text-charcoal-600">
+              This free guide is brought to you by Locals Only Gifts and Goods on Frazier Avenue. If you've visited the shop, a quick Google review helps other people find Chattanooga-made gifts and keeps this guide going.
+            </p>
+          </div>
+          <a href={GOOGLE_REVIEW_URL} target="_blank" rel="noopener noreferrer" className="btn-accent shrink-0">
+            <Star aria-hidden className="h-4 w-4" />Leave a Google review<span className="sr-only"> (opens in a new tab)</span>
+          </a>
+        </div>
       </section>
 
       {events.length > 3 && (
