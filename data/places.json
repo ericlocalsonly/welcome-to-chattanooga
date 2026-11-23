@@ -2593,10 +2593,10 @@
   ],
   "description": "Chain sports bar serving wings and burgers near the riverfront.",
   "address": "120 Market St, Chattanooga, TN 37402",
-  "lat": 35.0545,
-  "lng": -85.3089,
+  "lat": 35.05561,
+  "lng": -85.309503,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://postmates.com/store/buffalo-wild-wings-120-market-st/nBE62vRjR0qCyh_bqUbzkA",
@@ -2605,7 +2605,8 @@
    "notes": "National chain; confirm hours on the chain's store locator. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 634-0468"
  },
  {
   "id": "metropolis-cafe-chattanooga",
@@ -2922,7 +2923,7 @@
   "lat": 35.047,
   "lng": -85.312,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://giantscreencinema.com/?p=8321"
@@ -2930,7 +2931,8 @@
    "notes": "Single source for the address (moved to the West Village in 2020). Confirm with the business. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 266-1121"
  },
  {
   "id": "old-gilman-grill",
@@ -2973,7 +2975,7 @@
   "lng": -85.3068,
   "website": "https://attackofthetatsu.com",
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://www.kupi.com/en-ae/explore/united-states/chattanooga/attack-of-the-tatsu",
@@ -2982,7 +2984,8 @@
    "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 531-4208"
  },
  {
   "id": "public-house-chattanooga",
@@ -3022,10 +3025,10 @@
   ],
   "description": "Family-owned Spanish tapas and wine bar with sangria and a Spanish-forward wine list.",
   "address": "1413 Chestnut St, Chattanooga, TN 37402",
-  "lat": 35.0396,
-  "lng": -85.3113,
+  "lat": 35.038281,
+  "lng": -85.312582,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://www.opentable.com/r/amada-tapas-chattanooga?lang=nl",
@@ -3034,7 +3037,8 @@
    "notes": "Listed as 'Amanda Tapas and Wine' in the owner's list; the business name is Amada. On the Southside edge of downtown. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 654-3816"
  },
  {
   "id": "parkway-pourhouse",
@@ -3222,11 +3226,11 @@
   ],
   "description": "West Village boutique with an eclectic mix of clothing at a range of price points.",
   "address": "813 Chestnut St, Chattanooga, TN 37402",
-  "lat": 35.0469,
-  "lng": -85.3122,
+  "lat": 35.046054,
+  "lng": -85.311284,
   "website": "https://antibesclothing.com",
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://local.yahoo.com/info-220162473-antibes-chattanooga/",
@@ -3235,7 +3239,8 @@
    "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 680-7971"
  },
  {
   "id": "embellish-collection",
@@ -3251,7 +3256,7 @@
   "lat": 35.043,
   "lng": -85.3085,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://www.timesfreepress.com/news/2024/apr/16/check-out-these-five-chattanooga-area-fashion-and-accessory-shops/"
@@ -3259,7 +3264,8 @@
    "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 752-7463"
  },
  {
   "id": "hemline-chattanooga",
@@ -3322,10 +3328,10 @@
   ],
   "description": "Immersive escape rooms, including a train-themed room at the Chattanooga Choo Choo.",
   "address": "1800 Rossville Ave Ste 1, Chattanooga, TN 37408",
-  "lat": 35.0335,
-  "lng": -85.304,
+  "lat": 35.054051,
+  "lng": -85.310576,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://morty.app/location/escape-experience/escape-experience-chattanooga",
@@ -3334,7 +3340,8 @@
    "notes": "Older listings show 224 Broad St (now Riverport Grille); current booking pages list 1800 Rossville Ave on the Southside plus a room at 16 Choo Choo Ave. Confirm with the business. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 551-3306"
  },
  {
   "id": "chattanooga-ghost-tours",
@@ -3347,10 +3354,10 @@
   ],
   "description": "Nightly walking ghost tours of downtown, starting from the company's steampunk-themed shop.",
   "address": "57 E 5th St, Chattanooga, TN 37402",
-  "lat": 35.0505,
-  "lng": -85.3082,
+  "lat": 35.051346,
+  "lng": -85.309374,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://www.travelocity.com/things-to-do/murder-mayhem-haunted-history-walking-tour.a1349672.activity-details",
@@ -3359,7 +3366,8 @@
    "notes": "Meeting point per booking listings; an older listing shows 138 Market St. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 800-5998"
  },
  {
   "id": "time-to-escape-chattanooga",
@@ -3424,10 +3432,10 @@
   ],
   "description": "Coffee shop at the front of a print-and-apparel warehouse, pouring rotating guest roasters.",
   "address": "801 E 11th St, Chattanooga, TN 37403",
-  "lat": 35.043,
-  "lng": -85.2985,
+  "lat": 35.039528,
+  "lng": -85.297208,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://www.mapquest.com/us/tennessee/burlaep-430451587",
@@ -3436,7 +3444,8 @@
    "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 451-2109"
  },
  {
   "id": "culture-coffee-co",
@@ -3449,10 +3458,10 @@
   ],
   "description": "Neighborhood cafe next to UTC with specialty lattes and a monthly themed drink lineup.",
   "address": "610 Georgia Ave, Chattanooga, TN 37402",
-  "lat": 35.049,
-  "lng": -85.3062,
+  "lat": 35.049432,
+  "lng": -85.305904,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://www.toasttab.com/local/order/culture-coffee-co-610-georgia-ave",
@@ -3461,7 +3470,8 @@
    "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 602-5282"
  },
  {
   "id": "rembrandts-coffee-house",
@@ -3551,7 +3561,7 @@
   "lat": 35.0484,
   "lng": -85.3085,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://noogatoday.6amcity.com/city-guide/work/coffee-shops-in-chattanooga",
@@ -3560,33 +3570,8 @@
    "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
- },
- {
-  "id": "hungry-mother",
-  "name": "Hungry Mother",
-  "categories": [
-   "coffee",
-   "restaurants"
-  ],
-  "neighborhoods": [
-   "downtown"
-  ],
-  "description": "Morning cafe inside The Bitter Alibi serving espresso, bagels and stecca-bread sandwiches.",
-  "address": "825 Houston St, Chattanooga, TN 37403",
-  "lat": 35.0455,
-  "lng": -85.3035,
-  "verification": {
-   "status": "needs_review",
-   "lastVerified": "2026-11-21",
-   "sources": [
-    "https://toast.app/r/bedhead-llc-825-houston-st/order",
-    "https://www.hits96.com/?p=145602"
-   ],
-   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
-  },
-  "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 521-7686"
  },
  {
   "id": "provisions-edwin",
@@ -3684,6 +3669,812 @@
     "https://www.utc.edu/arts-and-sciences/fine-arts-center"
    ],
    "notes": "Address from the business's own website or an official source. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "feed-table-and-tavern",
+  "name": "FEED Co. Table & Tavern",
+  "categories": [
+   "restaurants",
+   "nightlife"
+  ],
+  "neighborhoods": [
+   "southside"
+  ],
+  "description": "Locally owned Southside tavern with chef-driven comfort food, nightly specials, a full bar, live music and a game room.",
+  "address": "201 W Main St Ste 101, Chattanooga, TN 37408",
+  "lat": 35.036877,
+  "lng": -85.309254,
+  "website": "https://feedtableandtavern.com",
+  "phone": "(423) 708-8500",
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-22",
+   "sources": [
+    "https://startpage.mapquest.com/us/tennessee/the-feed-co-table-tavern-364342396",
+    "https://www.timesfreepress.com/news/2017/may/31/feed-co-satisfies-chef-driven-comfort-food/"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "alleia",
+  "name": "Alleia",
+  "categories": [
+   "restaurants"
+  ],
+  "neighborhoods": [
+   "southside"
+  ],
+  "description": "Chef Daniel Lindley's Italian restaurant in the historic Harrington building, cooking with local ingredients.",
+  "address": "25 E Main St, Chattanooga, TN 37408",
+  "lat": 35.0388,
+  "lng": -85.3068,
+  "phone": "(423) 305-6990",
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-22",
+   "sources": [
+    "https://opentable.com/r/alleia-restaurant-chattanooga",
+    "https://www.timeout.com/chattanooga/restaurants/best-restaurants-in-chattanooga"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "bluegrass-grill",
+  "name": "Bluegrass Grill",
+  "categories": [
+   "restaurants"
+  ],
+  "neighborhoods": [
+   "southside"
+  ],
+  "description": "Family-owned breakfast and lunch spot on Main Street known for scratch-made biscuits and baked goods.",
+  "address": "55 E Main St #101, Chattanooga, TN 37408",
+  "lat": 35.0388,
+  "lng": -85.3063,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-22",
+   "sources": [
+    "https://www.mapquest.com/us/tennessee/bluegrass-grill-44092085",
+    "https://www.picktnproducts.org/picktn-producers/picktn-listing.10065.html"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "taqueria-jalisco-ania",
+  "name": "Taqueria Jalisco Ania",
+  "categories": [
+   "restaurants"
+  ],
+  "neighborhoods": [
+   "southside"
+  ],
+  "description": "Mother-and-son taqueria that grew out of a food truck, with outdoor seating just off Main Street.",
+  "address": "1639 Rossville Ave, Chattanooga, TN 37408",
+  "lat": 35.0365,
+  "lng": -85.304,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-22",
+   "sources": [
+    "https://www.airbnb.gy/things-to-do/places/269939",
+    "https://www.enprimeurclub.com/bars/taqueria-jalisco-ania-chattanooga-bar"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "shadys-corner",
+  "name": "Shady's Corner",
+  "categories": [
+   "restaurants",
+   "nightlife"
+  ],
+  "neighborhoods": [
+   "southside"
+  ],
+  "description": "All-day deli and bar with a beer garden and arcade, from the team behind Unknown Caller.",
+  "address": "1402 Cemetery Ave, Chattanooga, TN 37408",
+  "lat": 35.0395,
+  "lng": -85.3015,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-22",
+   "sources": [
+    "https://www.visitchattanooga.com/blog/post/chattanoogas-late-night-spots",
+    "https://www.toasttab.com/local/order/shady-corner-1402-cemetery-avenue"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "number-ten",
+  "name": "Number Ten",
+  "categories": [
+   "restaurants",
+   "nightlife"
+  ],
+  "neighborhoods": [
+   "southside"
+  ],
+  "description": "Southside steakhouse with small plates and a deep whiskey list.",
+  "address": "1925 Myrtle St Ste 101, Chattanooga, TN 37408",
+  "lat": 35.0325,
+  "lng": -85.302,
+  "phone": "(423) 654-8139",
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-22",
+   "sources": [
+    "https://startpage.mapquest.com/us/tennessee/number-ten-520549706",
+    "https://www.timesfreepress.com/news/2023/jan/01/comforts-at-chattanoogas-new-number-ten/"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "2nd-american",
+  "name": "2nd American Restaurant",
+  "categories": [
+   "restaurants"
+  ],
+  "neighborhoods": [
+   "southside"
+  ],
+  "description": "Chef Daniel Lindley's Michelin-recommended homage to the classic American Sunday dinner, opened in 2024.",
+  "address": "1601 Cowart St, Chattanooga, TN 37408",
+  "lat": 35.0385,
+  "lng": -85.3115,
+  "website": "https://www.2ndamerican.com",
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-22",
+   "sources": [
+    "https://resy.com/cities/chattanooga-tn/venues/2nd-american-restaurant",
+    "https://citylifestyle.com/articles/2nd-american"
+   ],
+   "notes": "Entrance is on W 16th St. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "stir-chattanooga",
+  "name": "STIR",
+  "categories": [
+   "restaurants",
+   "nightlife"
+  ],
+  "neighborhoods": [
+   "southside"
+  ],
+  "description": "Raw bar and craft-cocktail restaurant at the Chattanooga Choo Choo, with a heated patio.",
+  "address": "1444 Market St, Chattanooga, TN 37402",
+  "lat": 35.0367,
+  "lng": -85.3073,
+  "phone": "(423) 531-7847",
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-22",
+   "sources": [
+    "https://www.opentable.com/restaurant/profile/556969",
+    "https://www.zola.com/wedding/tayloranddanielseptember23/poi"
+   ],
+   "notes": "At the corner of Market and Station streets. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "elsies-daughter",
+  "name": "Elsie's Daughter",
+  "categories": [
+   "restaurants",
+   "nightlife"
+  ],
+  "neighborhoods": [
+   "southside"
+  ],
+  "description": "Parlor bar and bistro in The Hotel Chalet serving classic cocktails and French-Belgian food with an Appalachian accent.",
+  "address": "1404 Rossville Ave, Chattanooga, TN 37408",
+  "lat": 35.0375,
+  "lng": -85.3062,
+  "website": "https://thehotelchalet.com/dining",
+  "verification": {
+   "status": "verified",
+   "lastVerified": "2026-11-22",
+   "sources": [
+    "https://thehotelchalet.com/dining",
+    "https://opentable.com/restaurant/profile/1371850"
+   ],
+   "notes": "Inside The Hotel Chalet at the Choo Choo (corner of Rossville Ave and Station St). Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "bona-fide",
+  "name": "Bona Fide",
+  "categories": [
+   "restaurants",
+   "nightlife"
+  ],
+  "neighborhoods": [
+   "southside"
+  ],
+  "description": "Restaurant and bar announced for the former Ernest Chinese space on Johnson Street.",
+  "address": "55 Johnson St, Chattanooga, TN 37408",
+  "lat": 35.0385,
+  "lng": -85.3105,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-22",
+   "sources": [
+    "https://noogatoday.6amcity.com/city-guide/play/new-and-coming-soon-restaurants-chattanooga-tn"
+   ],
+   "notes": "Listed as coming soon (opening date TBA); no sign yet that it has opened. Saved as hidden — switch it on in Admin once it opens and the details are confirmed. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": false
+ },
+ {
+  "id": "the-flaming-rooster",
+  "name": "The Flaming Rooster",
+  "categories": [
+   "restaurants"
+  ],
+  "neighborhoods": [
+   "southside"
+  ],
+  "description": "Hand-battered hot chicken with spice levels up to 'oh hale naw', plus a wing challenge with a hall of fame.",
+  "address": "1900 Broad St, Chattanooga, TN 37408",
+  "lat": 35.0318,
+  "lng": -85.3112,
+  "phone": "(423) 805-5357",
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-22",
+   "sources": [
+    "https://www.visitchattanooga.com/blog/post/best-fried-chicken/",
+    "https://order.online/store/-34906339/"
+   ],
+   "notes": "Closed Sundays per Visit Chattanooga. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "camila",
+  "name": "Camila",
+  "categories": [
+   "restaurants",
+   "nightlife"
+  ],
+  "neighborhoods": [
+   "southside"
+  ],
+  "description": "European bistro from the Taqueria Jalisco Ania team with shareable plates, oysters and cocktails, in the former Slick's Burgers spot.",
+  "address": "309 E Main St, Chattanooga, TN 37408",
+  "lat": 35.039,
+  "lng": -85.3033,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-22",
+   "sources": [
+    "https://www.exploretock.com/camila/event/612495",
+    "https://citylifestyle.com/articles/fresh-bites"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "outpost-bar-and-restaurant",
+  "name": "Outpost Bar & Restaurant",
+  "categories": [
+   "restaurants",
+   "nightlife"
+  ],
+  "neighborhoods": [
+   "southside"
+  ],
+  "description": "Appalachian-inspired kitchen and bar on Main Street — sister restaurant to Basecamp on the Northshore.",
+  "address": "342 E Main St, Chattanooga, TN 37408",
+  "lat": 35.0392,
+  "lng": -85.3028,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-22",
+   "sources": [
+    "https://startpage.mapquest.com/us/tennessee/outpost-bar-and-restaurant-646084642",
+    "https://www.visitchattanooga.com/restaurants/new/"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "kai-bistro",
+  "name": "Kai Bistro",
+  "categories": [
+   "restaurants",
+   "nightlife"
+  ],
+  "neighborhoods": [
+   "southside"
+  ],
+  "description": "Asian fusion bistro drawing on Korean, Japanese, Vietnamese, Thai and Hawaiian flavors, with signature drinks.",
+  "address": "625 E Main St, Chattanooga, TN 37408",
+  "lat": 35.0393,
+  "lng": -85.2985,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-22",
+   "sources": [
+    "https://www.toasttab.com/local/order/kai-bistro-625-east-main-street/r-c723a60e-e69a-4eae-8819-4f99e4e3f389/item-pho-zilla_4e7109a3-79c2-4d97-b795-4ab191113502",
+    "https://noogatoday.6amcity.com/culture/chattanooga-restaurants-from-a-to-z"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "southside-social",
+  "name": "Southside Social",
+  "categories": [
+   "restaurants",
+   "nightlife",
+   "attractions"
+  ],
+  "neighborhoods": [
+   "southside"
+  ],
+  "description": "Boutique 10-lane bowling alley and bar with pool, ping pong, a courtyard with fire pits, and pub food.",
+  "address": "1818 Chestnut St, Chattanooga, TN 37408",
+  "lat": 35.0328,
+  "lng": -85.3105,
+  "phone": "(423) 708-3280",
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-22",
+   "sources": [
+    "https://directory.bizbash.com/venue/southside-social/",
+    "https://startpage.mapquest.com/us/tennessee/southside-social-363930143"
+   ],
+   "notes": "One older listing shows 1301 Chestnut St; most current listings show 1818 Chestnut St. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "han-mi",
+  "name": "Han-Mi",
+  "categories": [
+   "restaurants"
+  ],
+  "neighborhoods": [
+   "southside"
+  ],
+  "description": "Korean-American restaurant from chef David Sherrill, cooking family recipes with a seasonal menu.",
+  "address": "3103 Broad St, Chattanooga, TN 37408",
+  "lat": 35.019,
+  "lng": -85.3235,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-22",
+   "sources": [
+    "https://tablejourney.com/united-states/chattanooga/cuisine/korean/",
+    "https://www.timesfreepress.com/news/2022/sep/20/chef-david-sherrill-turns-his-korean-heritage/"
+   ],
+   "notes": "On South Broad Street, south of the historic Southside core. Map pin is approximate; confirm with the business."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "crust-pizza-broad-st",
+  "name": "Crust Pizza (Broad St)",
+  "categories": [
+   "restaurants"
+  ],
+  "neighborhoods": [
+   "southside"
+  ],
+  "description": "Local pizza joint known for cracker-thin crust, build-your-own pastas and salads, in a nostalgia-filled room.",
+  "address": "3211 Broad St, Chattanooga, TN 37408",
+  "lat": 35.0175,
+  "lng": -85.325,
+  "phone": "(423) 756-4040",
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-22",
+   "sources": [
+    "https://slicelife.com/restaurants/tn/chattanooga/37408/crust-pizza-3211-broad-st-chattanooga/menu",
+    "https://noogatoday.6amcity.com/city-guide/live/pizza-chattanooga-tn"
+   ],
+   "notes": "Crust has more than one location; this is the Broad Street one. On South Broad Street, south of the historic Southside core. Map pin is approximate; confirm with the business."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "mountain-outfitters-chattanooga",
+  "name": "Mountain Outfitters",
+  "categories": [
+   "shopping"
+  ],
+  "neighborhoods": [
+   "southside"
+  ],
+  "description": "Outdoor and lifestyle store from the Monteagle family business, in the historic Southern Saddlery building.",
+  "address": "3001 Broad St, Chattanooga, TN 37408",
+  "lat": 35.0205,
+  "lng": -85.322,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-22",
+   "sources": [
+    "https://www.gunmade.com/stores/tennessee/chattanooga/highland-outfitters-26081/",
+    "https://www.chattanoogan.com/2025/7/28/506241/Life-With-Ferris-Mountain-Outfitters.aspx"
+   ],
+   "notes": "Opened May 2025; address from a store announcement quoted in a directory listing. On South Broad Street, south of the historic Southside core. Map pin is approximate; confirm with the business."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "poor-taste",
+  "name": "Poor Taste",
+  "categories": [
+   "shopping"
+  ],
+  "neighborhoods": [
+   "southside"
+  ],
+  "description": "Vintage shop for band tees, denim and knitwear from the '70s to the 2000s, with after-hours shows in back.",
+  "address": "61 E Main St, Chattanooga, TN 37408",
+  "lat": 35.0388,
+  "lng": -85.3061,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-22",
+   "sources": [
+    "https://noogatoday.6amcity.com/consignment-thrift-vintage-guide-chattanooga-tn",
+    "https://visitchattanooga.com/blog/post/retro-gems-of-chattanooga"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "main-street-farmers-market",
+  "name": "Main Street Farmers Market",
+  "categories": [
+   "shopping"
+  ],
+  "neighborhoods": [
+   "southside"
+  ],
+  "description": "Farmer-run, producers-only market with local produce, meats, dairy and baked goods, Wednesday afternoons.",
+  "address": "Chestnut St & W 20th St (by Chattanooga Brewing Co., 1804 Chestnut St), Chattanooga, TN 37408",
+  "lat": 35.0322,
+  "lng": -85.3105,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-22",
+   "sources": [
+    "https://www.picktnproducts.org/picktn-producers/picktn-listing.3462.html",
+    "https://www.wutc.org/community-calendar/event/main-street-farmers-market-11-07-2022-10-13-40"
+   ],
+   "notes": "Wednesdays 4–6 pm per listings. The market has moved over the years (older listings show W Main St at Finley Stadium or Williams St); confirm the current spot and hours. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "oddstory-brewing-central",
+  "name": "OddStory Brewing Co. (Central)",
+  "categories": [
+   "attractions",
+   "nightlife"
+  ],
+  "neighborhoods": [
+   "southside"
+  ],
+  "description": "Brewery and beer hall with a big outdoor area and the Anomaly kitchen, near Sculpture Fields.",
+  "address": "1604 Central Ave, Chattanooga, TN 37408",
+  "lat": 35.035,
+  "lng": -85.2975,
+  "phone": "(423) 682-7690",
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-22",
+   "sources": [
+    "https://noogatoday.6amcity.com/first-look-oddstory-brewing-co-new-location",
+    "https://www.southeasttennessee.com/wp-content/uploads/2023/03/Brewery-Trail.pdf"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "five-wits-brewing",
+  "name": "Five Wits Brewing Company",
+  "categories": [
+   "attractions",
+   "nightlife"
+  ],
+  "neighborhoods": [
+   "southside"
+  ],
+  "description": "Craft brewery inside the Market South food hall, with a music stage and covered patio.",
+  "address": "1501 Long St, Chattanooga, TN 37408",
+  "lat": 35.0388,
+  "lng": -85.3075,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-22",
+   "sources": [
+    "https://untappd.com/v/five-wits-brewing-company/8994336",
+    "https://noogatoday.6amcity.com/five-wits-brewery-southside-chattanooga"
+   ],
+   "notes": "Listed as 'Five Witts' in the owner's list; the business name is Five Wits. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "tailgate-brewery-chattanooga",
+  "name": "TailGate Brewery Chattanooga",
+  "categories": [
+   "attractions",
+   "nightlife",
+   "restaurants"
+  ],
+  "neighborhoods": [
+   "southside"
+  ],
+  "description": "Tennessee brewery's taproom next to the Choo Choo, with 30 taps, scratch pizza and a double-decker patio.",
+  "address": "1464 Market St, Chattanooga, TN 37408",
+  "lat": 35.0362,
+  "lng": -85.3075,
+  "website": "https://tailgatebeer.com/chattanooga",
+  "phone": "(423) 654-3850",
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-22",
+   "sources": [
+    "https://www.chattanoogapulse.com/food-drink/dining-out/tailgate-brewery-is-home-to-award-winning-craft-beer-and-ama/",
+    "https://tailgatebeer.com/chattanooga"
+   ],
+   "notes": "Listed as 'Tailgate Brewing' in the owner's list. Address from Chattanooga Pulse and Groupon. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "creature-comforts-beer-garden",
+  "name": "Creature Comforts Beer Garden",
+  "categories": [
+   "attractions",
+   "nightlife"
+  ],
+  "neighborhoods": [
+   "southside"
+  ],
+  "description": "Athens, GA brewery's beer garden in the historic foundry building 'The Shed' next to Erlanger Park.",
+  "address": "Foundry Plaza at Erlanger Park, South Broad District, Chattanooga, TN 37408",
+  "lat": 35.026,
+  "lng": -85.3205,
+  "website": "https://creaturecomforts.co/chattanooga/",
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-22",
+   "sources": [
+    "https://creaturecomforts.co/chattanooga/",
+    "https://thebrewermagazine.com/creature-comforts-beer-garden-to-open-to-public-in-chattanoogas-foundries-district/"
+   ],
+   "notes": "Opened April 2026; open most Lookouts game days, some non-game weekends and events — check the calendar before going. No street address published; pin is at Erlanger Park and approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "mean-mug-southside",
+  "name": "Mean Mug Coffeehouse (Southside)",
+  "categories": [
+   "coffee"
+  ],
+  "neighborhoods": [
+   "southside"
+  ],
+  "description": "The original Mean Mug, open since 2011, with house-roasted coffee and scratch breakfast and lunch all day.",
+  "address": "114 W Main St, Chattanooga, TN 37408",
+  "lat": 35.039,
+  "lng": -85.3092,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-22",
+   "sources": [
+    "https://startpage.mapquest.com/us/tennessee/mean-mug-coffeehouse-279747250",
+    "https://meanmugcoffee.squarespace.com"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "honey-seed",
+  "name": "Honey Seed",
+  "categories": [
+   "coffee",
+   "restaurants"
+  ],
+  "neighborhoods": [
+   "southside"
+  ],
+  "description": "All-day Southside cafe known for hand-rolled Montreal-style bagels and wood-fired pizza, with a full bar.",
+  "address": "1705 Market St Ste 105, Chattanooga, TN 37408",
+  "lat": 35.0345,
+  "lng": -85.3075,
+  "phone": "(423) 521-7333",
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-22",
+   "sources": [
+    "https://opentable.com.au/r/honey-seed-chattanooga",
+    "https://ww1.aaa.com/tripcanvas/restaurant/honey-seed-AA43019"
+   ],
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "velo-coffee-roasters",
+  "name": "Velo Coffee Roasters",
+  "categories": [
+   "coffee"
+  ],
+  "neighborhoods": [
+   "southside"
+  ],
+  "description": "One of Chattanooga's specialty-coffee pioneers, roasting on site on East Main Street.",
+  "address": "509 E Main St Ste 3, Chattanooga, TN 37408",
+  "lat": 35.0392,
+  "lng": -85.3005,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-22",
+   "sources": [
+    "https://startpage.mapquest.com/us/tennessee/velo-coffee-roasters-345652361",
+    "https://mycoffeeexplorer.com/roasters/velo-coffee-roasters"
+   ],
+   "notes": "Listed as 'Velo Coffee Rosters' in the owner's list. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "chattz-coffee",
+  "name": "Chattanooga Coffee Co. (Chattz)",
+  "categories": [
+   "coffee"
+  ],
+  "neighborhoods": [
+   "southside"
+  ],
+  "description": "Women-owned roaster founded in 2002, with a cafe in its Broad Street roasting facility.",
+  "address": "2627 Broad St, Chattanooga, TN 37408",
+  "lat": 35.025,
+  "lng": -85.3185,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-22",
+   "sources": [
+    "https://mycoffeeexplorer.com/roasters/chattanooga-coffee-co-chattz-coffee",
+    "https://noogatoday.6amcity.com/city-guide/work/coffee-shops-in-chattanooga"
+   ],
+   "notes": "On South Broad Street, south of the historic Southside core. Map pin is approximate; confirm with the business."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "sunnyside-cup-broad-st",
+  "name": "Sunnyside Cup",
+  "categories": [
+   "coffee"
+  ],
+  "neighborhoods": [
+   "southside"
+  ],
+  "description": "Drive-thru-only coffee hut pouring Goodman Coffee Roasters espresso, with pastries from Niedlov's.",
+  "address": "3008 Broad St, Chattanooga, TN 37408",
+  "lat": 35.0203,
+  "lng": -85.3225,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-22",
+   "sources": [
+    "https://noogatoday.6amcity.com/city-guide/work/coffee-shops-in-chattanooga",
+    "https://www.mapquest.com/us/tennessee/sunnyside-cup-367226716"
+   ],
+   "notes": "Drive-thru only; there's a second hut on Signal Mountain Rd. On South Broad Street, south of the historic Southside core. Map pin is approximate; confirm with the business."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "xozio-coffee-and-provisions",
+  "name": "XOZIO Coffee & Provisions",
+  "categories": [
+   "coffee",
+   "shopping"
+  ],
+  "neighborhoods": [
+   "southside"
+  ],
+  "description": "Family-owned artisan coffee roastery with a retail shop on Broad Street.",
+  "address": "1819 Broad St, Chattanooga, TN 37408",
+  "lat": 35.0325,
+  "lng": -85.311,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-22",
+   "sources": [
+    "https://noogatoday.6amcity.com/new-businesses-to-chattanooga-tn"
+   ],
+   "notes": "Only source is a 2024 'opening soon' notice; confirm it is open and its hours. Map pin is approximate."
+  },
+  "coordsApproximate": true,
+  "active": true
+ },
+ {
+  "id": "understory-tea-house",
+  "name": "Understory Tea House",
+  "categories": [
+   "coffee"
+  ],
+  "neighborhoods": [
+   "southside"
+  ],
+  "description": "Quiet tea room for traditional gongfu tea and herbal infusions, opened January 2026 next to Adelle's Crêperie.",
+  "address": "E Main St, next to Adelle's Crêperie (400 E Main St), Chattanooga, TN 37408",
+  "lat": 35.0391,
+  "lng": -85.3018,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-22",
+   "sources": [
+    "https://www.rivercitycompany.com/downtowndeepdive/understory-tea-house",
+    "https://citylifestyle.com/articles/local-drinks-understory-tea-house"
+   ],
+   "notes": "No street number published; sources place it beside Adelle's Crêperie at 400 E Main St. Confirm the exact address. Map pin is approximate."
   },
   "coordsApproximate": true,
   "active": true
