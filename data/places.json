@@ -145,7 +145,17 @@
    ]
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "family": {
+   "ages": [
+    "all"
+   ],
+   "cost": "$",
+   "rainy": false,
+   "setting": "outdoor",
+   "duration": ""
+  },
+  "setting": "outdoor"
  },
  {
   "id": "locals-only-gifts-and-goods",
@@ -164,8 +174,8 @@
   "phone": "423-541-4438",
   "hours": "Mon–Sat 10 a.m.–6 p.m.; Sun noon–6 p.m. (per store website)",
   "image": {
-   "src": "/brand/locals-only-logo-sm.png",
-   "alt": "Locals Only Gifts and Goods logo"
+   "alt": "Locals Only Gifts and Goods logo",
+   "src": "https://mbbzmpwvcuuehywuarme.supabase.co/storage/v1/object/public/media/places/1795277426985-untitled-design-9-.png"
   },
   "sponsor": true,
   "verification": {
@@ -176,7 +186,8 @@
    ]
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "featured": true
  },
  {
   "id": "clumpies-northshore",
@@ -355,7 +366,17 @@
    ]
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "family": {
+   "ages": [
+    "all"
+   ],
+   "cost": "$",
+   "rainy": false,
+   "setting": "indoor",
+   "duration": ""
+  },
+  "setting": "indoor"
  },
  {
   "id": "brewhaus",
@@ -494,8 +515,8 @@
   "lng": -85.3108,
   "website": "https://tnaqua.org",
   "image": {
-   "src": "/images/tennessee-aquarium.jpg",
-   "alt": "Aerial view of the Tennessee Aquarium's glass peaks beside the Tennessee River"
+   "alt": "Aerial view of the Tennessee Aquarium's glass peaks beside the Tennessee River",
+   "src": "/images/tennessee-aquarium.jpg"
   },
   "featured": true,
   "family": {
@@ -506,20 +527,22 @@
     "teens",
     "all"
    ],
+   "cost": "$",
+   "rainy": true,
    "setting": "indoor",
-   "cost": "$$$",
-   "duration": "2–4 hours",
-   "rainy": true
+   "duration": "2–4 hours"
   },
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-15",
    "sources": [
     "https://www.timesfreepress.com/news/2014/mar/27/parks-boast-spaces-nature-and-play/"
    ],
    "notes": "Address confirmed (Aquarium Plaza, 1 Broad St). Confirm website and admission before launch."
   },
-  "active": true
+  "active": true,
+  "phone": "(800)262-0695",
+  "setting": "indoor"
  },
  {
   "id": "creative-discovery-museum",
@@ -654,17 +677,7 @@
   "coordsApproximate": true,
   "active": true,
   "website": "https://river-gallery.com/",
-  "family": {
-   "ages": [
-    "9-12",
-    "teens",
-    "all"
-   ],
-   "cost": "free",
-   "rainy": true,
-   "setting": "indoor",
-   "duration": ""
-  }
+  "setting": "indoor"
  },
  {
   "id": "rosss-landing",
@@ -859,7 +872,7 @@
   "lat": 35.0455,
   "lng": -85.3088,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-15",
    "sources": [
     "https://www.timesfreepress.com/news/2014/mar/27/parks-boast-spaces-nature-and-play/"
@@ -867,7 +880,19 @@
    "notes": "Source from 2014; park was later renovated — confirm amenities."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "website": "https://chattanooga.gov/things-to-do/parks/miller-park",
+  "phone": "(423) 643-7866",
+  "family": {
+   "ages": [
+    "all"
+   ],
+   "cost": "free",
+   "rainy": false,
+   "setting": "outdoor",
+   "duration": ""
+  },
+  "setting": "outdoor"
  },
  {
   "id": "blue-goose-hollow",
@@ -1055,7 +1080,7 @@
   "lat": 35.0369,
   "lng": -85.3087,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-15",
    "sources": [
     "https://hotelguides.com/attraction-maps/tennessee/map-hotels-near-songbirds-tn.html"
@@ -1063,7 +1088,20 @@
    "notes": "Confirm current museum hours/status and official website."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "website": "https://venue.songbirds.org/",
+  "phone": "(423) 531-2473",
+  "family": {
+   "ages": [
+    "teens",
+    "all"
+   ],
+   "cost": "$",
+   "rainy": false,
+   "setting": "indoor",
+   "duration": ""
+  },
+  "setting": "indoor"
  },
  {
   "id": "chattanooga-whiskey-experimental",
@@ -1118,15 +1156,8 @@
   "coordsApproximate": true,
   "active": true,
   "phone": "(423) 266-3066",
-  "family": {
-   "ages": [
-    "all"
-   ],
-   "cost": "$",
-   "rainy": false,
-   "setting": "indoor",
-   "duration": ""
-  }
+  "setting": "indoor",
+  "price": "$"
  },
  {
   "id": "niedlovs",
@@ -1713,20 +1744,23 @@
     "toddlers",
     "5-8",
     "9-12",
+    "teens",
     "all"
    ],
-   "setting": "outdoor",
-   "cost": "$$",
-   "duration": "2–3 hours",
-   "rainy": true
+   "cost": "$",
+   "rainy": true,
+   "setting": "indoor",
+   "duration": "2–3 hours"
   },
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-15",
    "sources": [],
    "notes": "Address and website from editorial knowledge; verify excursions and schedule before launch."
   },
-  "active": true
+  "active": true,
+  "phone": "(423)894-8028",
+  "setting": "indoor"
  },
  {
   "id": "reflection-riding",
@@ -1892,7 +1926,7 @@
   "lat": 35.0627,
   "lng": -85.3078,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://www.toasttab.com/local/cashew/r-77dc5b30-720e-44d7-8be8-45fe1701a26b"
@@ -1900,7 +1934,8 @@
    "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 355-5486"
  },
  {
   "id": "sullys-crepe-co",
@@ -2043,7 +2078,7 @@
   "lat": 35.0643,
   "lng": -85.3106,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://startpage.mapquest.com/us/tennessee/chipotle-mexican-grill-429166676",
@@ -2052,7 +2087,8 @@
    "notes": "National chain location; confirm hours on the chain's store locator. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 805-1063"
  },
  {
   "id": "the-big-chill-and-grill",
@@ -2146,7 +2182,7 @@
   "lat": 35.0633,
   "lng": -85.3122,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://www.mapquest.com/us/tennessee/edleys-bar-b-que-378917744",
@@ -2155,7 +2191,8 @@
    "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 498-2772"
  },
  {
   "id": "embargo-62",
@@ -2225,7 +2262,7 @@
   "lat": 35.0628,
   "lng": -85.3142,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://noogatoday.6amcity.com/food/try-this-brunch-at-big-bad-breakfast-chattanooga",
@@ -2303,7 +2340,7 @@
   "lat": 35.0634,
   "lng": -85.3076,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://www.airbnb.cat/things-to-do/places/782613",
@@ -2312,7 +2349,8 @@
    "notes": "Shares the 40 Frazier address with another listing; confirm suite. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 208-0940"
  },
  {
   "id": "sophies-shoppe",
@@ -2328,7 +2366,7 @@
   "lat": 35.0668,
   "lng": -85.3094,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://startpage.mapquest.com/us/tennessee/sophies-shoppe-303793760",
@@ -2337,7 +2375,8 @@
    "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 756-8711"
  },
  {
   "id": "four-bridges-outfitters",
@@ -2353,7 +2392,7 @@
   "lat": 35.066,
   "lng": -85.3095,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://www.timesfreepress.com/news/2024/apr/08/a-guide-to-chattanooga-sport-and-outdoor-shops/",
@@ -2362,7 +2401,8 @@
    "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 531-0990"
  },
  {
   "id": "ugly-duck-vintage",
@@ -2430,7 +2470,7 @@
   "lat": 35.0625,
   "lng": -85.3071,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://www.timesfreepress.com/news/2024/apr/08/the-chattanooga-shopping-guide-gift-and-souvenir/"
@@ -2438,7 +2478,8 @@
    "notes": "Single source (Times Free Press shopping guide). Confirm with the business. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(305) 923-0024"
  },
  {
   "id": "starbucks-northshore",
@@ -2480,7 +2521,7 @@
   "lat": 35.064,
   "lng": -85.3039,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://noogatoday.6amcity.com/city-guide/work/coffee-shops-in-chattanooga",
@@ -2489,7 +2530,8 @@
    "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 521-3977"
  },
  {
   "id": "mean-mug-northshore",
@@ -2532,7 +2574,7 @@
   "lat": 35.0668,
   "lng": -85.3088,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://www.joinlolo.com/merchants/becaffeinated-chattanooga-tn-37405",
@@ -2541,7 +2583,9 @@
    "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "website": "https://www.becaffcoffee.com/",
+  "phone": "(423) 541-5510"
  },
  {
   "id": "mug-shotz-coffee-co",
@@ -3407,7 +3451,7 @@
   "lat": 35.0513,
   "lng": -85.3107,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://overlookmaps.com/places/rocket-fizz-chattanooga-4845822566950566",
@@ -3416,7 +3460,17 @@
    "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "family": {
+   "ages": [
+    "all"
+   ],
+   "cost": "$",
+   "rainy": false,
+   "setting": "indoor",
+   "duration": ""
+  },
+  "setting": "indoor"
  },
  {
   "id": "monkees-of-chattanooga",
@@ -3756,7 +3810,7 @@
   "lat": 35.0478,
   "lng": -85.3104,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://chattanooga-tn.yiftee.com/business/sleepyhead-coffee-499882",
@@ -3765,7 +3819,10 @@
    "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "website": "https://www.sleepyhead.coffee/",
+  "phone": "(423) 206-2530",
+  "price": "$"
  },
  {
   "id": "trail-town-coffee",
@@ -4857,14 +4914,18 @@
   "coordsApproximate": true,
   "active": true,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-27",
    "sources": [
     "https://www.stadiumjourney.com/stadiums/chi-memorial-stadium-chattanooga-red-wolves",
     "https://en.wikipedia.org/wiki/CHI_Memorial_Stadium"
    ],
    "notes": "In East Ridge, outside the guide's neighborhood maps, so it appears under Sports Teams & Venues only. Address from Stadium Journey; confirm with the club. Map pin is approximate."
-  }
+  },
+  "website": "https://www.chattanoogaredwolves-sc.com/",
+  "phone": "(423) 541-1660",
+  "setting": "outdoor",
+  "price": "$"
  },
  {
   "id": "high-point-zip-adventure",
