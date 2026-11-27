@@ -39,6 +39,18 @@ function pinIcon(color: string, glyph: string, selected: boolean) {
 }
 const meIcon = L.divIcon({ className: "", html: '<div class="wtc-me"></div>', iconSize: [18, 18], iconAnchor: [9, 9] });
 
+/** On load, frame the neighborhood outline plus every pin, so nothing is cut off on any screen size. */
+function FitBoundary({ boundary, points }: { boundary?: [number, number][]; points: [number, number][] }) {
+  const map = useMap();
+  useEffect(() => {
+    if (!boundary || boundary.length < 3) return;
+    map.fitBounds(L.latLngBounds([...boundary, ...points]), { padding: [24, 24] });
+    // Only on first render for this outline — filtering pins later shouldn't move the map.
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [boundary, map]);
+  return null;
+}
+
 function FlyTo({ target }: { target: [number, number] | null }) {
   const map = useMap();
   useEffect(() => {
@@ -55,6 +67,7 @@ export default function LeafletMap(p: LeafletMapProps) {
       center={p.center}
       zoom={p.zoom}
       scrollWheelZoom={false}
+      zoomSnap={0.25}
       className="h-full w-full rounded-3xl"
       attributionControl
       aria-label={p.ariaLabel}
@@ -94,6 +107,7 @@ export default function LeafletMap(p: LeafletMapProps) {
         <Marker key={m.id} position={[m.lat, m.lng]} icon={pinIcon(m.color, m.glyph, m.id === p.selectedId)} title={m.name} alt={m.name} keyboard eventHandlers={{ click: () => p.onSelect?.(m.id) }} />
       ))}
       {p.userLocation && <Marker position={p.userLocation} icon={meIcon} title="Your location" alt="Your location" keyboard={false} />}
+      <FitBoundary boundary={p.boundary} points={p.places.map((x) => [x.lat, x.lng] as [number, number])} />
       <FlyTo target={target} />
     </MapContainer>
   );

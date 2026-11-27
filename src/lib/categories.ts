@@ -9,6 +9,7 @@ export const CATEGORIES: Record<CategoryKey, { label: string; color: string; gly
   parks: { label: "Parks & Outdoor Spaces", color: "#2E6B3A", glyph: "P" },
   arts: { label: "Arts & Culture", color: "#5B3F8C", glyph: "Ar" },
   nightlife: { label: "Entertainment & Nightlife", color: "#293330", glyph: "N" },
+  sports: { label: "Sports Teams & Venues", color: "#8C6A00", glyph: "Sp" },
 };
 export const CATEGORY_KEYS = Object.keys(CATEGORIES) as CategoryKey[];
 

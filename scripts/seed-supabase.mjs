@@ -16,7 +16,7 @@ const load = (f) => JSON.parse(readFileSync(new URL(`../data/${f}`, import.meta.
 const categories = [
   ["restaurants", "Restaurants", "#B3532F", "R"], ["coffee", "Coffee & Bakeries", "#7A4E2D", "C"], ["shopping", "Shopping", "#8E3B6E", "S"],
   ["attractions", "Attractions", "#1F5F8B", "A"], ["parks", "Parks & Outdoor Spaces", "#2E6B3A", "P"], ["arts", "Arts & Culture", "#5B3F8C", "Ar"],
-  ["nightlife", "Entertainment & Nightlife", "#293330", "N"],
+  ["nightlife", "Entertainment & Nightlife", "#293330", "N"], ["sports", "Sports Teams & Venues", "#8C6A00", "Sp"],
 ].map(([key, label, color, glyph], sort) => ({ key, label, color, glyph, sort }));
 
 const places = load("places.json").map((p) => ({

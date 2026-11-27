@@ -11,7 +11,7 @@ export const revalidate = 300;
 const GOOGLE_REVIEW_URL = "https://search.google.com/local/writereview?placeid=ChIJE5DZi1leYIgRtDLRDP9FRCM";
 
 const FEATURES = [
-  { href: "/neighborhoods", title: "Explore Our Neighborhoods", text: "Five districts, five personalities — with maps of where to eat, shop, and wander.", img: "/images/coolidge-park-sm.jpg", alt: "Aerial view of Coolidge Park and the Walnut Street Bridge" },
+  { href: "/neighborhoods", title: "Explore Our Neighborhoods", text: "Four areas, four personalities — with maps of where to eat, shop, and wander.", img: "/images/coolidge-park-sm.jpg", alt: "Aerial view of Coolidge Park and the Walnut Street Bridge" },
   { href: "/kids", title: "Things to Do With Kids", text: "Little explorers, big adventures. Filter by age, weather, and budget.", img: "/images/coolidge-park-carousel-sm.jpg", alt: "The Coolidge Park carousel pavilion's blue roof and golden horse weathervane" },
   { href: "/outdoors", title: "Outdoor Adventures", text: "Trails, overlooks, greenways, and the river. Get outside — it's kind of our thing.", img: "/images/mountain-view-sm.jpg", alt: "View over Moccasin Bend from Lookout Mountain" },
   { href: "/walnut-street-bridge", title: "Walnut Street Bridge", text: "The 1891 bridge that connects more than two shores.", img: "/images/walnut-street-bridge-sm.jpg", alt: "The Walnut Street Bridge at sunset" },
@@ -87,8 +87,8 @@ export default async function HomePage() {
       </section>
 
       <section className="container-page mt-20" aria-labelledby="hoods">
-        <SectionHeading id="hoods" eyebrow="Neighborhoods" title="Five places to wander" />
-        <ul className="grid gap-3 md:grid-cols-5">
+        <SectionHeading id="hoods" eyebrow="Neighborhoods" title="Four places to wander" />
+        <ul className="grid gap-3 sm:grid-cols-2 md:grid-cols-4">
           {neighborhoods.map((n) => (
             <li key={n.slug}>
               <Link href={`/neighborhoods/${n.slug}`} className="group relative block h-56 overflow-hidden rounded-3xl md:h-72">

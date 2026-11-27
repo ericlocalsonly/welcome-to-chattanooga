@@ -13,6 +13,7 @@ const GUIDES = [
   { href: "/outdoors", title: "Outdoor Chattanooga", text: "Get outside. It's kind of our thing.", img: "/images/mountain-view-sm.jpg" },
   { href: "/outdoors/riverwalk", title: "Tennessee Riverwalk", text: "Miles of paved riverside path.", img: "/images/chattanooga-sign-sm.jpg" },
   { href: "/walnut-street-bridge", title: "Walnut Street Bridge", text: "Walk from Downtown to the Northshore.", img: "/images/walnut-street-bridge-sm.jpg" },
+  { href: "/things-to-do?category=sports#browse", title: "Sports Teams & Venues", text: "Lookouts baseball, Chattanooga FC, Mocs games, and where they play.", img: "/images/finley-stadium-sm.jpg" },
   { href: "/events", title: "Events & Festivals", text: "What's happening around town.", img: "/images/rosss-landing-sm.jpg" },
   { href: "/shop-local", title: "Shop Local", text: "Take a little Chattanooga home.", img: "/brand/locals-only-logo-sm.png", contain: true },
 ];

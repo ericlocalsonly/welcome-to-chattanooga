@@ -54,31 +54,34 @@
   ],
   "description": "A beloved antique-style carousel inside its own pavilion at Coolidge Park — a quick, classic treat for little ones between bridge walks and ice cream stops.",
   "address": "150 River St, Chattanooga, TN 37405",
-  "lat": 35.0623,
-  "lng": -85.3072,
+  "lat": 35.061653,
+  "lng": -85.307121,
   "image": {
-   "src": "/images/coolidge-park-carousel.jpg",
-   "alt": "Blue roof and golden horse weathervane of the Coolidge Park carousel pavilion"
+   "alt": "Blue roof and golden horse weathervane of the Coolidge Park carousel pavilion",
+   "src": "/images/coolidge-park-carousel.jpg"
   },
   "family": {
    "ages": [
     "toddlers",
     "5-8",
+    "9-12",
     "all"
    ],
-   "setting": "indoor",
    "cost": "$",
-   "duration": "15–30 minutes",
-   "rainy": true
+   "rainy": false,
+   "setting": "indoor",
+   "duration": "15–30 minutes"
   },
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-15",
    "sources": [],
    "notes": "Confirm current carousel hours and ride price with Chattanooga Parks & Outdoors before launch."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "website": "https://chattanooga.gov/things-to-do/parks/coolidge-park",
+  "phone": "(423) 643-7866"
  },
  {
   "id": "renaissance-park",
@@ -91,23 +94,24 @@
   ],
   "description": "A quieter riverfront park east of the Market Street Bridge with wetlands, boardwalks, and river views. Interpretive signs share the history of the site.",
   "address": "100 Manufacturers Rd, Chattanooga, TN 37405",
-  "lat": 35.063,
-  "lng": -85.3015,
-  "website": "https://www.visitchattanooga.com/things-to-do/free-things-to-do/",
+  "lat": 35.061863,
+  "lng": -85.310576,
+  "website": "https://chattanooga.gov/things-to-do/parks/renaissance-park",
   "family": {
    "ages": [
+    "toddlers",
     "5-8",
     "9-12",
     "teens",
     "all"
    ],
-   "setting": "outdoor",
    "cost": "free",
-   "duration": "30–60 minutes",
-   "rainy": false
+   "rainy": false,
+   "setting": "outdoor",
+   "duration": "30–60 minutes"
   },
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-15",
    "sources": [
     "https://www.visitchattanooga.com/things-to-do/free-things-to-do/"
@@ -115,7 +119,8 @@
    "notes": "Street address not confirmed against an official source this session."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 643-7866"
  },
  {
   "id": "frazier-avenue",
@@ -177,16 +182,16 @@
   "id": "clumpies-northshore",
   "name": "Clumpies Ice Cream Co.",
   "categories": [
-   "coffee",
-   "restaurants"
+   "restaurants",
+   "coffee"
   ],
   "neighborhoods": [
    "northshore"
   ],
   "description": "A Chattanooga favorite serving creative, handcrafted ice cream flavors. A great stop while exploring the Northshore.",
   "address": "26 Frazier Ave, Chattanooga, TN 37405",
-  "lat": 35.0633,
-  "lng": -85.3084,
+  "lat": 35.062425,
+  "lng": -85.307674,
   "website": "https://www.clumpies.com",
   "family": {
    "ages": [
@@ -196,13 +201,13 @@
     "teens",
     "all"
    ],
-   "setting": "indoor",
    "cost": "$",
-   "duration": "15–30 minutes",
-   "rainy": true
+   "rainy": true,
+   "setting": "indoor",
+   "duration": "15–30 minutes"
   },
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-15",
    "sources": [
     "https://www.iexitapp.com/Tennessee/I-124/Exit%201C/34229"
@@ -210,14 +215,15 @@
    "notes": "Address from a directory listing; confirm website URL and current hours."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423)267-5425"
  },
  {
   "id": "in-town-gallery",
   "name": "In-Town Gallery",
   "categories": [
-   "arts",
-   "shopping"
+   "shopping",
+   "arts"
   ],
   "neighborhoods": [
    "northshore"
@@ -363,18 +369,20 @@
   ],
   "description": "A Frazier Avenue bar and restaurant known for German-inspired fare and a lively patio scene.",
   "address": "224 Frazier Ave, Chattanooga, TN 37405",
-  "lat": 35.064,
-  "lng": -85.3035,
+  "lat": 35.06214,
+  "lng": -85.306102,
   "verification": {
-   "status": "needs_review",
-   "lastVerified": "2026-11-15",
+   "status": "verified",
+   "lastVerified": "2026-11-16",
    "sources": [
     "https://www.iexitapp.com/Tennessee/I-124/Exit%201C/34229"
    ],
    "notes": "Directory source only; confirm website and description with the business."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "website": "https://brewhausbar.com/",
+  "phone": "(423) 531-8490"
  },
  {
   "id": "taco-mamacita",
@@ -411,10 +419,10 @@
   ],
   "description": "A casual Northshore deli across from Coolidge Park — handy for a picnic lunch on the lawn.",
   "address": "151 River St, Chattanooga, TN 37405",
-  "lat": 35.0628,
-  "lng": -85.3077,
+  "lat": 35.062175,
+  "lng": -85.307588,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-15",
    "sources": [
     "https://www.tnvacation.com/node/166306"
@@ -422,7 +430,10 @@
    "notes": "Source undated; confirm the deli is open."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "website": "https://www.riverstdeli.com/",
+  "phone": "(423)756-3354",
+  "featured": true
  },
  {
   "id": "walnut-street-bridge",
@@ -521,8 +532,8 @@
   ],
   "description": "A hands-on children's museum downtown with exhibits for science, art, and play — built for curious kids and the grown-ups chasing them.",
   "address": "321 Chestnut St, Chattanooga, TN 37402",
-  "lat": 35.0527,
-  "lng": -85.3118,
+  "lat": 35.052589,
+  "lng": -85.312024,
   "website": "https://www.cdmfun.org",
   "featured": true,
   "family": {
@@ -531,26 +542,27 @@
     "5-8",
     "9-12"
    ],
+   "cost": "$",
+   "rainy": true,
    "setting": "indoor",
-   "cost": "$$",
-   "duration": "2–3 hours",
-   "rainy": true
+   "duration": "2–3 hours"
   },
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-15",
    "sources": [],
    "notes": "Address and website from editorial knowledge; verify before launch."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 756-2738"
  },
  {
   "id": "hunter-museum",
   "name": "Hunter Museum of American Art",
   "categories": [
-   "arts",
-   "attractions"
+   "attractions",
+   "arts"
   ],
   "neighborhoods": [
    "downtown"
@@ -561,8 +573,8 @@
   "lng": -85.30641,
   "website": "https://www.huntermuseum.org",
   "image": {
-   "src": "/images/hunter-museum.jpg",
-   "alt": "The Hunter Museum's columned historic mansion with a bronze sculpture in front"
+   "alt": "The Hunter Museum's columned historic mansion with a bronze sculpture in front",
+   "src": "/images/hunter-museum.jpg"
   },
   "featured": true,
   "family": {
@@ -571,51 +583,57 @@
     "teens",
     "all"
    ],
+   "cost": "$",
+   "rainy": true,
    "setting": "indoor",
-   "cost": "$$",
-   "duration": "1–2 hours",
-   "rainy": true
+   "duration": "1–2 hours"
   },
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-15",
    "sources": [],
    "notes": "Address and website from editorial knowledge; verify before launch."
   },
-  "active": true
+  "active": true,
+  "phone": "(423)267-0968",
+  "coordsApproximate": false
  },
  {
   "id": "bluff-view-art-district",
   "name": "Bluff View Art District",
   "categories": [
-   "arts",
+   "restaurants",
+   "coffee",
    "attractions",
-   "restaurants"
+   "parks",
+   "arts"
   ],
   "neighborhoods": [
    "downtown"
   ],
   "description": "A compact, European-feeling enclave on the bluff with River Gallery, an outdoor sculpture garden, a coffeehouse, and restaurants — steps from the Hunter Museum and the Walnut Street Bridge.",
   "address": "Bluff View & E 2nd St, Chattanooga, TN 37403",
-  "lat": 35.0561,
-  "lng": -85.305,
+  "lat": 35.054196,
+  "lng": -85.305276,
   "verification": {
-   "status": "needs_review",
-   "lastVerified": "2026-11-15",
+   "status": "verified",
+   "lastVerified": "2026-11-16",
    "sources": [
     "https://www.atlantamagazine.com/southbound-articles/one-city-three-ways-chattanooga-tennessee/"
    ],
    "notes": "District, not a single business — confirm preferred address and official website."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "website": "https://bluffviewartdistrictchattanooga.com/",
+  "phone": "423-321-0235"
  },
  {
   "id": "river-gallery",
   "name": "River Gallery",
   "categories": [
-   "arts",
-   "shopping"
+   "shopping",
+   "arts"
   ],
   "neighborhoods": [
    "downtown"
@@ -624,9 +642,9 @@
   "address": "400 E 2nd St, Chattanooga, TN 37403",
   "lat": 35.0557,
   "lng": -85.3052,
-  "phone": "423-265-5033",
+  "phone": "(423)682-1287",
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-15",
    "sources": [
     "https://www.pressreader.com/usa/chattanooga-times-free-press-chattanooganow/20190711/281586652166423"
@@ -634,14 +652,26 @@
    "notes": "Most recent source is 2019; confirm."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "website": "https://river-gallery.com/",
+  "family": {
+   "ages": [
+    "9-12",
+    "teens",
+    "all"
+   ],
+   "cost": "free",
+   "rainy": true,
+   "setting": "indoor",
+   "duration": ""
+  }
  },
  {
   "id": "rosss-landing",
   "name": "Ross's Landing",
   "categories": [
-   "parks",
-   "attractions"
+   "attractions",
+   "parks"
   ],
   "neighborhoods": [
    "downtown"
@@ -651,8 +681,8 @@
   "lat": 35.0568,
   "lng": -85.3118,
   "image": {
-   "src": "/images/rosss-landing.jpg",
-   "alt": "Ross's Landing riverfront lawns and pier busy with people and paddlers"
+   "alt": "Ross's Landing riverfront lawns and pier busy with people and paddlers",
+   "src": "/images/rosss-landing.jpg"
   },
   "family": {
    "ages": [
@@ -662,10 +692,10 @@
     "teens",
     "all"
    ],
-   "setting": "outdoor",
    "cost": "free",
-   "duration": "30–90 minutes",
-   "rainy": false
+   "rainy": false,
+   "setting": "outdoor",
+   "duration": "30–90 minutes"
   },
   "verification": {
    "status": "verified",
@@ -675,7 +705,9 @@
    ]
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "website": "https://chattanooga.gov/things-to-do/parks/ross-landing",
+  "phone": "(423) 643-7866"
  },
  {
   "id": "high-point-downtown",
@@ -688,8 +720,8 @@
   ],
   "description": "An indoor climbing gym in the heart of downtown with bouldering, roped climbing, and a kids' climbing area — a strong rainy-day pick for active families.",
   "address": "219 Broad St, Chattanooga, TN 37402",
-  "lat": 35.0538,
-  "lng": -85.3108,
+  "lat": 35.053999,
+  "lng": -85.310989,
   "website": "https://www.highpointclimbing.com",
   "family": {
    "ages": [
@@ -697,13 +729,13 @@
     "9-12",
     "teens"
    ],
+   "cost": "$",
+   "rainy": true,
    "setting": "indoor",
-   "cost": "$$",
-   "duration": "2–3 hours",
-   "rainy": true
+   "duration": "2–3 hours"
   },
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-15",
    "sources": [
     "https://xtremebookings.com/?p=7562"
@@ -711,7 +743,8 @@
    "notes": "Confirm website, minimum ages, and waiver policy."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 250-5846"
  },
  {
   "id": "pinball-museum",
@@ -756,8 +789,8 @@
   "id": "moonpie-general-store",
   "name": "MoonPie General Store",
   "categories": [
-   "shopping",
-   "coffee"
+   "coffee",
+   "shopping"
   ],
   "neighborhoods": [
    "downtown"
@@ -775,7 +808,16 @@
    ]
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "family": {
+   "ages": [
+    "all"
+   ],
+   "cost": "$",
+   "rainy": false,
+   "setting": "indoor",
+   "duration": ""
+  }
  },
  {
   "id": "tivoli-theatre",
@@ -789,11 +831,11 @@
   ],
   "description": "A restored 1920s movie palace on Broad Street hosting touring shows, concerts, and performing arts.",
   "address": "709 Broad St, Chattanooga, TN 37402",
-  "lat": 35.0479,
-  "lng": -85.31,
+  "lat": 35.047987,
+  "lng": -85.310919,
   "phone": "423-757-5580",
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-15",
    "sources": [
     "https://www.pressreader.com/usa/chattanooga-times-free-press/20181101/282565904143423"
@@ -835,14 +877,14 @@
    "arts"
   ],
   "neighborhoods": [
-   "westside"
+   "downtown"
   ],
   "description": "A small riverside park on the Tennessee Riverwalk with sculptures and markers reflecting on Chattanooga's industrial heritage and urban renewal. Restrooms and parking are reported on site.",
   "address": "Riverfront Pkwy (Tennessee Riverwalk), Chattanooga, TN 37402",
   "lat": 35.051,
   "lng": -85.3196,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-15",
    "sources": [
     "https://www.mypacer.com/parks/209952/blue-goose-hollow-chattanooga",
@@ -860,7 +902,7 @@
    "parks"
   ],
   "neighborhoods": [
-   "westside"
+   "downtown"
   ],
   "description": "The Westside's neighborhood park, with ballfields, tennis courts, a playground, walking paths, and a recreation center at the heart of the community.",
   "address": "1195 Grove St, Chattanooga, TN 37402",
@@ -873,13 +915,13 @@
     "9-12",
     "all"
    ],
-   "setting": "outdoor",
    "cost": "free",
-   "duration": "30–60 minutes",
-   "rainy": false
+   "rainy": false,
+   "setting": "outdoor",
+   "duration": "30–60 minutes"
   },
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-15",
    "sources": [
     "https://noogatoday.6amcity.com/parks-guide-chattanooga-tn",
@@ -897,7 +939,7 @@
    "parks"
   ],
   "neighborhoods": [
-   "westside"
+   "downtown"
   ],
   "description": "A Riverwalk parking and access point along Riverfront Parkway on the Westside's river edge — walk north toward Ross's Landing and downtown.",
   "address": "935 Riverfront Pkwy, Chattanooga, TN 37402",
@@ -905,7 +947,7 @@
   "lng": -85.3222,
   "website": "https://www.traillink.com/trail/tennessee-riverwalk/",
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-15",
    "sources": [
     "https://www.traillink.com/gdbkpdf/trail/6032627/tennessee-riverwalk63918121993355-2026.pdf"
@@ -913,15 +955,30 @@
    "notes": "Parking address from TrailLink; confirm with Hamilton County / City."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "family": {
+   "ages": [
+    "toddlers",
+    "5-8",
+    "9-12",
+    "teens",
+    "all"
+   ],
+   "cost": "free",
+   "rainy": false,
+   "setting": "outdoor",
+   "duration": ""
+  }
  },
  {
   "id": "chattanooga-choo-choo",
   "name": "Chattanooga Choo Choo",
   "categories": [
+   "restaurants",
+   "shopping",
    "attractions",
-   "nightlife",
-   "restaurants"
+   "parks",
+   "nightlife"
   ],
   "neighborhoods": [
    "southside"
@@ -931,8 +988,8 @@
   "lat": 35.0371,
   "lng": -85.3069,
   "image": {
-   "src": "/images/chattanooga-choo-choo.jpg",
-   "alt": "The red and green Chattanooga Choo Choo steam locomotive on display"
+   "alt": "The red and green Chattanooga Choo Choo steam locomotive on display",
+   "src": "/images/chattanooga-choo-choo.jpg"
   },
   "featured": true,
   "family": {
@@ -943,25 +1000,28 @@
     "teens",
     "all"
    ],
-   "setting": "outdoor",
    "cost": "free",
-   "duration": "30–60 minutes",
-   "rainy": true
+   "rainy": false,
+   "setting": "outdoor",
+   "duration": "30–60 minutes"
   },
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-15",
    "sources": [],
    "notes": "Address from editorial knowledge; confirm website before launch."
   },
-  "active": true
+  "active": true,
+  "website": "https://choochoo.com/",
+  "phone": "(423) 266-5000",
+  "coordsApproximate": false
  },
  {
   "id": "station-street",
   "name": "Station Street",
   "categories": [
-   "nightlife",
-   "attractions"
+   "attractions",
+   "nightlife"
   ],
   "neighborhoods": [
    "southside"
@@ -1009,8 +1069,8 @@
   "id": "chattanooga-whiskey-experimental",
   "name": "Chattanooga Whiskey Experimental Distillery",
   "categories": [
-   "nightlife",
-   "attractions"
+   "attractions",
+   "nightlife"
   ],
   "neighborhoods": [
    "southside"
@@ -1044,10 +1104,10 @@
   ],
   "description": "A couple-run chocolate shop across from the Choo Choo making truffles, sipping chocolate, and pastries by hand.",
   "address": "1437 Market St, Chattanooga, TN 37402",
-  "lat": 35.0367,
-  "lng": -85.308,
+  "lat": 35.037617,
+  "lng": -85.307561,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-15",
    "sources": [
     "https://www.timesfreepress.com/news/edge/story/2018/nov/01/brand-hot-chocolatier/481613/",
@@ -1056,14 +1116,24 @@
    "notes": "Sources disagree: 1437 vs 1423 Market St. Confirm with the shop."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 266-3066",
+  "family": {
+   "ages": [
+    "all"
+   ],
+   "cost": "$",
+   "rainy": false,
+   "setting": "indoor",
+   "duration": ""
+  }
  },
  {
   "id": "niedlovs",
   "name": "Niedlov's Bakery & Café",
   "categories": [
-   "coffee",
-   "restaurants"
+   "restaurants",
+   "coffee"
   ],
   "neighborhoods": [
    "southside"
@@ -1096,10 +1166,10 @@
   ],
   "description": "A working butcher counter and restaurant on East Main Street, celebrated for its burgers and locally sourced meats.",
   "address": "217 E Main St, Chattanooga, TN 37408",
-  "lat": 35.039,
-  "lng": -85.3046,
+  "lat": 35.035456,
+  "lng": -85.30511,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-15",
    "sources": [
     "https://tablejourney.com/neighborhood/chattanooga/southside/"
@@ -1107,7 +1177,9 @@
    "notes": "Street number not confirmed by a source this session."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "website": "https://www.mainstreetmeatschatt.com/",
+  "phone": "(423)602-9568"
  },
  {
   "id": "state-of-confusion",
@@ -1121,17 +1193,19 @@
   ],
   "description": "A Main Street restaurant with Latin-leaning plates from the wood grill, a covered patio, and weekend brunch.",
   "address": "301 E Main St, Chattanooga, TN 37408",
-  "lat": 35.039,
-  "lng": -85.3035,
+  "lat": 35.035799,
+  "lng": -85.306054,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-15",
    "sources": [
     "https://tablejourney.com/neighborhood/chattanooga/southside/"
    ]
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "website": "https://www.soconfusion.com/",
+  "phone": "(423) 760-3473"
  },
  {
   "id": "hi-fi-clydes",
@@ -1240,6 +1314,7 @@
   "id": "finley-stadium",
   "name": "Finley Stadium",
   "categories": [
+   "sports",
    "attractions",
    "nightlife"
   ],
@@ -1248,14 +1323,14 @@
   ],
   "description": "Home of UTC Mocs football and Chattanooga FC soccer, plus concerts and community events on the Southside.",
   "address": "1826 Reggie White Blvd, Chattanooga, TN 37408",
-  "lat": 35.0325,
-  "lng": -85.3125,
+  "lat": 35.036251,
+  "lng": -85.315511,
   "image": {
-   "src": "/images/finley-stadium.jpg",
-   "alt": "Aerial view of a full Finley Stadium during an evening soccer match"
+   "alt": "Aerial view of a full Finley Stadium during an evening soccer match",
+   "src": "/images/finley-stadium.jpg"
   },
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-15",
    "sources": [
     "https://www.timesfreepress.com/news/2022/apr/23/southside-chattanooga/"
@@ -1263,7 +1338,18 @@
    "notes": "Street address not confirmed this session."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "website": "https://www.finleystadium.com/",
+  "phone": "(423) 266-4041",
+  "family": {
+   "ages": [
+    "all"
+   ],
+   "cost": "$",
+   "rainy": true,
+   "setting": "outdoor",
+   "duration": ""
+  }
  },
  {
   "id": "incline-railway",
@@ -1272,7 +1358,7 @@
    "attractions"
   ],
   "neighborhoods": [
-   "st-elmo"
+   "lookout-mountain"
   ],
   "description": "A funicular railway dating to 1895 that climbs about a mile up Lookout Mountain from St. Elmo to the summit near Point Park. Combination tickets with other mountain attractions are available.",
   "address": "3917 St Elmo Ave, Chattanooga, TN 37409",
@@ -1287,10 +1373,10 @@
     "teens",
     "all"
    ],
+   "cost": "$",
+   "rainy": false,
    "setting": "outdoor",
-   "cost": "$$",
-   "duration": "1–2 hours",
-   "rainy": false
+   "duration": "1–2 hours"
   },
   "verification": {
    "status": "verified",
@@ -1300,7 +1386,8 @@
     "https://ridetheincline.com/?p=162"
    ]
   },
-  "active": true
+  "active": true,
+  "coordsApproximate": false
  },
  {
   "id": "st-elmo-historic-district",
@@ -1309,7 +1396,7 @@
    "attractions"
   ],
   "neighborhoods": [
-   "st-elmo"
+   "southside"
   ],
   "description": "One of Chattanooga's oldest suburbs, listed on the National Register of Historic Places, with Victorian and Craftsman homes on tree-lined streets at the foot of Lookout Mountain.",
   "address": "St Elmo Ave, Chattanooga, TN 37409",
@@ -1323,7 +1410,16 @@
    ]
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "family": {
+   "ages": [
+    "all"
+   ],
+   "cost": "free",
+   "rainy": false,
+   "setting": "outdoor",
+   "duration": ""
+  }
  },
  {
   "id": "towing-museum",
@@ -1332,7 +1428,7 @@
    "attractions"
   ],
   "neighborhoods": [
-   "st-elmo"
+   "southside"
   ],
   "description": "The world's first tow truck was built in Chattanooga in 1916. This one-of-a-kind museum displays restored wreckers and antique cars, plus the moving Wall of the Fallen memorial.",
   "address": "3315 Broad St, Chattanooga, TN 37408",
@@ -1344,10 +1440,10 @@
     "9-12",
     "all"
    ],
-   "setting": "indoor",
    "cost": "$",
-   "duration": "1–1.5 hours",
-   "rainy": true
+   "rainy": true,
+   "setting": "indoor",
+   "duration": "1–1.5 hours"
   },
   "verification": {
    "status": "verified",
@@ -1357,7 +1453,8 @@
     "https://assets.atlasobscura.com/places/international-towing-and-recovery-museum"
    ]
   },
-  "active": true
+  "active": true,
+  "coordsApproximate": false
  },
  {
   "id": "little-coyote",
@@ -1366,7 +1463,7 @@
    "restaurants"
   ],
   "neighborhoods": [
-   "st-elmo"
+   "southside"
   ],
   "description": "Texas-style smoked meats and house-made tortillas with views of Lookout Mountain; recognized with a Michelin Bib Gourmand in 2025.",
   "address": "3950 Tennessee Ave, Chattanooga, TN 37409",
@@ -1389,7 +1486,7 @@
    "restaurants"
   ],
   "neighborhoods": [
-   "st-elmo"
+   "southside"
   ],
   "description": "A cheerful St. Elmo café near the Incline serving barbecue and picnic fare — save room for the bread pudding.",
   "address": "4001 St Elmo Ave, Chattanooga, TN 37409",
@@ -1413,7 +1510,7 @@
    "shopping"
   ],
   "neighborhoods": [
-   "st-elmo"
+   "southside"
   ],
   "description": "A neighborhood shop for curated everyday goods beside the Incline's lower station; it also houses a MoonPie General Store outpost.",
   "address": "3915 St Elmo Ave, Chattanooga, TN 37409",
@@ -1428,17 +1525,26 @@
    ]
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "family": {
+   "ages": [
+    "all"
+   ],
+   "cost": "$",
+   "rainy": false,
+   "setting": "indoor",
+   "duration": ""
+  }
  },
  {
   "id": "point-park",
   "name": "Point Park (Chickamauga & Chattanooga National Military Park)",
   "categories": [
-   "parks",
-   "attractions"
+   "attractions",
+   "parks"
   ],
   "neighborhoods": [
-   "st-elmo"
+   "lookout-mountain"
   ],
   "description": "A National Park Service site atop Lookout Mountain with sweeping views of the city and Moccasin Bend, Civil War history, and the trailhead for the Bluff Trail. Entrance fee applies.",
   "address": "110 Point Park Rd, Lookout Mountain, TN 37350",
@@ -1446,21 +1552,22 @@
   "lng": -85.3437,
   "website": "https://www.nps.gov/chch/",
   "image": {
-   "src": "/images/mountain-view.jpg",
-   "alt": "View from Lookout Mountain over the Tennessee River's Moccasin Bend at sunrise"
+   "alt": "View from Lookout Mountain over the Tennessee River's Moccasin Bend at sunrise",
+   "src": "/images/mountain-view.jpg"
   },
   "featured": true,
   "family": {
    "ages": [
+    "toddlers",
     "5-8",
     "9-12",
     "teens",
     "all"
    ],
-   "setting": "outdoor",
    "cost": "$",
-   "duration": "1–2 hours",
-   "rainy": false
+   "rainy": false,
+   "setting": "outdoor",
+   "duration": "1–2 hours"
   },
   "verification": {
    "status": "verified",
@@ -1470,7 +1577,8 @@
     "https://proximity2nature.squarespace.com/blog/tag/chattanooga"
    ]
   },
-  "active": true
+  "active": true,
+  "coordsApproximate": false
  },
  {
   "id": "ruby-falls",
@@ -1479,7 +1587,7 @@
    "attractions"
   ],
   "neighborhoods": [
-   "st-elmo"
+   "lookout-mountain"
   ],
   "description": "A guided walk deep inside Lookout Mountain to an underground waterfall, plus a scenic overlook above ground.",
   "address": "1720 S Scenic Hwy, Chattanooga, TN 37409",
@@ -1493,18 +1601,20 @@
     "teens",
     "all"
    ],
+   "cost": "$",
+   "rainy": true,
    "setting": "indoor",
-   "cost": "$$$",
-   "duration": "1.5–2 hours",
-   "rainy": true
+   "duration": "1.5–2 hours"
   },
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-15",
    "sources": [],
    "notes": "Address and website from editorial knowledge; verify before launch."
   },
-  "active": true
+  "active": true,
+  "phone": "(423) 821-2544",
+  "coordsApproximate": false
  },
  {
   "id": "rock-city",
@@ -1514,7 +1624,7 @@
    "parks"
   ],
   "neighborhoods": [
-   "st-elmo"
+   "lookout-mountain"
   ],
   "description": "A walking trail through giant rock formations and gardens on top of Lookout Mountain (just over the Georgia line), ending at Lover's Leap and its famous view.",
   "address": "1400 Patten Rd, Lookout Mountain, GA 30750",
@@ -1522,29 +1632,31 @@
   "lng": -85.3502,
   "website": "https://www.seerockcity.com",
   "image": {
-   "src": "/images/rock-city.jpg",
-   "alt": "Rock City's stone cliffs and Lover's Leap overlook above the valley"
+   "alt": "Rock City's stone cliffs and Lover's Leap overlook above the valley",
+   "src": "/images/rock-city.jpg"
   },
   "family": {
    "ages": [
+    "toddlers",
     "5-8",
     "9-12",
     "teens",
     "all"
    ],
+   "cost": "$",
+   "rainy": false,
    "setting": "outdoor",
-   "cost": "$$$",
-   "duration": "1.5–2 hours",
-   "rainy": false
+   "duration": "1.5–2 hours"
   },
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-15",
    "sources": [],
    "notes": "Address and website from editorial knowledge; verify before launch."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(706) 820-2531"
  },
  {
   "id": "chattanooga-zoo",
@@ -1553,32 +1665,36 @@
    "attractions",
    "parks"
   ],
-  "neighborhoods": [],
+  "neighborhoods": [
+   "downtown"
+  ],
   "description": "A walkable, kid-scaled zoo in Warner Park with animals from around the world — an easy half-day with little ones.",
   "address": "301 N Holtzclaw Ave, Chattanooga, TN 37404",
-  "lat": 35.041,
-  "lng": -85.2805,
+  "lat": 35.042875,
+  "lng": -85.282853,
   "website": "https://www.chattzoo.org",
   "family": {
    "ages": [
     "toddlers",
     "5-8",
     "9-12",
+    "teens",
     "all"
    ],
-   "setting": "outdoor",
    "cost": "$$",
-   "duration": "2–3 hours",
-   "rainy": false
+   "rainy": false,
+   "setting": "outdoor",
+   "duration": "2–3 hours"
   },
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-15",
    "sources": [],
    "notes": "Address and website from editorial knowledge; verify before launch."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 697-1322"
  },
  {
   "id": "tennessee-valley-railroad",
@@ -1651,8 +1767,8 @@
   "id": "ed-johnson-memorial",
   "name": "Ed Johnson Memorial",
   "categories": [
-   "arts",
-   "attractions"
+   "attractions",
+   "arts"
   ],
   "neighborhoods": [
    "downtown"
@@ -1670,7 +1786,16 @@
    ]
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "family": {
+   "ages": [
+    "all"
+   ],
+   "cost": "free",
+   "rainy": false,
+   "setting": "outdoor",
+   "duration": ""
+  }
  },
  {
   "id": "milk-and-honey",
@@ -1684,10 +1809,10 @@
   ],
   "description": "Counter-service cafe near Taco Mamacita serving breakfast, brunch, coffee and house-made gelato.",
   "address": "135 N Market St, Chattanooga, TN 37405",
-  "lat": 35.0645,
-  "lng": -85.3096,
+  "lat": 35.064375,
+  "lng": -85.309117,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://order.toasttab.com/online/milk-honey-chattanooga-135-n-market-st"
@@ -1695,7 +1820,8 @@
    "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 521-3123"
  },
  {
   "id": "frazier-five-and-dime",
@@ -1709,11 +1835,11 @@
   ],
   "description": "Polished-casual restaurant and bar with small plates, brunch and a nod to the building's five-and-dime past.",
   "address": "16 Frazier Ave, Chattanooga, TN 37405",
-  "lat": 35.0632,
-  "lng": -85.3087,
+  "lat": 35.062654,
+  "lng": -85.308044,
   "website": "https://www.frazier5and10.com",
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://citylifestyle.com/articles/frazier-five-and-dime",
@@ -1722,7 +1848,8 @@
    "notes": "Address and website from a City Lifestyle profile; one older directory lists 330 Frazier. Confirm with the business. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 541-9655"
  },
  {
   "id": "bento-ya",
@@ -1735,10 +1862,10 @@
   ],
   "description": "Small Japanese spot on Frazier Avenue built around bento boxes, sushi and oden bowls.",
   "address": "111 Frazier Ave, Chattanooga, TN 37405",
-  "lat": 35.0636,
-  "lng": -85.3061,
+  "lat": 35.062671,
+  "lng": -85.307314,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://www.restaurantji.com/tn/chattanooga/bento-ya-/comments/",
@@ -1747,7 +1874,9 @@
    "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "website": "https://www.bentoyacha.com",
+  "phone": "(423) 504-2718"
  },
  {
   "id": "cashew",
@@ -1810,10 +1939,10 @@
   ],
   "description": "Long-running Frazier Avenue sushi and Japanese grill, known locally for its weekday lunch buffet.",
   "address": "330 Frazier Ave Ste 124, Chattanooga, TN 37405",
-  "lat": 35.0645,
-  "lng": -85.3012,
+  "lat": 35.062017,
+  "lng": -85.305753,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://www.wdef.com/?p=91065",
@@ -1822,7 +1951,8 @@
    "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 508-8898"
  },
  {
   "id": "basecamp",
@@ -1836,10 +1966,10 @@
   ],
   "description": "Outdoorsy bar and restaurant serving comfort food and local craft beer, with a patio facing the river side of Frazier.",
   "address": "346 Frazier Ave, Chattanooga, TN 37405",
-  "lat": 35.0646,
-  "lng": -85.3007,
+  "lat": 35.061907,
+  "lng": -85.304943,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://www.toasttab.com/local/order/basecamp-bar-and-restaurant-346-frazier-ave/r-c518f1c9-4e57-43f9-a4ba-bc04b74b4d99"
@@ -1860,10 +1990,10 @@
   ],
   "description": "Mexican restaurant (formerly Poblano's) with traditional and Tex-Mex plates and house margaritas.",
   "address": "551 River St, Chattanooga, TN 37405",
-  "lat": 35.063,
-  "lng": -85.3045,
+  "lat": 35.061108,
+  "lng": -85.303581,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://reviews.birdeye.com/la-santa-154103554871463?page=6"
@@ -1884,10 +2014,10 @@
   ],
   "description": "Scratch Mexican kitchen and cantina at the corner of Market Street and Frazier Avenue, opened in 2020.",
   "address": "2 Cherokee Blvd, Chattanooga, TN 37405",
-  "lat": 35.0638,
-  "lng": -85.3099,
+  "lat": 35.062671,
+  "lng": -85.308774,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://order.toasttab.com/online/mezcla-cocina-y-cantina",
@@ -1896,7 +2026,8 @@
    "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 541-6000"
  },
  {
   "id": "chipotle-northshore",
@@ -1935,10 +2066,10 @@
   ],
   "description": "Longtime bar and grill famous for its wall of frozen-daiquiri machines, plus karaoke, trivia and DJ nights.",
   "address": "103 Cherokee Blvd, Chattanooga, TN 37405",
-  "lat": 35.065,
-  "lng": -85.3113,
+  "lat": 35.063773,
+  "lng": -85.310286,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://superpages.com/chattanooga-tn/bpp/the-big-chill-and-grill-6230915",
@@ -1947,7 +2078,8 @@
    "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 267-2445"
  },
  {
   "id": "zaya-1943-korean-steakhouse",
@@ -1960,10 +2092,10 @@
   ],
   "description": "Upscale Korean steakhouse where servers grill dry-aged cuts tableside; reservations suggested.",
   "address": "300 Cherokee Blvd Ste 125, Chattanooga, TN 37405",
-  "lat": 35.0666,
-  "lng": -85.3128,
+  "lat": 35.0652,
+  "lng": -85.313258,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://book.toasttab.com/r/zaya-1943-korean-steakhouse-300-cherokee-blvd-ste-125",
@@ -1972,7 +2104,8 @@
    "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "423) 643-9292"
  },
  {
   "id": "first-watch-northshore",
@@ -1985,10 +2118,10 @@
   ],
   "description": "Daytime chain serving breakfast, brunch and lunch in the 300 Cherokee development.",
   "address": "300 Cherokee Blvd, Chattanooga, TN 37405",
-  "lat": 35.0667,
-  "lng": -85.3126,
+  "lat": 35.066465,
+  "lng": -85.31476,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://www.chattanoogan.com/2018/3/29/365910/Local-Brunch-Spot-To-Open-2nd.aspx"
@@ -1996,7 +2129,8 @@
    "notes": "National chain; address from the 2018 opening announcement. Confirm suite and hours on the chain's site. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 763-1800"
  },
  {
   "id": "edleys-bar-b-que-northshore",
@@ -2035,10 +2169,10 @@
   ],
   "description": "Cuban cantina and rum bar serving Cuban sandwiches, ropa vieja and tropical cocktails since 2015.",
   "address": "301 Cherokee Blvd Ste B, Chattanooga, TN 37405",
-  "lat": 35.0668,
-  "lng": -85.3131,
+  "lat": 35.066219,
+  "lng": -85.313065,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://startpage.mapquest.com/us/tennessee/embargo-62-365037582",
@@ -2047,7 +2181,8 @@
    "notes": "A 2017 article said it was moving to 325 Cherokee Blvd; current directories list 301 Cherokee Blvd Ste B. Confirm with the business. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 551-4786"
  },
  {
   "id": "mikes-hole-in-the-wall",
@@ -2061,10 +2196,10 @@
   ],
   "description": "Casual sports bar and grill on Cherokee Boulevard with a dog-friendly patio.",
   "address": "538 Cherokee Blvd, Chattanooga, TN 37405",
-  "lat": 35.0688,
-  "lng": -85.3158,
+  "lat": 35.068291,
+  "lng": -85.315468,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://marieletseat.com/2017/01/09/mikes-hole-in-the-wall-chattanooga-tn",
@@ -2073,7 +2208,8 @@
    "notes": "Sources disagree on 535 vs 538 Cherokee Blvd. Confirm with the business. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 475-5259"
  },
  {
   "id": "big-bad-breakfast-chattanooga",
@@ -2111,10 +2247,10 @@
   ],
   "description": "Running and walking specialty store, in business since 1977, known for personal shoe fittings.",
   "address": "802 Hamilton Ave, Chattanooga, TN 37405",
-  "lat": 35.07,
-  "lng": -85.2985,
+  "lat": 35.072379,
+  "lng": -85.30754,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://www.timesfreepress.com/news/2024/apr/08/a-guide-to-chattanooga-sport-and-outdoor-shops/",
@@ -2123,7 +2259,8 @@
    "notes": "Store is in North Chattanooga a short drive from Frazier Ave, not on the main strip. Map pin is a rough estimate. Confirm with the business."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 265-0531"
  },
  {
   "id": "i-go-tokyo",
@@ -2136,10 +2273,10 @@
   ],
   "description": "Japanese-imports boutique with stationery, linens, ceramics and kawaii gifts, plus a small lending library.",
   "address": "34 Frazier Ave, Chattanooga, TN 37405",
-  "lat": 35.0633,
-  "lng": -85.3079,
+  "lat": 35.062601,
+  "lng": -85.307389,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://maps.roadtrippers.com/us/chattanooga-tn/shopping/i-go-tokyo",
@@ -2148,7 +2285,9 @@
    "notes": "Store moved to Frazier Ave from Signal Mill; 34 Frazier is from one directory. Confirm with the business. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "website": "https://www.igotokyostore.com",
+  "phone": "(423) 541-1214"
  },
  {
   "id": "collective-clothing",
@@ -2236,11 +2375,11 @@
   ],
   "description": "Buy-sell-trade vintage clothing shop with pieces from the 1930s through the '90s.",
   "address": "30 Frazier Ave Unit B, Chattanooga, TN 37405",
-  "lat": 35.0633,
-  "lng": -85.3081,
+  "lat": 35.062465,
+  "lng": -85.307722,
   "website": "https://www.uglyduckvintage.com",
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://maps.apple.com/place?place-id=I11A70629BB3CDC8F",
@@ -2312,10 +2451,10 @@
   ],
   "description": "Corner Starbucks in the 10/North building with a patio looking toward Renaissance Park.",
   "address": "20 Cherokee Blvd, Chattanooga, TN 37405",
-  "lat": 35.0644,
-  "lng": -85.3104,
+  "lat": 35.06311,
+  "lng": -85.309755,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://reviews.birdeye.com/starbucks-north-shore-173505370739464",
@@ -2324,7 +2463,8 @@
    "notes": "National chain; confirm hours on the chain's store locator. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 468-1619"
  },
  {
   "id": "stone-cup-cafe",
@@ -2362,10 +2502,10 @@
   ],
   "description": "Local coffeehouse and roaster serving breakfast and lunch, known for oversized cinnamon rolls.",
   "address": "205 Manufacturers Rd Ste 109, Chattanooga, TN 37405",
-  "lat": 35.0634,
-  "lng": -85.3121,
+  "lat": 35.063124,
+  "lng": -85.312888,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://startpage.mapquest.com/us/tennessee/mean-mug-coffeehouse-northshore-378894047",
@@ -2374,7 +2514,9 @@
    "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "website": "https://meanmugcoffee.com/northshore?utm_source=google",
+  "phone": "(423) 829-1769"
  },
  {
   "id": "be-caffeinated-northshore",
@@ -2430,8 +2572,8 @@
   "id": "real-roots-cafe",
   "name": "Real Roots Cafe",
   "categories": [
-   "coffee",
-   "restaurants"
+   "restaurants",
+   "coffee"
   ],
   "neighborhoods": [
    "northshore"
@@ -2441,7 +2583,7 @@
   "lat": 35.069,
   "lng": -85.3093,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://phoenix.aws.mapquest.com/us/tennessee/real-roots-cafe-378620304",
@@ -2450,7 +2592,8 @@
    "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 206-4802"
  },
  {
   "id": "overboard-bar-and-grille",
@@ -2464,10 +2607,10 @@
   ],
   "description": "Burger bar and grill on the second deck of the Southern Belle riverboat, with a river-view patio and bar games.",
   "address": "201 Riverfront Pkwy, Chattanooga, TN 37402",
-  "lat": 35.0576,
-  "lng": -85.3093,
+  "lat": 35.05691,
+  "lng": -85.311027,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://chattanoogariverboat.com/overboard-bar-grille/",
@@ -2476,7 +2619,9 @@
    "notes": "Docked with the Southern Belle; directories list both 151 and 201 Riverfront Pkwy. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "website": "https://chattanoogariverboat.com/overboard-bar-grille/",
+  "phone": "(423) 266-4488"
  },
  {
   "id": "scotties-on-the-river",
@@ -2697,7 +2842,7 @@
   "lat": 35.0515,
   "lng": -85.3106,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://maps.roadtrippers.com/us/chattanooga-tn/food-drink/maple-street-biscuit-company-city-center",
@@ -2706,7 +2851,9 @@
    "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "website": "https://www.maplestreetbiscuits.com",
+  "phone": "(423) 362-5380"
  },
  {
   "id": "rodizio-grill-chattanooga",
@@ -2747,7 +2894,7 @@
   "lat": 35.0504,
   "lng": -85.3106,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://www.mapquest.com/us/tennessee/mayan-kitchen-378913088",
@@ -2756,7 +2903,9 @@
    "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "website": "https://themayankitchen.com/",
+  "phone": "(423) 682-7835"
  },
  {
   "id": "little-venezuela",
@@ -2773,7 +2922,7 @@
   "lng": -85.3099,
   "website": "https://littlevenezuelarestauranttn.com",
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://www.yelp.com/biz/little-venezuela-restaurant-chattanooga",
@@ -2782,7 +2931,8 @@
    "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 800-0550"
  },
  {
   "id": "whitebird",
@@ -2945,10 +3095,10 @@
   ],
   "description": "Upscale American restaurant with a French twist in the 1910 Gilman Paint building, across from the Westin.",
   "address": "216 W 8th St, Chattanooga, TN 37402",
-  "lat": 35.047,
+  "lat": 35.0468431,
   "lng": -85.3119,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://www.chattanoogan.com/2018/7/20/373175/Old-Gilman-Grill-To-Open-In-West-Village.aspx",
@@ -2957,7 +3107,9 @@
    "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "website": "https://www.oldgilmangrill.com/",
+  "phone": "(423) 269-7449"
  },
  {
   "id": "attack-of-the-tatsu",
@@ -3052,10 +3204,10 @@
   ],
   "description": "New Orleans–inspired bar and grill beside the Riverwalk with a covered, dog-friendly patio.",
   "address": "801 Riverfront Pkwy, Chattanooga, TN 37402",
-  "lat": 35.053,
-  "lng": -85.3195,
+  "lat": 35.0509,
+  "lng": -85.3212,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://www.airbnb.dk/things-to-do/places/3036512",
@@ -3064,7 +3216,9 @@
    "notes": "Single directory source for the street number. Confirm with the business. Map pin is a rough estimate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "website": "https://www.parkwaypourhouse.com/",
+  "phone": "(423) 498-5300"
  },
  {
   "id": "yellow-deli-chattanooga",
@@ -3131,7 +3285,7 @@
   "lng": -85.3104,
   "website": "https://www.ligchattanooga.com",
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://www.chattanoogan.com/2021/10/7/436236/Life-Is-Good-Store-Opens-In-Chattanooga.aspx",
@@ -3140,7 +3294,8 @@
    "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 326-8297"
  },
  {
   "id": "madewell-chattanooga",
@@ -3156,7 +3311,7 @@
   "lat": 35.0428,
   "lng": -85.3088,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://www.timesfreepress.com/news/2022/jun/03/madewell-brings-denim-brand-store-warehouse-row/"
@@ -3164,7 +3319,9 @@
    "notes": "Inside Warehouse Row; suite not confirmed. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "website": "https://www.madewell.com/",
+  "phone": "(423) 509-0338"
  },
  {
   "id": "rocket-fizz-chattanooga",
@@ -3202,10 +3359,10 @@
   ],
   "description": "Women's boutique with designer clothing, shoes and accessories inside The Read House.",
   "address": "107 W M.L.K. Blvd, Chattanooga, TN 37402",
-  "lat": 35.0466,
-  "lng": -85.3105,
+  "lat": 35.046652,
+  "lng": -85.311413,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://www.thereadhousehotel.com/attractions/monkees-of-chattanooga/"
@@ -3213,7 +3370,9 @@
    "notes": "Located in The Read House; address is the hotel's. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "website": "https://monkeesofchattanooga.com/",
+  "phone": "(423) 486-1300"
  },
  {
   "id": "antibes-boutique",
@@ -3281,7 +3440,7 @@
   "lat": 35.0427,
   "lng": -85.3087,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://www.chamberofcommerce.com/united-states/tennessee/chattanooga/clothing-store/2014401875-life-is-good-chattanooga",
@@ -3290,7 +3449,9 @@
    "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "website": "https://shophemlinechattanooga.com/",
+  "phone": "(423) 803-6464"
  },
  {
   "id": "national-medal-of-honor-heritage-center",
@@ -3584,10 +3745,10 @@
   ],
   "description": "Coffee house in the lobby of The Edwin Hotel with pastries, juices and grab-and-go sandwiches.",
   "address": "102 Walnut St, Chattanooga, TN 37403",
-  "lat": 35.0583,
-  "lng": -85.3072,
+  "lat": 35.0552,
+  "lng": -85.3074,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
     "https://www.marriott.com/en-us/hotels/chaak-the-edwin-hotel-autograph-collection/dining",
@@ -3596,7 +3757,9 @@
    "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "website": "https://www.theedwinhotel.com/provisions",
+  "phone": "(423) 713-5900"
  },
  {
   "id": "medal-of-honor-coffee-bar",
@@ -3690,7 +3853,7 @@
   "website": "https://feedtableandtavern.com",
   "phone": "(423) 708-8500",
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-22",
    "sources": [
     "https://startpage.mapquest.com/us/tennessee/the-feed-co-table-tavern-364342396",
@@ -3712,11 +3875,11 @@
   ],
   "description": "Chef Daniel Lindley's Italian restaurant in the historic Harrington building, cooking with local ingredients.",
   "address": "25 E Main St, Chattanooga, TN 37408",
-  "lat": 35.0388,
-  "lng": -85.3068,
+  "lat": 35.036089,
+  "lng": -85.306773,
   "phone": "(423) 305-6990",
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-22",
    "sources": [
     "https://opentable.com/r/alleia-restaurant-chattanooga",
@@ -3738,10 +3901,10 @@
   ],
   "description": "Family-owned breakfast and lunch spot on Main Street known for scratch-made biscuits and baked goods.",
   "address": "55 E Main St #101, Chattanooga, TN 37408",
-  "lat": 35.0388,
-  "lng": -85.3063,
+  "lat": 35.036076,
+  "lng": -85.306177,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-22",
    "sources": [
     "https://www.mapquest.com/us/tennessee/bluegrass-grill-44092085",
@@ -3750,7 +3913,10 @@
    "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "website": "https://www.bluegrassgrillchattanooga.com/",
+  "phone": "(423) 752-4020",
+  "featured": true
  },
  {
   "id": "taqueria-jalisco-ania",
@@ -3815,11 +3981,11 @@
   ],
   "description": "Southside steakhouse with small plates and a deep whiskey list.",
   "address": "1925 Myrtle St Ste 101, Chattanooga, TN 37408",
-  "lat": 35.0325,
-  "lng": -85.302,
+  "lat": 35.03098,
+  "lng": -85.297304,
   "phone": "(423) 654-8139",
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-22",
    "sources": [
     "https://startpage.mapquest.com/us/tennessee/number-ten-520549706",
@@ -3828,7 +3994,8 @@
    "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "website": "https://www.numbertenchatt.com/"
  },
  {
   "id": "2nd-american",
@@ -3841,11 +4008,11 @@
   ],
   "description": "Chef Daniel Lindley's Michelin-recommended homage to the classic American Sunday dinner, opened in 2024.",
   "address": "1601 Cowart St, Chattanooga, TN 37408",
-  "lat": 35.0385,
-  "lng": -85.3115,
+  "lat": 35.037262,
+  "lng": -85.311155,
   "website": "https://www.2ndamerican.com",
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-22",
    "sources": [
     "https://resy.com/cities/chattanooga-tn/venues/2nd-american-restaurant",
@@ -3854,7 +4021,9 @@
    "notes": "Entrance is on W 16th St. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 708-7210",
+  "featured": true
  },
  {
   "id": "stir-chattanooga",
@@ -3922,10 +4091,10 @@
   ],
   "description": "Restaurant and bar announced for the former Ernest Chinese space on Johnson Street.",
   "address": "55 Johnson St, Chattanooga, TN 37408",
-  "lat": 35.0385,
-  "lng": -85.3105,
+  "lat": 35.036269,
+  "lng": -85.306027,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-22",
    "sources": [
     "https://noogatoday.6amcity.com/city-guide/play/new-and-coming-soon-restaurants-chattanooga-tn"
@@ -3933,7 +4102,9 @@
    "notes": "Listed as coming soon (opening date TBA); no sign yet that it has opened. Saved as hidden — switch it on in Admin once it opens and the details are confirmed. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": false
+  "active": false,
+  "website": "https://www.bonafidechattanooga.com/",
+  "phone": "(423) 269-7983"
  },
  {
   "id": "the-flaming-rooster",
@@ -3973,10 +4144,10 @@
   ],
   "description": "European bistro from the Taqueria Jalisco Ania team with shareable plates, oysters and cocktails, in the former Slick's Burgers spot.",
   "address": "309 E Main St, Chattanooga, TN 37408",
-  "lat": 35.039,
-  "lng": -85.3033,
+  "lat": 35.045631,
+  "lng": -85.309677,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-22",
    "sources": [
     "https://www.exploretock.com/camila/event/612495",
@@ -3984,8 +4155,10 @@
    ],
    "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
   },
-  "coordsApproximate": true,
-  "active": true
+  "coordsApproximate": false,
+  "active": true,
+  "website": "https://www.camilabistro.com/",
+  "phone": "(423) 269-7617"
  },
  {
   "id": "outpost-bar-and-restaurant",
@@ -3999,10 +4172,10 @@
   ],
   "description": "Appalachian-inspired kitchen and bar on Main Street — sister restaurant to Basecamp on the Northshore.",
   "address": "342 E Main St, Chattanooga, TN 37408",
-  "lat": 35.0392,
+  "lat": 35.0369,
   "lng": -85.3028,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-22",
    "sources": [
     "https://startpage.mapquest.com/us/tennessee/outpost-bar-and-restaurant-646084642",
@@ -4011,7 +4184,9 @@
    "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "website": "https://outpostcha.com/",
+  "phone": "(423) 708-8044"
  },
  {
   "id": "kai-bistro",
@@ -4025,10 +4200,10 @@
   ],
   "description": "Asian fusion bistro drawing on Korean, Japanese, Vietnamese, Thai and Hawaiian flavors, with signature drinks.",
   "address": "625 E Main St, Chattanooga, TN 37408",
-  "lat": 35.0393,
-  "lng": -85.2985,
+  "lat": 35.033308,
+  "lng": -85.299332,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-22",
    "sources": [
     "https://www.toasttab.com/local/order/kai-bistro-625-east-main-street/r-c723a60e-e69a-4eae-8819-4f99e4e3f389/item-pho-zilla_4e7109a3-79c2-4d97-b795-4ab191113502",
@@ -4037,7 +4212,9 @@
    "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "website": "https://www.kaibistrochatt.com/",
+  "phone": "(423) 531-4098"
  },
  {
   "id": "southside-social",
@@ -4078,10 +4255,10 @@
   ],
   "description": "Korean-American restaurant from chef David Sherrill, cooking family recipes with a seasonal menu.",
   "address": "3103 Broad St, Chattanooga, TN 37408",
-  "lat": 35.019,
-  "lng": -85.3235,
+  "lat": 35.020139,
+  "lng": -85.321283,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-22",
    "sources": [
     "https://tablejourney.com/united-states/chattanooga/cuisine/korean/",
@@ -4090,7 +4267,9 @@
    "notes": "On South Broad Street, south of the historic Southside core. Map pin is approximate; confirm with the business."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "website": "https://hanmichatt.com/",
+  "phone": "(423) 541-7273"
  },
  {
   "id": "crust-pizza-broad-st",
@@ -4107,7 +4286,7 @@
   "lng": -85.325,
   "phone": "(423) 756-4040",
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-22",
    "sources": [
     "https://slicelife.com/restaurants/tn/chattanooga/37408/crust-pizza-3211-broad-st-chattanooga/menu",
@@ -4116,7 +4295,8 @@
    "notes": "Crust has more than one location; this is the Broad Street one. On South Broad Street, south of the historic Southside core. Map pin is approximate; confirm with the business."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "website": "https://www.crustpizzatn.com/"
  },
  {
   "id": "mountain-outfitters-chattanooga",
@@ -4132,7 +4312,7 @@
   "lat": 35.0205,
   "lng": -85.322,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-22",
    "sources": [
     "https://www.gunmade.com/stores/tennessee/chattanooga/highland-outfitters-26081/",
@@ -4141,7 +4321,9 @@
    "notes": "Opened May 2025; address from a store announcement quoted in a directory listing. On South Broad Street, south of the historic Southside core. Map pin is approximate; confirm with the business."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "website": "https://www.themountainoutfitters.com/",
+  "phone": "(423)541-2353"
  },
  {
   "id": "poor-taste",
@@ -4154,10 +4336,10 @@
   ],
   "description": "Vintage shop for band tees, denim and knitwear from the '70s to the 2000s, with after-hours shows in back.",
   "address": "61 E Main St, Chattanooga, TN 37408",
-  "lat": 35.0388,
-  "lng": -85.3061,
+  "lat": 35.0356713,
+  "lng": -85.3055013,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-22",
    "sources": [
     "https://noogatoday.6amcity.com/consignment-thrift-vintage-guide-chattanooga-tn",
@@ -4166,7 +4348,9 @@
    "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "website": "https://poortaste.co/",
+  "phone": "(423) 414-4220"
  },
  {
   "id": "main-street-farmers-market",
@@ -4179,10 +4363,10 @@
   ],
   "description": "Farmer-run, producers-only market with local produce, meats, dairy and baked goods, Wednesday afternoons.",
   "address": "Chestnut St & W 20th St (by Chattanooga Brewing Co., 1804 Chestnut St), Chattanooga, TN 37408",
-  "lat": 35.0322,
-  "lng": -85.3105,
+  "lat": 35.034705,
+  "lng": -85.315833,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-22",
    "sources": [
     "https://www.picktnproducts.org/picktn-producers/picktn-listing.3462.html",
@@ -4191,7 +4375,17 @@
    "notes": "Wednesdays 4–6 pm per listings. The market has moved over the years (older listings show W Main St at Finley Stadium or Williams St); confirm the current spot and hours. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "website": "https://www.mainstfarmersmarket.com/",
+  "family": {
+   "ages": [
+    "all"
+   ],
+   "cost": "$",
+   "rainy": false,
+   "setting": "outdoor",
+   "duration": ""
+  }
  },
  {
   "id": "oddstory-brewing-central",
@@ -4205,11 +4399,11 @@
   ],
   "description": "Brewery and beer hall with a big outdoor area and the Anomaly kitchen, near Sculpture Fields.",
   "address": "1604 Central Ave, Chattanooga, TN 37408",
-  "lat": 35.035,
-  "lng": -85.2975,
+  "lat": 35.0303848,
+  "lng": -85.2965915,
   "phone": "(423) 682-7690",
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-22",
    "sources": [
     "https://noogatoday.6amcity.com/first-look-oddstory-brewing-co-new-location",
@@ -4218,7 +4412,8 @@
    "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "website": "https://www.oddstorybrewing.co/"
  },
  {
   "id": "five-wits-brewing",
@@ -4232,10 +4427,10 @@
   ],
   "description": "Craft brewery inside the Market South food hall, with a music stage and covered patio.",
   "address": "1501 Long St, Chattanooga, TN 37408",
-  "lat": 35.0388,
-  "lng": -85.3075,
+  "lat": 35.036392,
+  "lng": -85.308548,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-22",
    "sources": [
     "https://untappd.com/v/five-wits-brewing-company/8994336",
@@ -4244,7 +4439,9 @@
    "notes": "Listed as 'Five Witts' in the owner's list; the business name is Five Wits. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "website": "https://fivewitsbrewing.com/",
+  "phone": "(423) 541-5300"
  },
  {
   "id": "tailgate-brewery-chattanooga",
@@ -4291,7 +4488,7 @@
   "lng": -85.3205,
   "website": "https://creaturecomforts.co/chattanooga/",
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-22",
    "sources": [
     "https://creaturecomforts.co/chattanooga/",
@@ -4300,7 +4497,8 @@
    "notes": "Opened April 2026; open most Lookouts game days, some non-game weekends and events — check the calendar before going. No street address published; pin is at Erlanger Park and approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(706) 410-1043"
  },
  {
   "id": "mean-mug-southside",
@@ -4313,10 +4511,10 @@
   ],
   "description": "The original Mean Mug, open since 2011, with house-roasted coffee and scratch breakfast and lunch all day.",
   "address": "114 W Main St, Chattanooga, TN 37408",
-  "lat": 35.039,
-  "lng": -85.3092,
+  "lat": 35.036409,
+  "lng": -85.30843,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-22",
    "sources": [
     "https://startpage.mapquest.com/us/tennessee/mean-mug-coffeehouse-279747250",
@@ -4325,25 +4523,28 @@
    "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "website": "https://meanmugcoffee.com/southside",
+  "phone": "(423)203- 2726",
+  "featured": true
  },
  {
   "id": "honey-seed",
   "name": "Honey Seed",
   "categories": [
-   "coffee",
-   "restaurants"
+   "restaurants",
+   "coffee"
   ],
   "neighborhoods": [
    "southside"
   ],
   "description": "All-day Southside cafe known for hand-rolled Montreal-style bagels and wood-fired pizza, with a full bar.",
   "address": "1705 Market St Ste 105, Chattanooga, TN 37408",
-  "lat": 35.0345,
-  "lng": -85.3075,
+  "lat": 35.03539,
+  "lng": -85.307465,
   "phone": "(423) 521-7333",
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-22",
    "sources": [
     "https://opentable.com.au/r/honey-seed-chattanooga",
@@ -4352,7 +4553,8 @@
    "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "website": "https://www.honeyseedchatt.com/"
  },
  {
   "id": "velo-coffee-roasters",
@@ -4390,10 +4592,10 @@
   ],
   "description": "Women-owned roaster founded in 2002, with a cafe in its Broad Street roasting facility.",
   "address": "2627 Broad St, Chattanooga, TN 37408",
-  "lat": 35.025,
-  "lng": -85.3185,
+  "lat": 35.026043,
+  "lng": -85.317893,
   "verification": {
-   "status": "needs_review",
+   "status": "verified",
    "lastVerified": "2026-11-22",
    "sources": [
     "https://mycoffeeexplorer.com/roasters/chattanooga-coffee-co-chattz-coffee",
@@ -4402,7 +4604,9 @@
    "notes": "On South Broad Street, south of the historic Southside core. Map pin is approximate; confirm with the business."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "website": "https://www.chattanoogacoffeecompany.com/",
+  "phone": "(423) 310-8889"
  },
  {
   "id": "sunnyside-cup-broad-st",
@@ -4478,5 +4682,112 @@
   },
   "coordsApproximate": true,
   "active": true
+ },
+ {
+  "id": "chattanooga-lookouts-erlanger-park",
+  "name": "Chattanooga Lookouts at Erlanger Park",
+  "categories": [
+   "sports",
+   "attractions"
+  ],
+  "neighborhoods": [
+   "southside"
+  ],
+  "description": "Double-A affiliate of the Cincinnati Reds, playing since 2026 in a new South Broad ballpark built around historic foundry buildings, with Lookout Mountain views and Friday-night fireworks.",
+  "address": "2658 Pipe Way, Chattanooga, TN 37408",
+  "lat": 35.02602,
+  "lng": -85.32085,
+  "website": "https://www.milb.com/chattanooga",
+  "phone": "(423) 267-2208",
+  "coordsApproximate": true,
+  "active": true,
+  "verification": {
+   "status": "verified",
+   "lastVerified": "2026-11-27",
+   "sources": [
+    "https://www.mlb.com/milb/news/featured/chattanooga-lookouts-ballpark-guide",
+    "https://erlangerpark.com/",
+    "https://en.wikipedia.org/wiki/Erlanger_Park"
+   ],
+   "notes": "Address and phone from MLB.com's ballpark guide. Ticket sites also list 201 Power Alley; main gates are on the Chestnut Street side, with $8 parking in the Chestnut St and 28th St lots. Map pin is approximate."
+  }
+ },
+ {
+  "id": "chattanooga-red-wolves",
+  "name": "Chattanooga Red Wolves SC (CHI Memorial Stadium)",
+  "categories": [
+   "sports"
+  ],
+  "neighborhoods": [],
+  "description": "USL League One pro soccer club playing at CHI Memorial Stadium, Tennessee's first soccer-specific stadium, in East Ridge.",
+  "address": "6198 N Mack Smith Rd, East Ridge, TN 37412",
+  "lat": 34.99861,
+  "lng": -85.21139,
+  "coordsApproximate": true,
+  "active": true,
+  "verification": {
+   "status": "needs_review",
+   "lastVerified": "2026-11-27",
+   "sources": [
+    "https://www.stadiumjourney.com/stadiums/chi-memorial-stadium-chattanooga-red-wolves",
+    "https://en.wikipedia.org/wiki/CHI_Memorial_Stadium"
+   ],
+   "notes": "In East Ridge, outside the guide's neighborhood maps, so it appears under Sports Teams & Venues only. Address from Stadium Journey; confirm with the club. Map pin is approximate."
+  }
+ },
+ {
+  "id": "high-point-zip-adventure",
+  "name": "High Point ZIP Adventure at Ruby Falls",
+  "categories": [
+   "attractions",
+   "parks"
+  ],
+  "neighborhoods": [
+   "lookout-mountain"
+  ],
+  "description": "Treetop ziplines and a 40-foot climbing tower at Ruby Falls, run with High Point Climbing. Separately ticketed and open seasonally.",
+  "address": "1720 S Scenic Hwy, Chattanooga, TN 37409",
+  "lat": 35.0185,
+  "lng": -85.3402,
+  "website": "https://www.rubyfalls.com/things-to-do/high-point-zip-adventure/",
+  "coordsApproximate": true,
+  "active": true,
+  "verification": {
+   "status": "verified",
+   "lastVerified": "2026-11-27",
+   "sources": [
+    "https://www.rubyfalls.com/things-to-do/high-point-zip-adventure/",
+    "https://www.lookoutmountain.com/ruby-falls/"
+   ],
+   "notes": "At Ruby Falls; check the Ruby Falls site for this season's dates. Allow about 45–60 minutes. Map pin is approximate."
+  }
+ },
+ {
+  "id": "mckenzie-arena",
+  "name": "McKenzie Arena (UTC Mocs)",
+  "categories": [
+   "sports",
+   "nightlife"
+  ],
+  "neighborhoods": [
+   "downtown"
+  ],
+  "description": "'The Roundhouse' on the UTC campus — home of Chattanooga Mocs men's and women's basketball, plus concerts and touring shows.",
+  "address": "720 E 4th St, Chattanooga, TN 37403",
+  "lat": 35.050382,
+  "lng": -85.30091,
+  "website": "https://gomocs.com/facilities/mckenzie-arena/11",
+  "phone": "(423) 425-4706",
+  "coordsApproximate": true,
+  "active": true,
+  "verification": {
+   "status": "verified",
+   "lastVerified": "2026-11-27",
+   "sources": [
+    "https://www.utc.edu/mckenzie-arena/faq.php",
+    "https://gomocs.com/facilities/mckenzie-arena/11"
+   ],
+   "notes": "Address from UTC's official arena pages; phone is the UTC ticket office. Map pin is approximate."
+  }
  }
 ]

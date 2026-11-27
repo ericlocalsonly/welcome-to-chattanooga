@@ -7,7 +7,7 @@ import { PinPicker } from "@/components/admin/PinPicker";
 import { ImageField } from "@/components/admin/ImageField";
 import { savePlace, deletePlace } from "../../actions";
 
-const HOODS = [["northshore", "Northshore"], ["downtown", "Downtown"], ["westside", "Westside District"], ["southside", "Southside"], ["st-elmo", "St. Elmo"]];
+const HOODS = [["northshore", "Northshore"], ["downtown", "Downtown"], ["southside", "Southside"], ["lookout-mountain", "Lookout Mountain"]];
 
 export default async function EditPlace({ params }: { params: Promise<{ id: string }> }) {
   const { id } = await params;

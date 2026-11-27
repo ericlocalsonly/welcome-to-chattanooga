@@ -2,7 +2,7 @@
 import { readFileSync } from "node:fs";
 const load = (f) => JSON.parse(readFileSync(new URL(`../data/${f}`, import.meta.url), "utf8"));
 const places = load("places.json"), hoods = load("neighborhoods.json"), trails = load("trails.json"), events = load("events.json");
-const CATS = ["restaurants", "coffee", "shopping", "attractions", "parks", "arts", "nightlife"];
+const CATS = ["restaurants", "coffee", "shopping", "attractions", "parks", "arts", "nightlife", "sports"];
 const slugs = new Set(hoods.map((h) => h.slug));
 const errs = [], warns = [];
 const ids = new Set();

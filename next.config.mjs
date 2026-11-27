@@ -7,6 +7,12 @@ const securityHeaders = [
 ];
 const nextConfig = {
   reactStrictMode: true,
+  async redirects() {
+    return [
+      { source: "/neighborhoods/st-elmo", destination: "/neighborhoods/southside", permanent: true },
+      { source: "/neighborhoods/westside", destination: "/neighborhoods/downtown", permanent: true },
+    ];
+  },
   async headers() {
     return [
       { source: "/:path*", headers: securityHeaders },

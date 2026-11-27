@@ -4,7 +4,7 @@ import { PageHero } from "@/components/PageHero";
 import { getNeighborhoods, getPlaces } from "@/lib/data";
 
 export const revalidate = 300;
-export const metadata: Metadata = { title: "Explore Chattanooga's Neighborhoods", description: "Northshore, Downtown, the Westside, Southside, and St. Elmo — interactive maps of local shops, restaurants, parks, and attractions." };
+export const metadata: Metadata = { title: "Explore Chattanooga's Neighborhoods", description: "Northshore, Downtown, Southside, and Lookout Mountain — interactive maps of local shops, restaurants, parks, and attractions." };
 
 export default async function NeighborhoodsPage() {
   const [hoods, places] = await Promise.all([getNeighborhoods(), getPlaces()]);

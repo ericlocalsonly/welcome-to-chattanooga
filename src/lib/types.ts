@@ -5,7 +5,8 @@ export type CategoryKey =
   | "attractions"
   | "parks"
   | "arts"
-  | "nightlife";
+  | "nightlife"
+  | "sports";
 
 export type AgeGroup = "toddlers" | "5-8" | "9-12" | "teens" | "all";
 export type Cost = "free" | "$" | "$$" | "$$$";
