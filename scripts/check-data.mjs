@@ -11,7 +11,7 @@ for (const p of places) {
   for (const k of ["name", "description", "address"]) if (!p[k]) errs.push(`${p.id}: missing ${k}`);
   if (!(p.lat > 34.8 && p.lat < 35.4 && p.lng > -85.6 && p.lng < -84.9)) errs.push(`${p.id}: coordinates outside the Chattanooga area`);
   p.categories.forEach((c) => CATS.includes(c) || errs.push(`${p.id}: bad category ${c}`));
-  if (p.setting && !["indoor", "outdoor", "both"].includes(p.setting)) errs.push(`${p.id}: bad setting ${p.setting}`);
+  if (p.setting && !["indoor", "outdoor", "both", "drive-thru"].includes(p.setting)) errs.push(`${p.id}: bad setting ${p.setting}`);
   if (p.family && !["indoor", "outdoor", "both"].includes(p.family.setting)) errs.push(`${p.id}: bad family setting ${p.family.setting}`);
   if (p.price && !["$", "$$", "$$$"].includes(p.price)) errs.push(`${p.id}: bad price ${p.price}`);
   p.neighborhoods.forEach((n) => slugs.has(n) || errs.push(`${p.id}: unknown neighborhood ${n}`));

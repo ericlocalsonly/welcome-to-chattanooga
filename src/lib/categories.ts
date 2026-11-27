@@ -47,6 +47,7 @@ export const SETTING_LABELS: Record<Setting, string> = {
   indoor: "Indoor",
   outdoor: "Outdoor",
   both: "Indoor & outdoor",
+  "drive-thru": "Drive-through",
 };
 
 export const PRICE_LABELS: Record<Price, string> = {

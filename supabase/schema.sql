@@ -284,3 +284,5 @@ create index if not exists trails_updated_by_idx        on public.trails (update
 -- Setting (indoor / outdoor / both) and rough price per person, for any listing.
 alter table public.places add column if not exists setting text check (setting in ('indoor','outdoor','both'));
 alter table public.places add column if not exists price text check (price in ('$','$$','$$$'));
+alter table public.places drop constraint if exists places_setting_check;
+alter table public.places add constraint places_setting_check check (setting in ('indoor','outdoor','both','drive-thru'));

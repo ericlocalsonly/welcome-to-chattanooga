@@ -36,11 +36,16 @@
    "lastVerified": "2026-11-15",
    "sources": [
     "https://www.timesfreepress.com/news/2014/mar/27/parks-boast-spaces-nature-and-play/",
-    "https://www.visitchattanooga.com/things-to-do/free-things-to-do/"
-   ]
+    "https://www.visitchattanooga.com/things-to-do/free-things-to-do/",
+    "https://chattanooga.gov/things-to-do/parks/coolidge-park"
+   ],
+   "notes": "Owner update (Nov 27, 2026): Price estimated; City parks department contact, not direct venue line."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 643-7866",
+  "setting": "outdoor",
+  "price": "$"
  },
  {
   "id": "coolidge-park-carousel",
@@ -75,13 +80,17 @@
   "verification": {
    "status": "verified",
    "lastVerified": "2026-11-15",
-   "sources": [],
-   "notes": "Confirm current carousel hours and ride price with Chattanooga Parks & Outdoors before launch."
+   "sources": [
+    "https://chattanooga.gov/things-to-do/parks/coolidge-park"
+   ],
+   "notes": "Confirm current carousel hours and ride price with Chattanooga Parks & Outdoors before launch. Owner update (Nov 27, 2026): Price based on published admission."
   },
   "coordsApproximate": true,
   "active": true,
   "website": "https://chattanooga.gov/things-to-do/parks/coolidge-park",
-  "phone": "(423) 643-7866"
+  "phone": "(423) 643-7866",
+  "setting": "indoor",
+  "price": "$"
  },
  {
   "id": "renaissance-park",
@@ -116,11 +125,13 @@
    "sources": [
     "https://www.visitchattanooga.com/things-to-do/free-things-to-do/"
    ],
-   "notes": "Street address not confirmed against an official source this session."
+   "notes": "Street address not confirmed against an official source this session. Owner update (Nov 27, 2026): Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
-  "phone": "(423) 643-7866"
+  "phone": "(423) 643-7866",
+  "setting": "outdoor",
+  "price": "$"
  },
  {
   "id": "frazier-avenue",
@@ -142,7 +153,8 @@
    "lastVerified": "2026-11-15",
    "sources": [
     "https://www.tnvacation.com/vendors/frazier-avenue"
-   ]
+   ],
+   "notes": "Owner update (Nov 27, 2026): Price estimated; Contact research incomplete."
   },
   "coordsApproximate": true,
   "active": true,
@@ -155,7 +167,8 @@
    "setting": "outdoor",
    "duration": ""
   },
-  "setting": "outdoor"
+  "setting": "outdoor",
+  "price": "$"
  },
  {
   "id": "locals-only-gifts-and-goods",
@@ -183,11 +196,14 @@
    "lastVerified": "2026-11-15",
    "sources": [
     "https://www.localsonlygiftsandgoods.com"
-   ]
+   ],
+   "notes": "Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
-  "featured": true
+  "featured": true,
+  "setting": "indoor",
+  "price": "$$"
  },
  {
   "id": "clumpies-northshore",
@@ -223,11 +239,13 @@
    "sources": [
     "https://www.iexitapp.com/Tennessee/I-124/Exit%201C/34229"
    ],
-   "notes": "Address from a directory listing; confirm website URL and current hours."
+   "notes": "Address from a directory listing; confirm website URL and current hours. Owner update (Nov 27, 2026): Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
-  "phone": "(423)267-5425"
+  "phone": "(423)267-5425",
+  "setting": "indoor",
+  "price": "$"
  },
  {
   "id": "in-town-gallery",
@@ -251,10 +269,13 @@
    "sources": [
     "https://chattanoogapulse.com/arts_entertainment/arts-news/in-town-gallery-hosts-50th-anniversary-celebration-on-friday",
     "https://chattanoogabridge.com/places/198"
-   ]
+   ],
+   "notes": "Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "setting": "indoor",
+  "price": "$$"
  },
  {
   "id": "winder-binder",
@@ -276,10 +297,13 @@
    "sources": [
     "https://noogatoday.6amcity.com/small-business/four-local-bookstores-in-the-chattanooga-area"
    ],
-   "notes": "Official website not yet confirmed."
+   "notes": "Official website not yet confirmed. Owner update (Nov 27, 2026): Setting estimated; Price estimated; Contact research incomplete."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 413-8999",
+  "setting": "indoor",
+  "price": "$$"
  },
  {
   "id": "ava-gallery",
@@ -299,12 +323,16 @@
    "status": "verified",
    "lastVerified": "2026-11-15",
    "sources": [
-    "https://www.chattanoogan.com/2021/8/31/433879/The-Ed-Johnson-Project-Announces.aspx"
+    "https://www.chattanoogan.com/2021/8/31/433879/The-Ed-Johnson-Project-Announces.aspx",
+    "https://northshorechattanooga.com/vendors/shop"
    ],
-   "notes": "Most recent address source is 2021; reconfirm before launch."
+   "notes": "Most recent address source is 2021; reconfirm before launch. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "website": "https://avarts.org",
+  "setting": "indoor",
+  "price": "$"
  },
  {
   "id": "chattanooga-theatre-centre",
@@ -339,10 +367,13 @@
    "lastVerified": "2026-11-15",
    "sources": [
     "https://www.pressreader.com/usa/chattanooga-times-free-press/20181101/282565904143423"
-   ]
+   ],
+   "notes": "Owner update (Nov 27, 2026): Price estimated."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "setting": "indoor",
+  "price": "$$"
  },
  {
   "id": "julie-darling-donuts",
@@ -363,7 +394,8 @@
    "lastVerified": "2026-11-15",
    "sources": [
     "https://chattanoogapulse.com/the-pulse-local-shopping-guide-food"
-   ]
+   ],
+   "notes": "Owner update (Nov 27, 2026): Candidate website (unverified): https://juliedarlingdonuts.com; Price estimated; Contact research incomplete."
   },
   "coordsApproximate": true,
   "active": true,
@@ -376,7 +408,8 @@
    "setting": "indoor",
    "duration": ""
   },
-  "setting": "indoor"
+  "setting": "indoor",
+  "price": "$"
  },
  {
   "id": "brewhaus",
@@ -398,12 +431,14 @@
    "sources": [
     "https://www.iexitapp.com/Tennessee/I-124/Exit%201C/34229"
    ],
-   "notes": "Directory source only; confirm website and description with the business."
+   "notes": "Directory source only; confirm website and description with the business. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
   "website": "https://brewhausbar.com/",
-  "phone": "(423) 531-8490"
+  "phone": "(423) 531-8490",
+  "setting": "both",
+  "price": "$$"
  },
  {
   "id": "taco-mamacita",
@@ -423,11 +458,17 @@
    "lastVerified": "2026-11-15",
    "sources": [
     "https://www.tnvacation.com/node/166306",
-    "https://www.iexitapp.com/Tennessee/I-124/Exit%201C/34229"
-   ]
+    "https://www.iexitapp.com/Tennessee/I-124/Exit%201C/34229",
+    "https://www.tacomamacita.com/"
+   ],
+   "notes": "Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 648-6262",
+  "website": "https://www.tacomamacita.com/",
+  "setting": "both",
+  "price": "$$"
  },
  {
   "id": "river-street-deli",
@@ -448,13 +489,15 @@
    "sources": [
     "https://www.tnvacation.com/node/166306"
    ],
-   "notes": "Source undated; confirm the deli is open."
+   "notes": "Source undated; confirm the deli is open. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
   "website": "https://www.riverstdeli.com/",
   "phone": "(423)756-3354",
-  "featured": true
+  "featured": true,
+  "setting": "both",
+  "price": "$"
  },
  {
   "id": "walnut-street-bridge",
@@ -495,10 +538,15 @@
    "lastVerified": "2026-11-15",
    "sources": [
     "https://chattanooga.gov/things-to-do/parks/walnut-street-bridge",
-    "https://www.achp.gov/sites/default/files/2018-07/WalnutBridge.pdf"
-   ]
+    "https://www.achp.gov/sites/default/files/2018-07/WalnutBridge.pdf",
+    "https://chattanooga.gov/things-to-do/parks"
+   ],
+   "notes": "Owner update (Nov 27, 2026): Price estimated; City parks department contact, not direct venue line."
   },
-  "active": true
+  "active": true,
+  "phone": "(423) 643-7866",
+  "setting": "outdoor",
+  "price": "$"
  },
  {
   "id": "tennessee-aquarium",
@@ -538,11 +586,12 @@
    "sources": [
     "https://www.timesfreepress.com/news/2014/mar/27/parks-boast-spaces-nature-and-play/"
    ],
-   "notes": "Address confirmed (Aquarium Plaza, 1 Broad St). Confirm website and admission before launch."
+   "notes": "Address confirmed (Aquarium Plaza, 1 Broad St). Confirm website and admission before launch. Owner update (Nov 27, 2026): Price estimated."
   },
   "active": true,
   "phone": "(800)262-0695",
-  "setting": "indoor"
+  "setting": "indoor",
+  "price": "$$"
  },
  {
   "id": "creative-discovery-museum",
@@ -574,11 +623,13 @@
    "status": "verified",
    "lastVerified": "2026-11-15",
    "sources": [],
-   "notes": "Address and website from editorial knowledge; verify before launch."
+   "notes": "Address and website from editorial knowledge; verify before launch. Owner update (Nov 27, 2026): Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
-  "phone": "(423) 756-2738"
+  "phone": "(423) 756-2738",
+  "setting": "indoor",
+  "price": "$$"
  },
  {
   "id": "hunter-museum",
@@ -615,11 +666,13 @@
    "status": "verified",
    "lastVerified": "2026-11-15",
    "sources": [],
-   "notes": "Address and website from editorial knowledge; verify before launch."
+   "notes": "Address and website from editorial knowledge; verify before launch. Owner update (Nov 27, 2026): Price estimated."
   },
   "active": true,
   "phone": "(423)267-0968",
-  "coordsApproximate": false
+  "coordsApproximate": false,
+  "setting": "indoor",
+  "price": "$$"
  },
  {
   "id": "bluff-view-art-district",
@@ -644,12 +697,14 @@
    "sources": [
     "https://www.atlantamagazine.com/southbound-articles/one-city-three-ways-chattanooga-tennessee/"
    ],
-   "notes": "District, not a single business — confirm preferred address and official website."
+   "notes": "District, not a single business — confirm preferred address and official website. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
   "website": "https://bluffviewartdistrictchattanooga.com/",
-  "phone": "423-321-0235"
+  "phone": "423-321-0235",
+  "setting": "both",
+  "price": "$"
  },
  {
   "id": "river-gallery",
@@ -672,12 +727,13 @@
    "sources": [
     "https://www.pressreader.com/usa/chattanooga-times-free-press-chattanooganow/20190711/281586652166423"
    ],
-   "notes": "Most recent source is 2019; confirm."
+   "notes": "Most recent source is 2019; confirm. Owner update (Nov 27, 2026): Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
   "website": "https://river-gallery.com/",
-  "setting": "indoor"
+  "setting": "indoor",
+  "price": "$$"
  },
  {
   "id": "rosss-landing",
@@ -715,12 +771,15 @@
    "lastVerified": "2026-11-15",
    "sources": [
     "https://noogatoday.6amcity.com/parks-guide-chattanooga-tn"
-   ]
+   ],
+   "notes": "Owner update (Nov 27, 2026): Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
   "website": "https://chattanooga.gov/things-to-do/parks/ross-landing",
-  "phone": "(423) 643-7866"
+  "phone": "(423) 643-7866",
+  "setting": "outdoor",
+  "price": "$"
  },
  {
   "id": "high-point-downtown",
@@ -753,11 +812,13 @@
    "sources": [
     "https://xtremebookings.com/?p=7562"
    ],
-   "notes": "Confirm website, minimum ages, and waiver policy."
+   "notes": "Confirm website, minimum ages, and waiver policy. Owner update (Nov 27, 2026): Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
-  "phone": "(423) 250-5846"
+  "phone": "(423) 250-5846",
+  "setting": "indoor",
+  "price": "$$"
  },
  {
   "id": "pinball-museum",
@@ -793,10 +854,13 @@
    "sources": [
     "https://overlookmaps.com/places/classic-arcade-pinball-museum-chattanooga-4845827953791611",
     "https://aurcade.com/locations/view.aspx?id=6192"
-   ]
+   ],
+   "notes": "Owner update (Nov 27, 2026): Price estimated."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "setting": "indoor",
+  "price": "$"
  },
  {
   "id": "moonpie-general-store",
@@ -818,7 +882,8 @@
    "lastVerified": "2026-11-15",
    "sources": [
     "https://www.moonpie.com/find"
-   ]
+   ],
+   "notes": "Owner update (Nov 27, 2026): Price estimated; Contact research incomplete."
   },
   "coordsApproximate": true,
   "active": true,
@@ -830,7 +895,9 @@
    "rainy": false,
    "setting": "indoor",
    "duration": ""
-  }
+  },
+  "setting": "indoor",
+  "price": "$"
  },
  {
   "id": "tivoli-theatre",
@@ -853,10 +920,12 @@
    "sources": [
     "https://www.pressreader.com/usa/chattanooga-times-free-press/20181101/282565904143423"
    ],
-   "notes": "Source from 2018; confirm website and box office phone."
+   "notes": "Source from 2018; confirm website and box office phone. Owner update (Nov 27, 2026): Candidate website (unverified): https://tivolichattanooga.com; Setting estimated; Price estimated; Contact research incomplete."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "setting": "indoor",
+  "price": "$$"
  },
  {
   "id": "miller-park",
@@ -877,7 +946,7 @@
    "sources": [
     "https://www.timesfreepress.com/news/2014/mar/27/parks-boast-spaces-nature-and-play/"
    ],
-   "notes": "Source from 2014; park was later renovated — confirm amenities."
+   "notes": "Source from 2014; park was later renovated — confirm amenities. Owner update (Nov 27, 2026): Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
@@ -892,7 +961,8 @@
    "setting": "outdoor",
    "duration": ""
   },
-  "setting": "outdoor"
+  "setting": "outdoor",
+  "price": "$"
  },
  {
   "id": "blue-goose-hollow",
@@ -913,12 +983,17 @@
    "lastVerified": "2026-11-15",
    "sources": [
     "https://www.mypacer.com/parks/209952/blue-goose-hollow-chattanooga",
-    "https://www.komoot.com/highlight/6296514"
+    "https://www.komoot.com/highlight/6296514",
+    "https://chattanooga.gov/things-to-do/parks"
    ],
-   "notes": "No official street address found — confirm with Chattanooga Parks & Outdoors."
+   "notes": "No official street address found — confirm with Chattanooga Parks & Outdoors. Owner update (Nov 27, 2026): Setting estimated; Price estimated; City parks department contact, not direct venue line."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 643-7866",
+  "website": "https://chattanooga.gov/things-to-do/parks/parks-directory",
+  "setting": "outdoor",
+  "price": "$"
  },
  {
   "id": "westside-park",
@@ -950,12 +1025,17 @@
    "lastVerified": "2026-11-15",
    "sources": [
     "https://noogatoday.6amcity.com/parks-guide-chattanooga-tn",
-    "https://www.timesfreepress.com/news/2014/mar/27/parks-boast-spaces-nature-and-play/"
+    "https://www.timesfreepress.com/news/2014/mar/27/parks-boast-spaces-nature-and-play/",
+    "https://chattanooga.gov/things-to-do/parks"
    ],
-   "notes": "Sources give 1195 and 1200 Grove St — confirm."
+   "notes": "Sources give 1195 and 1200 Grove St — confirm. Owner update (Nov 27, 2026): Price estimated; City parks department contact, not direct venue line."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 643-7866",
+  "website": "https://chattanooga.gov/things-to-do/parks/parks-directory",
+  "setting": "outdoor",
+  "price": "$"
  },
  {
   "id": "riverwalk-westside-access",
@@ -975,9 +1055,10 @@
    "status": "verified",
    "lastVerified": "2026-11-15",
    "sources": [
-    "https://www.traillink.com/gdbkpdf/trail/6032627/tennessee-riverwalk63918121993355-2026.pdf"
+    "https://www.traillink.com/gdbkpdf/trail/6032627/tennessee-riverwalk63918121993355-2026.pdf",
+    "https://chattanooga.gov/things-to-do/parks"
    ],
-   "notes": "Parking address from TrailLink; confirm with Hamilton County / City."
+   "notes": "Parking address from TrailLink; confirm with Hamilton County / City. Owner update (Nov 27, 2026): Price estimated; City parks department contact, not direct venue line."
   },
   "coordsApproximate": true,
   "active": true,
@@ -993,7 +1074,10 @@
    "rainy": false,
    "setting": "outdoor",
    "duration": ""
-  }
+  },
+  "phone": "(423) 643-7866",
+  "setting": "outdoor",
+  "price": "$"
  },
  {
   "id": "chattanooga-choo-choo",
@@ -1034,12 +1118,14 @@
    "status": "verified",
    "lastVerified": "2026-11-15",
    "sources": [],
-   "notes": "Address from editorial knowledge; confirm website before launch."
+   "notes": "Address from editorial knowledge; confirm website before launch. Owner update (Nov 27, 2026): Price estimated."
   },
   "active": true,
   "website": "https://choochoo.com/",
   "phone": "(423) 266-5000",
-  "coordsApproximate": false
+  "coordsApproximate": false,
+  "setting": "outdoor",
+  "price": "$"
  },
  {
   "id": "station-street",
@@ -1060,10 +1146,13 @@
    "lastVerified": "2026-11-15",
    "sources": [
     "https://www.chattanoogapulse.com/features/station-street-upswing/"
-   ]
+   ],
+   "notes": "Owner update (Nov 27, 2026): Setting estimated; Price estimated; Contact research incomplete."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "setting": "outdoor",
+  "price": "$"
  },
  {
   "id": "songbirds",
@@ -1085,7 +1174,7 @@
    "sources": [
     "https://hotelguides.com/attraction-maps/tennessee/map-hotels-near-songbirds-tn.html"
    ],
-   "notes": "Confirm current museum hours/status and official website."
+   "notes": "Confirm current museum hours/status and official website. Owner update (Nov 27, 2026): Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
@@ -1101,7 +1190,8 @@
    "setting": "indoor",
    "duration": ""
   },
-  "setting": "indoor"
+  "setting": "indoor",
+  "price": "$$"
  },
  {
   "id": "chattanooga-whiskey-experimental",
@@ -1125,10 +1215,12 @@
     "https://picktnproducts.org/picktn-producers/picktn-listing.19484.html",
     "https://peated.com/entities/476"
    ],
-   "notes": "Confirm website URL."
+   "notes": "Confirm website URL. Owner update (Nov 27, 2026): Setting estimated; Price estimated; Contact research incomplete."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "setting": "indoor",
+  "price": "$$"
  },
  {
   "id": "hot-chocolatier",
@@ -1151,7 +1243,7 @@
     "https://www.timesfreepress.com/news/edge/story/2018/nov/01/brand-hot-chocolatier/481613/",
     "https://tablejourney.com/united-states/chattanooga/cuisine/bakery/"
    ],
-   "notes": "Sources disagree: 1437 vs 1423 Market St. Confirm with the shop."
+   "notes": "Sources disagree: 1437 vs 1423 Market St. Confirm with the shop. Owner update (Nov 27, 2026): Candidate website (unverified): https://thehotchocolatier.com; Contact research incomplete."
   },
   "coordsApproximate": true,
   "active": true,
@@ -1180,10 +1272,13 @@
    "sources": [
     "https://chattanoogapulse.com/the-pulse-local-shopping-guide-food",
     "https://tablejourney.com/united-states/chattanooga/cuisine/bakery/"
-   ]
+   ],
+   "notes": "Owner update (Nov 27, 2026): Candidate website (unverified): https://niedlovs.com; Setting estimated; Price estimated; Contact research incomplete."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "setting": "both",
+  "price": "$"
  },
  {
   "id": "main-street-meats",
@@ -1205,12 +1300,14 @@
    "sources": [
     "https://tablejourney.com/neighborhood/chattanooga/southside/"
    ],
-   "notes": "Street number not confirmed by a source this session."
+   "notes": "Street number not confirmed by a source this session. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
   "website": "https://www.mainstreetmeatschatt.com/",
-  "phone": "(423)602-9568"
+  "phone": "(423)602-9568",
+  "setting": "both",
+  "price": "$$"
  },
  {
   "id": "state-of-confusion",
@@ -1231,12 +1328,15 @@
    "lastVerified": "2026-11-15",
    "sources": [
     "https://tablejourney.com/neighborhood/chattanooga/southside/"
-   ]
+   ],
+   "notes": "Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
   "website": "https://www.soconfusion.com/",
-  "phone": "(423) 760-3473"
+  "phone": "(423) 760-3473",
+  "setting": "both",
+  "price": "$$"
  },
  {
   "id": "hi-fi-clydes",
@@ -1257,10 +1357,13 @@
    "lastVerified": "2026-11-15",
    "sources": [
     "https://noogatoday.6amcity.com/city-guide/play/live-music-venues-chattanooga-tn"
-   ]
+   ],
+   "notes": "Owner update (Nov 27, 2026): Candidate website (unverified): https://hiclydes.com; Setting estimated; Price estimated; Contact research incomplete."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "setting": "both",
+  "price": "$$"
  },
  {
   "id": "main-terrain-art-park",
@@ -1293,11 +1396,17 @@
    "lastVerified": "2026-11-15",
    "sources": [
     "https://noogatoday.6amcity.com/parks-guide-chattanooga-tn",
-    "https://www.arts.gov/exploring-our-town/main-terrain-art-park"
-   ]
+    "https://www.arts.gov/exploring-our-town/main-terrain-art-park",
+    "https://chattanooga.gov/things-to-do/parks"
+   ],
+   "notes": "Owner update (Nov 27, 2026): Price estimated; City parks department contact, not direct venue line."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 643-7866",
+  "website": "https://chattanooga.gov/things-to-do/parks/parks-directory",
+  "setting": "outdoor",
+  "price": "$"
  },
  {
   "id": "sculpture-fields",
@@ -1335,11 +1444,17 @@
    "lastVerified": "2026-11-15",
    "sources": [
     "https://noogatoday.6amcity.com/parks-guide-chattanooga-tn",
-    "https://www.visitchattanooga.com/things-to-do/free-things-to-do/"
-   ]
+    "https://www.visitchattanooga.com/things-to-do/free-things-to-do/",
+    "https://www.sculpturefields.org/sculpture-park-contact"
+   ],
+   "notes": "Owner update (Nov 27, 2026): Price based on published admission."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 266-7288",
+  "website": "https://www.sculpturefields.org/",
+  "setting": "outdoor",
+  "price": "$"
  },
  {
   "id": "finley-stadium",
@@ -1366,7 +1481,7 @@
    "sources": [
     "https://www.timesfreepress.com/news/2022/apr/23/southside-chattanooga/"
    ],
-   "notes": "Street address not confirmed this session."
+   "notes": "Street address not confirmed this session. Owner update (Nov 27, 2026): Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
@@ -1380,7 +1495,9 @@
    "rainy": true,
    "setting": "outdoor",
    "duration": ""
-  }
+  },
+  "setting": "outdoor",
+  "price": "$$"
  },
  {
   "id": "incline-railway",
@@ -1414,11 +1531,16 @@
    "lastVerified": "2026-11-15",
    "sources": [
     "https://www.asme.org/about-asme/engineering-history/landmarks/156-lookout-mountain-incline-railway",
-    "https://ridetheincline.com/?p=162"
-   ]
+    "https://ridetheincline.com/?p=162",
+    "https://ridetheincline.com/take-a-ride/"
+   ],
+   "notes": "Owner update (Nov 27, 2026): Price based on published admission."
   },
   "active": true,
-  "coordsApproximate": false
+  "coordsApproximate": false,
+  "phone": "(423) 821-4224",
+  "setting": "outdoor",
+  "price": "$$"
  },
  {
   "id": "st-elmo-historic-district",
@@ -1438,7 +1560,8 @@
    "lastVerified": "2026-11-15",
    "sources": [
     "https://fernwehtun.com/2025/01/11/chattanoogas-south-broad-st-elmo-historic-district-lookout-mountain"
-   ]
+   ],
+   "notes": "Owner update (Nov 27, 2026): Price estimated; Contact research incomplete."
   },
   "coordsApproximate": true,
   "active": true,
@@ -1450,7 +1573,9 @@
    "rainy": false,
    "setting": "outdoor",
    "duration": ""
-  }
+  },
+  "setting": "outdoor",
+  "price": "$"
  },
  {
   "id": "towing-museum",
@@ -1481,11 +1606,17 @@
    "lastVerified": "2026-11-15",
    "sources": [
     "https://tnvacation.com/point-of-interest/international-towing-museum",
-    "https://assets.atlasobscura.com/places/international-towing-and-recovery-museum"
-   ]
+    "https://assets.atlasobscura.com/places/international-towing-and-recovery-museum",
+    "https://towingmuseum.com/plan-a-visit/"
+   ],
+   "notes": "Owner update (Nov 27, 2026): Price based on published admission."
   },
   "active": true,
-  "coordsApproximate": false
+  "coordsApproximate": false,
+  "phone": "(423) 267-3132",
+  "website": "https://towingmuseum.com/",
+  "setting": "indoor",
+  "price": "$"
  },
  {
   "id": "little-coyote",
@@ -1504,11 +1635,17 @@
    "status": "verified",
    "lastVerified": "2026-11-15",
    "sources": [
-    "https://guide.michelin.com/tr/en/tennessee/chattanooga_2790931/restaurant/little-coyote"
-   ]
+    "https://guide.michelin.com/tr/en/tennessee/chattanooga_2790931/restaurant/little-coyote",
+    "https://littlecoyote.com/texas-style-bbq-contact"
+   ],
+   "notes": "Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 800-7483",
+  "website": "https://littlecoyote.com/",
+  "setting": "both",
+  "price": "$$"
  },
  {
   "id": "purple-daisy",
@@ -1528,11 +1665,17 @@
    "lastVerified": "2026-11-15",
    "sources": [
     "https://www.city-data.com/restaurants/TN/THE-PURPLE-DAISY-PICNIC-CAFE.html",
-    "https://livability.com/?p=244396"
-   ]
+    "https://livability.com/?p=244396",
+    "https://purpledaisypicnic.com/"
+   ],
+   "notes": "Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 822-6477",
+  "website": "https://purpledaisypicnic.com/",
+  "setting": "both",
+  "price": "$"
  },
  {
   "id": "st-elmo-mercantile",
@@ -1553,7 +1696,8 @@
    "sources": [
     "https://www.moonpie.com/find",
     "https://livability.com/tn/chattanooga/neighborhoods/st-elmo/"
-   ]
+   ],
+   "notes": "Owner update (Nov 27, 2026): Price estimated; Contact research incomplete."
   },
   "coordsApproximate": true,
   "active": true,
@@ -1565,7 +1709,9 @@
    "rainy": false,
    "setting": "indoor",
    "duration": ""
-  }
+  },
+  "setting": "indoor",
+  "price": "$$"
  },
  {
   "id": "point-park",
@@ -1606,10 +1752,13 @@
    "sources": [
     "https://noogatoday.6amcity.com/parks-guide-chattanooga-tn",
     "https://proximity2nature.squarespace.com/blog/tag/chattanooga"
-   ]
+   ],
+   "notes": "Owner update (Nov 27, 2026): Price estimated; Contact research incomplete."
   },
   "active": true,
-  "coordsApproximate": false
+  "coordsApproximate": false,
+  "setting": "outdoor",
+  "price": "$"
  },
  {
   "id": "ruby-falls",
@@ -1640,12 +1789,16 @@
   "verification": {
    "status": "verified",
    "lastVerified": "2026-11-15",
-   "sources": [],
-   "notes": "Address and website from editorial knowledge; verify before launch."
+   "sources": [
+    "https://www.rubyfalls.com/ruby-falls-tickets/"
+   ],
+   "notes": "Address and website from editorial knowledge; verify before launch. Owner update (Nov 27, 2026): Price based on published admission."
   },
   "active": true,
   "phone": "(423) 821-2544",
-  "coordsApproximate": false
+  "coordsApproximate": false,
+  "setting": "indoor",
+  "price": "$$"
  },
  {
   "id": "rock-city",
@@ -1683,11 +1836,13 @@
    "status": "verified",
    "lastVerified": "2026-11-15",
    "sources": [],
-   "notes": "Address and website from editorial knowledge; verify before launch."
+   "notes": "Address and website from editorial knowledge; verify before launch. Owner update (Nov 27, 2026): Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
-  "phone": "(706) 820-2531"
+  "phone": "(706) 820-2531",
+  "setting": "outdoor",
+  "price": "$$"
  },
  {
   "id": "chattanooga-zoo",
@@ -1721,11 +1876,13 @@
    "status": "verified",
    "lastVerified": "2026-11-15",
    "sources": [],
-   "notes": "Address and website from editorial knowledge; verify before launch."
+   "notes": "Address and website from editorial knowledge; verify before launch. Owner update (Nov 27, 2026): Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
-  "phone": "(423) 697-1322"
+  "phone": "(423) 697-1322",
+  "setting": "outdoor",
+  "price": "$"
  },
  {
   "id": "tennessee-valley-railroad",
@@ -1756,11 +1913,12 @@
    "status": "verified",
    "lastVerified": "2026-11-15",
    "sources": [],
-   "notes": "Address and website from editorial knowledge; verify excursions and schedule before launch."
+   "notes": "Address and website from editorial knowledge; verify excursions and schedule before launch. Owner update (Nov 27, 2026): Price estimated."
   },
   "active": true,
   "phone": "(423)894-8028",
-  "setting": "indoor"
+  "setting": "indoor",
+  "price": "$$"
  },
  {
   "id": "reflection-riding",
@@ -1793,9 +1951,12 @@
    "lastVerified": "2026-11-15",
    "sources": [
     "https://reflectionriding.org/visit"
-   ]
+   ],
+   "notes": "Owner update (Nov 27, 2026): Price estimated."
   },
-  "active": true
+  "active": true,
+  "setting": "outdoor",
+  "price": "$"
  },
  {
   "id": "ed-johnson-memorial",
@@ -1817,7 +1978,8 @@
    "sources": [
     "https://www.chattanoogan.com/2021/8/31/433879/The-Ed-Johnson-Project-Announces.aspx",
     "https://livability.com/tn/chattanooga/where-to-live-now/chattanooga-honors-the-past-and-looks-forward-to-the-future/"
-   ]
+   ],
+   "notes": "Owner update (Nov 27, 2026): Price estimated; Contact research incomplete."
   },
   "coordsApproximate": true,
   "active": true,
@@ -1829,7 +1991,9 @@
    "rainy": false,
    "setting": "outdoor",
    "duration": ""
-  }
+  },
+  "setting": "outdoor",
+  "price": "$"
  },
  {
   "id": "milk-and-honey",
@@ -1851,11 +2015,13 @@
    "sources": [
     "https://order.toasttab.com/online/milk-honey-chattanooga-135-n-market-st"
    ],
-   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate. Owner update (Nov 27, 2026): Candidate website (unverified): https://milkandhoneychattanooga.com; Setting estimated; Price estimated; Contact research incomplete."
   },
   "coordsApproximate": true,
   "active": true,
-  "phone": "(423) 521-3123"
+  "phone": "(423) 521-3123",
+  "setting": "both",
+  "price": "$"
  },
  {
   "id": "frazier-five-and-dime",
@@ -1879,11 +2045,13 @@
     "https://citylifestyle.com/articles/frazier-five-and-dime",
     "https://www.restaurantji.com/tn/chattanooga/frazier-five-and-dime-/comments/"
    ],
-   "notes": "Address and website from a City Lifestyle profile; one older directory lists 330 Frazier. Confirm with the business. Map pin is approximate."
+   "notes": "Address and website from a City Lifestyle profile; one older directory lists 330 Frazier. Confirm with the business. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
-  "phone": "(423) 541-9655"
+  "phone": "(423) 541-9655",
+  "setting": "indoor",
+  "price": "$$"
  },
  {
   "id": "bento-ya",
@@ -1905,12 +2073,14 @@
     "https://www.restaurantji.com/tn/chattanooga/bento-ya-/comments/",
     "https://www.mapquest.com/us/tennessee/bento-ya-674145414"
    ],
-   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
   "website": "https://www.bentoyacha.com",
-  "phone": "(423) 504-2718"
+  "phone": "(423) 504-2718",
+  "setting": "indoor",
+  "price": "$"
  },
  {
   "id": "cashew",
@@ -1929,13 +2099,17 @@
    "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
-    "https://www.toasttab.com/local/cashew/r-77dc5b30-720e-44d7-8be8-45fe1701a26b"
+    "https://www.toasttab.com/local/cashew/r-77dc5b30-720e-44d7-8be8-45fe1701a26b",
+    "https://www.cashewchattanooga.com/"
    ],
-   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
-  "phone": "(423) 355-5486"
+  "phone": "(423) 355-5486",
+  "website": "https://www.cashewchattanooga.com/",
+  "setting": "indoor",
+  "price": "$"
  },
  {
   "id": "sullys-crepe-co",
@@ -1958,10 +2132,12 @@
    "sources": [
     "https://www.sullyscrepeco.com/"
    ],
-   "notes": "Address from the business's own website. Hours change seasonally. Map pin is approximate."
+   "notes": "Address from the business's own website. Hours change seasonally. Map pin is approximate. Owner update (Nov 27, 2026): Setting supported by listing; Price estimated; Contact research incomplete."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "setting": "both",
+  "price": "$"
  },
  {
   "id": "totto-sushi-and-grill",
@@ -1983,11 +2159,13 @@
     "https://www.wdef.com/?p=91065",
     "https://www.groupon.com/biz/chattanooga/totto-sushi-grill"
    ],
-   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate. Owner update (Nov 27, 2026): Candidate website (unverified): https://tottosushi.com; Setting estimated; Price estimated; Contact research incomplete."
   },
   "coordsApproximate": true,
   "active": true,
-  "phone": "(423) 508-8898"
+  "phone": "(423) 508-8898",
+  "setting": "indoor",
+  "price": "$$"
  },
  {
   "id": "basecamp",
@@ -2007,12 +2185,17 @@
    "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
-    "https://www.toasttab.com/local/order/basecamp-bar-and-restaurant-346-frazier-ave/r-c518f1c9-4e57-43f9-a4ba-bc04b74b4d99"
+    "https://www.toasttab.com/local/order/basecamp-bar-and-restaurant-346-frazier-ave/r-c518f1c9-4e57-43f9-a4ba-bc04b74b4d99",
+    "https://northshorechattanooga.com/vendors/eat"
    ],
-   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate. Website basecampcha.com mentioned in a locals' tip; not confirmed."
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate. Website basecampcha.com mentioned in a locals' tip; not confirmed. Owner update (Nov 27, 2026): Setting supported by listing; Price estimated."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 803-5251",
+  "website": "https://basecampcha.com",
+  "setting": "both",
+  "price": "$$"
  },
  {
   "id": "la-santa",
@@ -2031,12 +2214,17 @@
    "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
-    "https://reviews.birdeye.com/la-santa-154103554871463?page=6"
+    "https://reviews.birdeye.com/la-santa-154103554871463?page=6",
+    "https://lasantachattanooga.com/"
    ],
-   "notes": "Single directory source for the address; map pin is a rough estimate. Confirm with the business."
+   "notes": "Single directory source for the address; map pin is a rough estimate. Confirm with the business. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 490-7911",
+  "website": "https://lasantachattanooga.com/",
+  "setting": "both",
+  "price": "$$"
  },
  {
   "id": "mezcla-cocina-y-cantina",
@@ -2058,11 +2246,13 @@
     "https://order.toasttab.com/online/mezcla-cocina-y-cantina",
     "https://postmates.com/store/mezcla-cocina-y-cantina/ZgJ9Uy9ARteNtM4twow0mQ"
    ],
-   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate. Owner update (Nov 27, 2026): Candidate website (unverified): https://mezclacocina.com; Setting estimated; Price estimated; Contact research incomplete."
   },
   "coordsApproximate": true,
   "active": true,
-  "phone": "(423) 541-6000"
+  "phone": "(423) 541-6000",
+  "setting": "both",
+  "price": "$$"
  },
  {
   "id": "chipotle-northshore",
@@ -2084,11 +2274,13 @@
     "https://startpage.mapquest.com/us/tennessee/chipotle-mexican-grill-429166676",
     "https://www.timesfreepress.com/?p=41292"
    ],
-   "notes": "National chain location; confirm hours on the chain's store locator. Map pin is approximate."
+   "notes": "National chain location; confirm hours on the chain's store locator. Map pin is approximate. Owner update (Nov 27, 2026): Candidate website (unverified): https://locations.chipotle.com; Setting estimated; Price estimated; Contact research incomplete."
   },
   "coordsApproximate": true,
   "active": true,
-  "phone": "(423) 805-1063"
+  "phone": "(423) 805-1063",
+  "setting": "indoor",
+  "price": "$"
  },
  {
   "id": "the-big-chill-and-grill",
@@ -2111,11 +2303,13 @@
     "https://superpages.com/chattanooga-tn/bpp/the-big-chill-and-grill-6230915",
     "https://www.chattanoogapulse.com/food-drink/mixology/summer%E2%80%99s-hot-but-the-drinks-are-chilly/"
    ],
-   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate. Owner update (Nov 27, 2026): Candidate website (unverified): https://bigchillandgrill.com; Setting estimated; Price estimated; Contact research incomplete."
   },
   "coordsApproximate": true,
   "active": true,
-  "phone": "(423) 267-2445"
+  "phone": "(423) 267-2445",
+  "setting": "both",
+  "price": "$$"
  },
  {
   "id": "zaya-1943-korean-steakhouse",
@@ -2137,11 +2331,13 @@
     "https://book.toasttab.com/r/zaya-1943-korean-steakhouse-300-cherokee-blvd-ste-125",
     "https://www.aaa.com/tripcanvas/restaurant/zaya-1943-korean-steakhouse-AA62724"
    ],
-   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate. Owner update (Nov 27, 2026): Candidate website (unverified): https://zayasteak.com; Setting estimated; Price estimated; Contact research incomplete."
   },
   "coordsApproximate": true,
   "active": true,
-  "phone": "423) 643-9292"
+  "phone": "423) 643-9292",
+  "setting": "indoor",
+  "price": "$$$"
  },
  {
   "id": "first-watch-northshore",
@@ -2162,11 +2358,13 @@
    "sources": [
     "https://www.chattanoogan.com/2018/3/29/365910/Local-Brunch-Spot-To-Open-2nd.aspx"
    ],
-   "notes": "National chain; address from the 2018 opening announcement. Confirm suite and hours on the chain's site. Map pin is approximate."
+   "notes": "National chain; address from the 2018 opening announcement. Confirm suite and hours on the chain's site. Map pin is approximate. Owner update (Nov 27, 2026): Candidate website (unverified): https://firstwatch.com; Setting estimated; Price estimated; Contact research incomplete."
   },
   "coordsApproximate": true,
   "active": true,
-  "phone": "(423) 763-1800"
+  "phone": "(423) 763-1800",
+  "setting": "both",
+  "price": "$$"
  },
  {
   "id": "edleys-bar-b-que-northshore",
@@ -2188,11 +2386,13 @@
     "https://www.mapquest.com/us/tennessee/edleys-bar-b-que-378917744",
     "https://www.toasttab.com/local/edleys-bbq-chattanooga/r-6469fdc2-25e2-4e8d-b291-fe0a90d2788e"
    ],
-   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate. Owner update (Nov 27, 2026): Candidate website (unverified): https://edleysbbq.com; Setting estimated; Price estimated; Contact research incomplete."
   },
   "coordsApproximate": true,
   "active": true,
-  "phone": "(423) 498-2772"
+  "phone": "(423) 498-2772",
+  "setting": "both",
+  "price": "$"
  },
  {
   "id": "embargo-62",
@@ -2215,11 +2415,13 @@
     "https://startpage.mapquest.com/us/tennessee/embargo-62-365037582",
     "https://www.allmenus.com/tn/chattanooga/587874-embargo-62/menu/"
    ],
-   "notes": "A 2017 article said it was moving to 325 Cherokee Blvd; current directories list 301 Cherokee Blvd Ste B. Confirm with the business. Map pin is approximate."
+   "notes": "A 2017 article said it was moving to 325 Cherokee Blvd; current directories list 301 Cherokee Blvd Ste B. Confirm with the business. Map pin is approximate. Owner update (Nov 27, 2026): Candidate website (unverified): https://embargo62.com; Setting estimated; Price estimated; Contact research incomplete."
   },
   "coordsApproximate": true,
   "active": true,
-  "phone": "(423) 551-4786"
+  "phone": "(423) 551-4786",
+  "setting": "both",
+  "price": "$$"
  },
  {
   "id": "mikes-hole-in-the-wall",
@@ -2242,11 +2444,13 @@
     "https://marieletseat.com/2017/01/09/mikes-hole-in-the-wall-chattanooga-tn",
     "https://startpage.mapquest.com/us/tennessee/mikes-hole-in-the-wall-369421537"
    ],
-   "notes": "Sources disagree on 535 vs 538 Cherokee Blvd. Confirm with the business. Map pin is approximate."
+   "notes": "Sources disagree on 535 vs 538 Cherokee Blvd. Confirm with the business. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated; Contact research incomplete."
   },
   "coordsApproximate": true,
   "active": true,
-  "phone": "(423) 475-5259"
+  "phone": "(423) 475-5259",
+  "setting": "both",
+  "price": "$$"
  },
  {
   "id": "big-bad-breakfast-chattanooga",
@@ -2266,12 +2470,17 @@
    "lastVerified": "2026-11-21",
    "sources": [
     "https://noogatoday.6amcity.com/food/try-this-brunch-at-big-bad-breakfast-chattanooga",
-    "https://chattanoogapulse.com/dining-guide/chattanooga-dining-guide-breakfast-coffee-houses"
+    "https://chattanoogapulse.com/dining-guide/chattanooga-dining-guide-breakfast-coffee-houses",
+    "https://bigbadbreakfast.com/chattanooga-tn/"
    ],
-   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate. Owner update (Nov 27, 2026): Setting supported by listing; Price estimated."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 287-5325",
+  "website": "https://bigbadbreakfast.com/chattanooga-tn/",
+  "setting": "both",
+  "price": "$"
  },
  {
   "id": "fast-break-athletics",
@@ -2293,11 +2502,13 @@
     "https://www.timesfreepress.com/news/2024/apr/08/a-guide-to-chattanooga-sport-and-outdoor-shops/",
     "https://reviews.birdeye.com/fast-break-athletics-166858480971555"
    ],
-   "notes": "Store is in North Chattanooga a short drive from Frazier Ave, not on the main strip. Map pin is a rough estimate. Confirm with the business."
+   "notes": "Store is in North Chattanooga a short drive from Frazier Ave, not on the main strip. Map pin is a rough estimate. Confirm with the business. Owner update (Nov 27, 2026): Candidate website (unverified): https://fastbreakathletics.com; Setting estimated; Price estimated; Contact research incomplete."
   },
   "coordsApproximate": true,
   "active": true,
-  "phone": "(423) 265-0531"
+  "phone": "(423) 265-0531",
+  "setting": "indoor",
+  "price": "$$"
  },
  {
   "id": "i-go-tokyo",
@@ -2319,12 +2530,14 @@
     "https://maps.roadtrippers.com/us/chattanooga-tn/shopping/i-go-tokyo",
     "https://www.visitchattanooga.com/magazine-spring-summer/retail/new-drops/"
    ],
-   "notes": "Store moved to Frazier Ave from Signal Mill; 34 Frazier is from one directory. Confirm with the business. Map pin is approximate."
+   "notes": "Store moved to Frazier Ave from Signal Mill; 34 Frazier is from one directory. Confirm with the business. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
   "website": "https://www.igotokyostore.com",
-  "phone": "(423) 541-1214"
+  "phone": "(423) 541-1214",
+  "setting": "indoor",
+  "price": "$$"
  },
  {
   "id": "collective-clothing",
@@ -2344,13 +2557,17 @@
    "lastVerified": "2026-11-21",
    "sources": [
     "https://www.airbnb.cat/things-to-do/places/782613",
-    "https://issuu.com/cityscopemagazine/docs/_cs2.24.final/s/47528165"
+    "https://issuu.com/cityscopemagazine/docs/_cs2.24.final/s/47528165",
+    "https://northshorechattanooga.com/vendors/shop"
    ],
-   "notes": "Shares the 40 Frazier address with another listing; confirm suite. Map pin is approximate."
+   "notes": "Shares the 40 Frazier address with another listing; confirm suite. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
-  "phone": "(423) 208-0940"
+  "phone": "(423) 208-0940",
+  "website": "https://linktr.ee/collectiveclothing",
+  "setting": "indoor",
+  "price": "$$"
  },
  {
   "id": "sophies-shoppe",
@@ -2372,11 +2589,13 @@
     "https://startpage.mapquest.com/us/tennessee/sophies-shoppe-303793760",
     "https://www.chattanoogapulse.com/citylife/community-spotlight/discovering-sophie-s-shoppe/"
    ],
-   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate. Owner update (Nov 27, 2026): Candidate website (unverified): https://sophiesshoppe.com; Setting estimated; Price estimated; Contact research incomplete."
   },
   "coordsApproximate": true,
   "active": true,
-  "phone": "(423) 756-8711"
+  "phone": "(423) 756-8711",
+  "setting": "indoor",
+  "price": "$$"
  },
  {
   "id": "four-bridges-outfitters",
@@ -2398,11 +2617,13 @@
     "https://www.timesfreepress.com/news/2024/apr/08/a-guide-to-chattanooga-sport-and-outdoor-shops/",
     "https://chattanoogapulse.com/the-pulse-local-shopping-guide-sporting-goods"
    ],
-   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate. Owner update (Nov 27, 2026): Candidate website (unverified): https://fourbridgesoutfitters.com; Setting estimated; Price estimated; Contact research incomplete."
   },
   "coordsApproximate": true,
   "active": true,
-  "phone": "(423) 531-0990"
+  "phone": "(423) 531-0990",
+  "setting": "indoor",
+  "price": "$$"
  },
  {
   "id": "ugly-duck-vintage",
@@ -2425,10 +2646,12 @@
     "https://maps.apple.com/place?place-id=I11A70629BB3CDC8F",
     "https://www.enjoyuniquestays.com/blog/the-coolest-independent-bookshops-record-stores-and-vintage-spots-in-chattanooga"
    ],
-   "notes": "Older listings show 163 River St; newer ones show 30 Frazier Ave Unit B. Confirm with the business. Map pin is approximate."
+   "notes": "Older listings show 163 River St; newer ones show 30 Frazier Ave Unit B. Confirm with the business. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated; Contact research incomplete."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "setting": "indoor",
+  "price": "$$"
  },
  {
   "id": "belle-rive-boutique",
@@ -2451,10 +2674,12 @@
    "sources": [
     "https://belleriveboutique.com/policies/contact-information"
    ],
-   "notes": "Address from the business's own website. Map pin is approximate."
+   "notes": "Address from the business's own website. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "setting": "indoor",
+  "price": "$$"
  },
  {
   "id": "chattanooga-souvenirs",
@@ -2473,13 +2698,17 @@
    "status": "verified",
    "lastVerified": "2026-11-21",
    "sources": [
-    "https://www.timesfreepress.com/news/2024/apr/08/the-chattanooga-shopping-guide-gift-and-souvenir/"
+    "https://www.timesfreepress.com/news/2024/apr/08/the-chattanooga-shopping-guide-gift-and-souvenir/",
+    "https://chattanoogasouvenirs.com/"
    ],
-   "notes": "Single source (Times Free Press shopping guide). Confirm with the business. Map pin is approximate."
+   "notes": "Single source (Times Free Press shopping guide). Confirm with the business. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
-  "phone": "(305) 923-0024"
+  "phone": "(305) 923-0024",
+  "website": "https://chattanoogasouvenirs.com/",
+  "setting": "indoor",
+  "price": "$"
  },
  {
   "id": "starbucks-northshore",
@@ -2501,11 +2730,13 @@
     "https://reviews.birdeye.com/starbucks-north-shore-173505370739464",
     "https://www.chattanoogan.com/2018/6/1/369784/Vision-Hospitality-Group-Inc.-Opens.aspx"
    ],
-   "notes": "National chain; confirm hours on the chain's store locator. Map pin is approximate."
+   "notes": "National chain; confirm hours on the chain's store locator. Map pin is approximate. Owner update (Nov 27, 2026): Candidate website (unverified): https://starbucks.com; Setting estimated; Price estimated; Contact research incomplete."
   },
   "coordsApproximate": true,
   "active": true,
-  "phone": "(423) 468-1619"
+  "phone": "(423) 468-1619",
+  "setting": "indoor",
+  "price": "$"
  },
  {
   "id": "stone-cup-cafe",
@@ -2527,11 +2758,13 @@
     "https://noogatoday.6amcity.com/city-guide/work/coffee-shops-in-chattanooga",
     "https://phoenix.aws.mapquest.com/us/tennessee/stone-cup-cafe-303682076"
    ],
-   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate. Owner update (Nov 27, 2026): Candidate website (unverified): https://stonecupcafe.com; Setting estimated; Price estimated; Contact research incomplete."
   },
   "coordsApproximate": true,
   "active": true,
-  "phone": "(423) 521-3977"
+  "phone": "(423) 521-3977",
+  "setting": "both",
+  "price": "$"
  },
  {
   "id": "mean-mug-northshore",
@@ -2553,12 +2786,14 @@
     "https://startpage.mapquest.com/us/tennessee/mean-mug-coffeehouse-northshore-378894047",
     "https://www.ubereats.com/store/mean-mug-coffeehouse-manufacturers-rd/SMwStlANQzCbfRGbD3FIiQ/ebec1c1a-bf93-487f-9fb0-9e678e5cd403/e8848b50-0260-4b9c-966e-0047d56a25ed"
    ],
-   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
   "website": "https://meanmugcoffee.com/northshore?utm_source=google",
-  "phone": "(423) 829-1769"
+  "phone": "(423) 829-1769",
+  "setting": "both",
+  "price": "$"
  },
  {
   "id": "be-caffeinated-northshore",
@@ -2580,12 +2815,14 @@
     "https://www.joinlolo.com/merchants/becaffeinated-chattanooga-tn-37405",
     "https://startpage.mapquest.com/us/tennessee/be-caffeinated-423841444"
    ],
-   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
   "website": "https://www.becaffcoffee.com/",
-  "phone": "(423) 541-5510"
+  "phone": "(423) 541-5510",
+  "setting": "drive-thru",
+  "price": "$"
  },
  {
   "id": "mug-shotz-coffee-co",
@@ -2607,10 +2844,13 @@
    "sources": [
     "https://mugshotz.net/"
    ],
-   "notes": "Address from the business's own website. Map pin is approximate."
+   "notes": "Address from the business's own website. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated; Possible rebrand to Wake N Bakery; confirm identity and phone."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "phone": "(423) 468-1340",
+  "setting": "indoor",
+  "price": "$"
  },
  {
   "id": "real-roots-cafe",
@@ -2633,11 +2873,13 @@
     "https://phoenix.aws.mapquest.com/us/tennessee/real-roots-cafe-378620304",
     "https://vrg.org/blog/?p=21436"
    ],
-   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate. Owner update (Nov 27, 2026): Candidate website (unverified): https://realrootscafe.com; Setting estimated; Price estimated; Contact research incomplete."
   },
   "coordsApproximate": true,
   "active": true,
-  "phone": "(423) 206-4802"
+  "phone": "(423) 206-4802",
+  "setting": "both",
+  "price": "$"
  },
  {
   "id": "overboard-bar-and-grille",
@@ -2660,12 +2902,14 @@
     "https://chattanoogariverboat.com/overboard-bar-grille/",
     "https://order.online/store/27834174"
    ],
-   "notes": "Docked with the Southern Belle; directories list both 151 and 201 Riverfront Pkwy. Map pin is approximate."
+   "notes": "Docked with the Southern Belle; directories list both 151 and 201 Riverfront Pkwy. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
   "website": "https://chattanoogariverboat.com/overboard-bar-grille/",
-  "phone": "(423) 266-4488"
+  "phone": "(423) 266-4488",
+  "setting": "both",
+  "price": "$$"
  },
  {
   "id": "scotties-on-the-river",
@@ -2718,10 +2962,12 @@
    "sources": [
     "https://agaveandrye.com/locations/agave-rye-chattanooga"
    ],
-   "notes": "Address from the business's own website or an official source. Map pin is approximate."
+   "notes": "Address from the business's own website or an official source. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "setting": "both",
+  "price": "$$"
  },
  {
   "id": "wooden-city",
@@ -2806,11 +3052,13 @@
     "https://postmates.com/store/buffalo-wild-wings-120-market-st/nBE62vRjR0qCyh_bqUbzkA",
     "https://directory.yext.com/en/buffalo-wild-wings-1629846787"
    ],
-   "notes": "National chain; confirm hours on the chain's store locator. Map pin is approximate."
+   "notes": "National chain; confirm hours on the chain's store locator. Map pin is approximate. Owner update (Nov 27, 2026): Candidate website (unverified): https://buffalowildwings.com; Setting estimated; Price estimated; Contact research incomplete."
   },
   "coordsApproximate": true,
   "active": true,
-  "phone": "(423) 634-0468"
+  "phone": "(423) 634-0468",
+  "setting": "both",
+  "price": "$$"
  },
  {
   "id": "metropolis-cafe-chattanooga",
@@ -2832,10 +3080,12 @@
    "sources": [
     "https://chattanooga.themetropoliscafe.com/"
    ],
-   "notes": "Address from the business's own website or an official source. Map pin is approximate."
+   "notes": "Address from the business's own website or an official source. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated; Contact research incomplete."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "setting": "indoor",
+  "price": "$"
  },
  {
   "id": "riverport-grille",
@@ -2917,12 +3167,14 @@
     "https://maps.roadtrippers.com/us/chattanooga-tn/food-drink/maple-street-biscuit-company-city-center",
     "https://www.timesfreepress.com/news/2014/oct/09/maple-street-biscuits-hearty-addition-downtown/"
    ],
-   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
   "website": "https://www.maplestreetbiscuits.com",
-  "phone": "(423) 362-5380"
+  "phone": "(423) 362-5380",
+  "setting": "both",
+  "price": "$"
  },
  {
   "id": "rodizio-grill-chattanooga",
@@ -2974,12 +3226,14 @@
     "https://www.mapquest.com/us/tennessee/mayan-kitchen-378913088",
     "https://tableagent.com/chattanooga/mayan-kitchen/"
    ],
-   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
   "website": "https://themayankitchen.com/",
-  "phone": "(423) 682-7835"
+  "phone": "(423) 682-7835",
+  "setting": "both",
+  "price": "$$"
  },
  {
   "id": "little-venezuela",
@@ -3002,11 +3256,13 @@
     "https://www.yelp.com/biz/little-venezuela-restaurant-chattanooga",
     "https://maps.apple.com/place?place-id=I8F7155A155457F34"
    ],
-   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
-  "phone": "(423) 800-0550"
+  "phone": "(423) 800-0550",
+  "setting": "indoor",
+  "price": "$"
  },
  {
   "id": "whitebird",
@@ -3177,11 +3433,13 @@
    "sources": [
     "https://giantscreencinema.com/?p=8321"
    ],
-   "notes": "Single source for the address (moved to the West Village in 2020). Confirm with the business. Map pin is approximate."
+   "notes": "Single source for the address (moved to the West Village in 2020). Confirm with the business. Map pin is approximate. Owner update (Nov 27, 2026): Candidate website (unverified): https://easybistro.com; Setting estimated; Price estimated; Contact research incomplete."
   },
   "coordsApproximate": true,
   "active": true,
-  "phone": "(423) 266-1121"
+  "phone": "(423) 266-1121",
+  "setting": "both",
+  "price": "$$$"
  },
  {
   "id": "old-gilman-grill",
@@ -3203,12 +3461,14 @@
     "https://www.chattanoogan.com/2018/7/20/373175/Old-Gilman-Grill-To-Open-In-West-Village.aspx",
     "https://opentable.co.uk/r/old-gilman-grill-chattanooga"
    ],
-   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
   "website": "https://www.oldgilmangrill.com/",
-  "phone": "(423) 269-7449"
+  "phone": "(423) 269-7449",
+  "setting": "both",
+  "price": "$$"
  },
  {
   "id": "attack-of-the-tatsu",
@@ -3232,11 +3492,13 @@
     "https://www.kupi.com/en-ae/explore/united-states/chattanooga/attack-of-the-tatsu",
     "https://noogatoday.6amcity.com/newsletter/0000018a-f2eb-d4c7-a9bb-ffff9290002f"
    ],
-   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
-  "phone": "(423) 531-4208"
+  "phone": "(423) 531-4208",
+  "setting": "indoor",
+  "price": "$$"
  },
  {
   "id": "public-house-chattanooga",
@@ -3290,11 +3552,13 @@
     "https://www.opentable.com/r/amada-tapas-chattanooga?lang=nl",
     "https://newschannel9.com/the-daily-refresh/date-night-at-amada-tapas"
    ],
-   "notes": "Listed as 'Amanda Tapas and Wine' in the owner's list; the business name is Amada. On the Southside edge of downtown. Map pin is approximate."
+   "notes": "Listed as 'Amanda Tapas and Wine' in the owner's list; the business name is Amada. On the Southside edge of downtown. Map pin is approximate. Owner update (Nov 27, 2026): Candidate website (unverified): https://amadatapas.com; Setting estimated; Price estimated; Contact research incomplete."
   },
   "coordsApproximate": true,
   "active": true,
-  "phone": "(423) 654-3816"
+  "phone": "(423) 654-3816",
+  "setting": "both",
+  "price": "$$"
  },
  {
   "id": "parkway-pourhouse",
@@ -3317,12 +3581,14 @@
     "https://www.airbnb.dk/things-to-do/places/3036512",
     "https://tinkerma.squarespace.com/food-beverage/parkway-pourhouse"
    ],
-   "notes": "Single directory source for the street number. Confirm with the business. Map pin is a rough estimate."
+   "notes": "Single directory source for the street number. Confirm with the business. Map pin is a rough estimate. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
   "website": "https://www.parkwaypourhouse.com/",
-  "phone": "(423) 498-5300"
+  "phone": "(423) 498-5300",
+  "setting": "both",
+  "price": "$$"
  },
  {
   "id": "yellow-deli-chattanooga",
@@ -3405,11 +3671,13 @@
     "https://www.chattanoogan.com/2021/10/7/436236/Life-Is-Good-Store-Opens-In-Chattanooga.aspx",
     "https://www.mapquest.com/us/tennessee/life-is-good-543266121"
    ],
-   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
-  "phone": "(423) 326-8297"
+  "phone": "(423) 326-8297",
+  "setting": "indoor",
+  "price": "$$"
  },
  {
   "id": "madewell-chattanooga",
@@ -3430,12 +3698,14 @@
    "sources": [
     "https://www.timesfreepress.com/news/2022/jun/03/madewell-brings-denim-brand-store-warehouse-row/"
    ],
-   "notes": "Inside Warehouse Row; suite not confirmed. Map pin is approximate."
+   "notes": "Inside Warehouse Row; suite not confirmed. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
   "website": "https://www.madewell.com/",
-  "phone": "(423) 509-0338"
+  "phone": "(423) 509-0338",
+  "setting": "indoor",
+  "price": "$$"
  },
  {
   "id": "rocket-fizz-chattanooga",
@@ -3457,7 +3727,7 @@
     "https://overlookmaps.com/places/rocket-fizz-chattanooga-4845822566950566",
     "https://chattanoogaradiotv.com/?p=3770"
    ],
-   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate. Owner update (Nov 27, 2026): Candidate website (unverified): https://rocketfizz.com; Price estimated; Contact research incomplete."
   },
   "coordsApproximate": true,
   "active": true,
@@ -3470,7 +3740,8 @@
    "setting": "indoor",
    "duration": ""
   },
-  "setting": "indoor"
+  "setting": "indoor",
+  "price": "$"
  },
  {
   "id": "monkees-of-chattanooga",
@@ -3491,12 +3762,14 @@
    "sources": [
     "https://www.thereadhousehotel.com/attractions/monkees-of-chattanooga/"
    ],
-   "notes": "Located in The Read House; address is the hotel's. Map pin is approximate."
+   "notes": "Located in The Read House; address is the hotel's. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
   "website": "https://monkeesofchattanooga.com/",
-  "phone": "(423) 486-1300"
+  "phone": "(423) 486-1300",
+  "setting": "indoor",
+  "price": "$$"
  },
  {
   "id": "antibes-boutique",
@@ -3519,11 +3792,13 @@
     "https://local.yahoo.com/info-220162473-antibes-chattanooga/",
     "https://www.westvillagechattanooga.com/directory"
    ],
-   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
-  "phone": "(423) 680-7971"
+  "phone": "(423) 680-7971",
+  "setting": "indoor",
+  "price": "$$"
  },
  {
   "id": "embellish-collection",
@@ -3544,11 +3819,13 @@
    "sources": [
     "https://www.timesfreepress.com/news/2024/apr/16/check-out-these-five-chattanooga-area-fashion-and-accessory-shops/"
    ],
-   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated; Contact research incomplete."
   },
   "coordsApproximate": true,
   "active": true,
-  "phone": "(423) 752-7463"
+  "phone": "(423) 752-7463",
+  "setting": "indoor",
+  "price": "$$"
  },
  {
   "id": "hemline-chattanooga",
@@ -3570,12 +3847,14 @@
     "https://www.chamberofcommerce.com/united-states/tennessee/chattanooga/clothing-store/2014401875-life-is-good-chattanooga",
     "https://noogatoday.6amcity.com/history-walking-tour-warehouse-row-chattanooga"
    ],
-   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
   "website": "https://shophemlinechattanooga.com/",
-  "phone": "(423) 803-6464"
+  "phone": "(423) 803-6464",
+  "setting": "indoor",
+  "price": "$$"
  },
  {
   "id": "national-medal-of-honor-heritage-center",
@@ -3597,10 +3876,12 @@
    "sources": [
     "https://www.mohhc.org/?p=23"
    ],
-   "notes": "Address from the business's own website or an official source. Map pin is approximate."
+   "notes": "Address from the business's own website or an official source. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated; Contact research incomplete."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "setting": "indoor",
+  "price": "$"
  },
  {
   "id": "escape-experience-chattanooga",
@@ -3622,11 +3903,13 @@
     "https://morty.app/location/escape-experience/escape-experience-chattanooga",
     "https://morty.app/location/escape-experience/escape-experience-chattanooga-choo-choo"
    ],
-   "notes": "Older listings show 224 Broad St (now Riverport Grille); current booking pages list 1800 Rossville Ave on the Southside plus a room at 16 Choo Choo Ave. Confirm with the business. Map pin is approximate."
+   "notes": "Older listings show 224 Broad St (now Riverport Grille); current booking pages list 1800 Rossville Ave on the Southside plus a room at 16 Choo Choo Ave. Confirm with the business. Map pin is approximate. Owner update (Nov 27, 2026): Candidate website (unverified): https://escapeexperience.com; Setting estimated; Price estimated; Contact research incomplete."
   },
   "coordsApproximate": true,
   "active": true,
-  "phone": "(423) 551-3306"
+  "phone": "(423) 551-3306",
+  "setting": "indoor",
+  "price": "$$"
  },
  {
   "id": "chattanooga-ghost-tours",
@@ -3648,11 +3931,13 @@
     "https://www.travelocity.com/things-to-do/murder-mayhem-haunted-history-walking-tour.a1349672.activity-details",
     "https://maps.roadtrippers.com/us/chattanooga-tn/activities/chattanooga-ghost-tours-chattanooga"
    ],
-   "notes": "Meeting point per booking listings; an older listing shows 138 Market St. Map pin is approximate."
+   "notes": "Meeting point per booking listings; an older listing shows 138 Market St. Map pin is approximate. Owner update (Nov 27, 2026): Candidate website (unverified): https://chattanoogaghosttours.com; Setting estimated; Price estimated; Contact research incomplete."
   },
   "coordsApproximate": true,
   "active": true,
-  "phone": "(423) 800-5998"
+  "phone": "(423) 800-5998",
+  "setting": "outdoor",
+  "price": "$$"
  },
  {
   "id": "time-to-escape-chattanooga",
@@ -3735,11 +4020,13 @@
     "https://www.mapquest.com/us/tennessee/burlaep-430451587",
     "https://www.visitchattanooga.com/blog/post/sip-happens-chattanoogas-must-visit-coffee-shops/"
    ],
-   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated; Contact research incomplete."
   },
   "coordsApproximate": true,
   "active": true,
-  "phone": "(423) 451-2109"
+  "phone": "(423) 451-2109",
+  "setting": "both",
+  "price": "$"
  },
  {
   "id": "culture-coffee-co",
@@ -3761,11 +4048,13 @@
     "https://www.toasttab.com/local/order/culture-coffee-co-610-georgia-ave",
     "https://mycoffeeexplorer.com/shops/culture-coffee-co-chattanooga"
    ],
-   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated; Contact research incomplete."
   },
   "coordsApproximate": true,
   "active": true,
-  "phone": "(423) 602-5282"
+  "phone": "(423) 602-5282",
+  "setting": "indoor",
+  "price": "$"
  },
  {
   "id": "rembrandts-coffee-house",
@@ -3816,13 +4105,14 @@
     "https://chattanooga-tn.yiftee.com/business/sleepyhead-coffee-499882",
     "https://noogatoday.6amcity.com/city-guide/work/coffee-shops-in-chattanooga"
    ],
-   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated."
   },
   "coordsApproximate": true,
   "active": true,
   "website": "https://www.sleepyhead.coffee/",
   "phone": "(423) 206-2530",
-  "price": "$"
+  "price": "$",
+  "setting": "indoor"
  },
  {
   "id": "trail-town-coffee",
@@ -3874,11 +4164,13 @@
     "https://noogatoday.6amcity.com/city-guide/work/coffee-shops-in-chattanooga",
     "https://mycoffeeexplorer.com/shops/cadence-coffee-co-chattanooga"
    ],
-   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate. Owner update (Nov 27, 2026): Candidate website (unverified): https://cadencecoffeecompany.com; Setting estimated; Price estimated; Contact research incomplete."
   },
   "coordsApproximate": true,
   "active": true,
-  "phone": "(423) 521-7686"
+  "phone": "(423) 521-7686",
+  "setting": "indoor",
+  "price": "$"
  },
  {
   "id": "provisions-edwin",
@@ -3900,12 +4192,14 @@
     "https://www.marriott.com/en-us/hotels/chaak-the-edwin-hotel-autograph-collection/dining",
     "https://www.mapquest.com/us/tennessee/provisions-388360175"
    ],
-   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
   "website": "https://www.theedwinhotel.com/provisions",
-  "phone": "(423) 713-5900"
+  "phone": "(423) 713-5900",
+  "setting": "indoor",
+  "price": "$"
  },
  {
   "id": "medal-of-honor-coffee-bar",
@@ -3926,10 +4220,12 @@
    "sources": [
     "https://www.mohhc.org/?p=33"
    ],
-   "notes": "Located in the Heritage Center's gift shop per the center's website; listed as 'Metal of Honor' in the owner's list. Hours follow the museum's. Map pin is approximate."
+   "notes": "Located in the Heritage Center's gift shop per the center's website; listed as 'Metal of Honor' in the owner's list. Hours follow the museum's. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated; Contact research incomplete."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "setting": "indoor",
+  "price": "$"
  },
  {
   "id": "bessie-smith-cultural-center",
@@ -3952,10 +4248,12 @@
     "https://www.bessiesmithcc.org/event-details/museum-admission",
     "https://www.timesfreepress.com/news/edge/story/2021/apr/01/brand-bessie-smith-cultural-center/543764/"
    ],
-   "notes": "Address from the business's own website or an official source. Map pin is approximate."
+   "notes": "Address from the business's own website or an official source. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated; Contact research incomplete."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "setting": "indoor",
+  "price": "$"
  },
  {
   "id": "utc-fine-arts-center",
@@ -3977,10 +4275,12 @@
    "sources": [
     "https://www.utc.edu/arts-and-sciences/fine-arts-center"
    ],
-   "notes": "Address from the business's own website or an official source. Map pin is approximate."
+   "notes": "Address from the business's own website or an official source. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated; Contact research incomplete."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "setting": "indoor",
+  "price": "$$"
  },
  {
   "id": "feed-table-and-tavern",
@@ -4005,10 +4305,12 @@
     "https://startpage.mapquest.com/us/tennessee/the-feed-co-table-tavern-364342396",
     "https://www.timesfreepress.com/news/2017/may/31/feed-co-satisfies-chef-driven-comfort-food/"
    ],
-   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "setting": "both",
+  "price": "$$"
  },
  {
   "id": "alleia",
@@ -4031,10 +4333,12 @@
     "https://opentable.com/r/alleia-restaurant-chattanooga",
     "https://www.timeout.com/chattanooga/restaurants/best-restaurants-in-chattanooga"
    ],
-   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate. Owner update (Nov 27, 2026): Candidate website (unverified): https://alleiarestaurant.com; Setting estimated; Price estimated; Contact research incomplete."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "setting": "both",
+  "price": "$$$"
  },
  {
   "id": "bluegrass-grill",
@@ -4056,13 +4360,15 @@
     "https://www.mapquest.com/us/tennessee/bluegrass-grill-44092085",
     "https://www.picktnproducts.org/picktn-producers/picktn-listing.10065.html"
    ],
-   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
   "website": "https://www.bluegrassgrillchattanooga.com/",
   "phone": "(423) 752-4020",
-  "featured": true
+  "featured": true,
+  "setting": "both",
+  "price": "$"
  },
  {
   "id": "taqueria-jalisco-ania",
@@ -4147,11 +4453,13 @@
     "https://startpage.mapquest.com/us/tennessee/number-ten-520549706",
     "https://www.timesfreepress.com/news/2023/jan/01/comforts-at-chattanoogas-new-number-ten/"
    ],
-   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
-  "website": "https://www.numbertenchatt.com/"
+  "website": "https://www.numbertenchatt.com/",
+  "setting": "indoor",
+  "price": "$$$"
  },
  {
   "id": "2nd-american",
@@ -4174,12 +4482,14 @@
     "https://resy.com/cities/chattanooga-tn/venues/2nd-american-restaurant",
     "https://citylifestyle.com/articles/2nd-american"
    ],
-   "notes": "Entrance is on W 16th St. Map pin is approximate."
+   "notes": "Entrance is on W 16th St. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
   "phone": "(423) 708-7210",
-  "featured": true
+  "featured": true,
+  "setting": "both",
+  "price": "$$"
  },
  {
   "id": "stir-chattanooga",
@@ -4234,10 +4544,12 @@
     "https://thehotelchalet.com/dining",
     "https://opentable.com/restaurant/profile/1371850"
    ],
-   "notes": "Inside The Hotel Chalet at the Choo Choo (corner of Rossville Ave and Station St). Map pin is approximate."
+   "notes": "Inside The Hotel Chalet at the Choo Choo (corner of Rossville Ave and Station St). Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated; Contact research incomplete."
   },
   "coordsApproximate": true,
-  "active": true
+  "active": true,
+  "setting": "both",
+  "price": "$$"
  },
  {
   "id": "bona-fide",
@@ -4259,12 +4571,14 @@
    "sources": [
     "https://noogatoday.6amcity.com/city-guide/play/new-and-coming-soon-restaurants-chattanooga-tn"
    ],
-   "notes": "Listed as coming soon (opening date TBA); no sign yet that it has opened. Saved as hidden — switch it on in Admin once it opens and the details are confirmed. Map pin is approximate."
+   "notes": "Listed as coming soon (opening date TBA); no sign yet that it has opened. Saved as hidden — switch it on in Admin once it opens and the details are confirmed. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
   "active": false,
   "website": "https://www.bonafidechattanooga.com/",
-  "phone": "(423) 269-7983"
+  "phone": "(423) 269-7983",
+  "setting": "both",
+  "price": "$$"
  },
  {
   "id": "the-flaming-rooster",
@@ -4317,12 +4631,14 @@
     "https://www.exploretock.com/camila/event/612495",
     "https://citylifestyle.com/articles/fresh-bites"
    ],
-   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": false,
   "active": true,
   "website": "https://www.camilabistro.com/",
-  "phone": "(423) 269-7617"
+  "phone": "(423) 269-7617",
+  "setting": "both",
+  "price": "$$"
  },
  {
   "id": "outpost-bar-and-restaurant",
@@ -4345,12 +4661,14 @@
     "https://startpage.mapquest.com/us/tennessee/outpost-bar-and-restaurant-646084642",
     "https://www.visitchattanooga.com/restaurants/new/"
    ],
-   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
   "website": "https://outpostcha.com/",
-  "phone": "(423) 708-8044"
+  "phone": "(423) 708-8044",
+  "setting": "both",
+  "price": "$$"
  },
  {
   "id": "kai-bistro",
@@ -4373,12 +4691,14 @@
     "https://www.toasttab.com/local/order/kai-bistro-625-east-main-street/r-c723a60e-e69a-4eae-8819-4f99e4e3f389/item-pho-zilla_4e7109a3-79c2-4d97-b795-4ab191113502",
     "https://noogatoday.6amcity.com/culture/chattanooga-restaurants-from-a-to-z"
    ],
-   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
   "website": "https://www.kaibistrochatt.com/",
-  "phone": "(423) 531-4098"
+  "phone": "(423) 531-4098",
+  "setting": "indoor",
+  "price": "$$"
  },
  {
   "id": "southside-social",
@@ -4432,12 +4752,14 @@
     "https://tablejourney.com/united-states/chattanooga/cuisine/korean/",
     "https://www.timesfreepress.com/news/2022/sep/20/chef-david-sherrill-turns-his-korean-heritage/"
    ],
-   "notes": "On South Broad Street, south of the historic Southside core. Map pin is approximate; confirm with the business."
+   "notes": "On South Broad Street, south of the historic Southside core. Map pin is approximate; confirm with the business. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
   "website": "https://hanmichatt.com/",
-  "phone": "(423) 541-7273"
+  "phone": "(423) 541-7273",
+  "setting": "indoor",
+  "price": "$$"
  },
  {
   "id": "crust-pizza-broad-st",
@@ -4460,11 +4782,13 @@
     "https://slicelife.com/restaurants/tn/chattanooga/37408/crust-pizza-3211-broad-st-chattanooga/menu",
     "https://noogatoday.6amcity.com/city-guide/live/pizza-chattanooga-tn"
    ],
-   "notes": "Crust has more than one location; this is the Broad Street one. On South Broad Street, south of the historic Southside core. Map pin is approximate; confirm with the business."
+   "notes": "Crust has more than one location; this is the Broad Street one. On South Broad Street, south of the historic Southside core. Map pin is approximate; confirm with the business. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
-  "website": "https://www.crustpizzatn.com/"
+  "website": "https://www.crustpizzatn.com/",
+  "setting": "indoor",
+  "price": "$"
  },
  {
   "id": "mountain-outfitters-chattanooga",
@@ -4486,12 +4810,14 @@
     "https://www.gunmade.com/stores/tennessee/chattanooga/highland-outfitters-26081/",
     "https://www.chattanoogan.com/2025/7/28/506241/Life-With-Ferris-Mountain-Outfitters.aspx"
    ],
-   "notes": "Opened May 2025; address from a store announcement quoted in a directory listing. On South Broad Street, south of the historic Southside core. Map pin is approximate; confirm with the business."
+   "notes": "Opened May 2025; address from a store announcement quoted in a directory listing. On South Broad Street, south of the historic Southside core. Map pin is approximate; confirm with the business. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
   "website": "https://www.themountainoutfitters.com/",
-  "phone": "(423)541-2353"
+  "phone": "(423)541-2353",
+  "setting": "indoor",
+  "price": "$$"
  },
  {
   "id": "poor-taste",
@@ -4513,12 +4839,14 @@
     "https://noogatoday.6amcity.com/consignment-thrift-vintage-guide-chattanooga-tn",
     "https://visitchattanooga.com/blog/post/retro-gems-of-chattanooga"
    ],
-   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
   "website": "https://poortaste.co/",
-  "phone": "(423) 414-4220"
+  "phone": "(423) 414-4220",
+  "setting": "indoor",
+  "price": "$$"
  },
  {
   "id": "main-street-farmers-market",
@@ -4540,7 +4868,7 @@
     "https://www.picktnproducts.org/picktn-producers/picktn-listing.3462.html",
     "https://www.wutc.org/community-calendar/event/main-street-farmers-market-11-07-2022-10-13-40"
    ],
-   "notes": "Wednesdays 4–6 pm per listings. The market has moved over the years (older listings show W Main St at Finley Stadium or Williams St); confirm the current spot and hours. Map pin is approximate."
+   "notes": "Wednesdays 4–6 pm per listings. The market has moved over the years (older listings show W Main St at Finley Stadium or Williams St); confirm the current spot and hours. Map pin is approximate. Owner update (Nov 27, 2026): Price estimated; Contact research incomplete."
   },
   "coordsApproximate": true,
   "active": true,
@@ -4553,7 +4881,9 @@
    "rainy": false,
    "setting": "outdoor",
    "duration": ""
-  }
+  },
+  "setting": "outdoor",
+  "price": "$"
  },
  {
   "id": "oddstory-brewing-central",
@@ -4577,11 +4907,13 @@
     "https://noogatoday.6amcity.com/first-look-oddstory-brewing-co-new-location",
     "https://www.southeasttennessee.com/wp-content/uploads/2023/03/Brewery-Trail.pdf"
    ],
-   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
-  "website": "https://www.oddstorybrewing.co/"
+  "website": "https://www.oddstorybrewing.co/",
+  "setting": "both",
+  "price": "$$"
  },
  {
   "id": "five-wits-brewing",
@@ -4604,12 +4936,14 @@
     "https://untappd.com/v/five-wits-brewing-company/8994336",
     "https://noogatoday.6amcity.com/five-wits-brewery-southside-chattanooga"
    ],
-   "notes": "Listed as 'Five Witts' in the owner's list; the business name is Five Wits. Map pin is approximate."
+   "notes": "Listed as 'Five Witts' in the owner's list; the business name is Five Wits. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
   "website": "https://fivewitsbrewing.com/",
-  "phone": "(423) 541-5300"
+  "phone": "(423) 541-5300",
+  "setting": "both",
+  "price": "$$"
  },
  {
   "id": "tailgate-brewery-chattanooga",
@@ -4665,11 +4999,13 @@
     "https://creaturecomforts.co/chattanooga/",
     "https://thebrewermagazine.com/creature-comforts-beer-garden-to-open-to-public-in-chattanoogas-foundries-district/"
    ],
-   "notes": "Opened April 2026; open most Lookouts game days, some non-game weekends and events — check the calendar before going. No street address published; pin is at Erlanger Park and approximate."
+   "notes": "Opened April 2026; open most Lookouts game days, some non-game weekends and events — check the calendar before going. No street address published; pin is at Erlanger Park and approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
-  "phone": "(706) 410-1043"
+  "phone": "(706) 410-1043",
+  "setting": "both",
+  "price": "$$"
  },
  {
   "id": "mean-mug-southside",
@@ -4691,13 +5027,15 @@
     "https://startpage.mapquest.com/us/tennessee/mean-mug-coffeehouse-279747250",
     "https://meanmugcoffee.squarespace.com"
    ],
-   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
   "website": "https://meanmugcoffee.com/southside",
   "phone": "(423)203- 2726",
-  "featured": true
+  "featured": true,
+  "setting": "both",
+  "price": "$"
  },
  {
   "id": "honey-seed",
@@ -4721,11 +5059,13 @@
     "https://opentable.com.au/r/honey-seed-chattanooga",
     "https://ww1.aaa.com/tripcanvas/restaurant/honey-seed-AA43019"
    ],
-   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate."
+   "notes": "Address from directory listings; confirm website, hours and description with the business. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
-  "website": "https://www.honeyseedchatt.com/"
+  "website": "https://www.honeyseedchatt.com/",
+  "setting": "both",
+  "price": "$$"
  },
  {
   "id": "velo-coffee-roasters",
@@ -4777,12 +5117,14 @@
     "https://mycoffeeexplorer.com/roasters/chattanooga-coffee-co-chattz-coffee",
     "https://noogatoday.6amcity.com/city-guide/work/coffee-shops-in-chattanooga"
    ],
-   "notes": "On South Broad Street, south of the historic Southside core. Map pin is approximate; confirm with the business."
+   "notes": "On South Broad Street, south of the historic Southside core. Map pin is approximate; confirm with the business. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
   },
   "coordsApproximate": true,
   "active": true,
   "website": "https://www.chattanoogacoffeecompany.com/",
-  "phone": "(423) 310-8889"
+  "phone": "(423) 310-8889",
+  "setting": "indoor",
+  "price": "$"
  },
  {
   "id": "sunnyside-cup-broad-st",
@@ -4805,13 +5147,14 @@
     "https://www.mapquest.com/us/tennessee/sunnyside-cup-367226716",
     "https://sunnysidecupchatt.com/"
    ],
-   "notes": "Phone, website and address from the owner's business directory (Nov 27, 2026). Map pin from the directory. Setting and price are estimates. Drive-thru only, so no indoor/outdoor setting is set. There's a second hut on Signal Mountain Rd."
+   "notes": "Phone, website and address from the owner's business directory (Nov 27, 2026). Map pin from the directory. Setting and price are estimates. Drive-thru only, so no indoor/outdoor setting is set. There's a second hut on Signal Mountain Rd. Owner update (Nov 27, 2026): Setting estimated."
   },
   "coordsApproximate": false,
   "active": true,
   "phone": "(423) 331-0372",
   "website": "https://sunnysidecupchatt.com/",
-  "price": "$"
+  "price": "$",
+  "setting": "drive-thru"
  },
  {
   "id": "xozio-coffee-and-provisions",
@@ -4834,7 +5177,7 @@
     "https://noogatoday.6amcity.com/new-businesses-to-chattanooga-tn",
     "https://xoziocoffeeandprovisions.com/"
    ],
-   "notes": "Phone, website and address from the owner's business directory (Nov 27, 2026). Map pin is approximate. Setting and price are estimates."
+   "notes": "Phone, website and address from the owner's business directory (Nov 27, 2026). Map pin is approximate. Setting and price are estimates. Owner update (Nov 27, 2026): Contact research incomplete."
   },
   "coordsApproximate": true,
   "active": true,
@@ -4863,7 +5206,7 @@
     "https://citylifestyle.com/articles/local-drinks-understory-tea-house",
     "https://understorytea.com/"
    ],
-   "notes": "Phone, website and address from the owner's business directory (Nov 27, 2026). Map pin is approximate. Setting and price are estimates."
+   "notes": "Phone, website and address from the owner's business directory (Nov 27, 2026). Map pin is approximate. Setting and price are estimates. Owner update (Nov 27, 2026): Contact research incomplete."
   },
   "coordsApproximate": true,
   "active": true,
@@ -4897,8 +5240,10 @@
     "https://erlangerpark.com/",
     "https://en.wikipedia.org/wiki/Erlanger_Park"
    ],
-   "notes": "Address and phone from MLB.com's ballpark guide. Ticket sites also list 201 Power Alley; main gates are on the Chestnut Street side, with $8 parking in the Chestnut St and 28th St lots. Map pin is approximate."
-  }
+   "notes": "Address and phone from MLB.com's ballpark guide. Ticket sites also list 201 Power Alley; main gates are on the Chestnut Street side, with $8 parking in the Chestnut St and 28th St lots. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
+  },
+  "setting": "outdoor",
+  "price": "$$"
  },
  {
   "id": "chattanooga-red-wolves",
@@ -4951,8 +5296,11 @@
     "https://www.rubyfalls.com/things-to-do/high-point-zip-adventure/",
     "https://www.lookoutmountain.com/ruby-falls/"
    ],
-   "notes": "At Ruby Falls; check the Ruby Falls site for this season's dates. Allow about 45–60 minutes. Map pin is approximate."
-  }
+   "notes": "At Ruby Falls; check the Ruby Falls site for this season's dates. Allow about 45–60 minutes. Map pin is approximate. Owner update (Nov 27, 2026): Setting supported by listing; Price based on published admission."
+  },
+  "phone": "(423) 821-2544",
+  "setting": "outdoor",
+  "price": "$$"
  },
  {
   "id": "mckenzie-arena",
@@ -4979,7 +5327,9 @@
     "https://www.utc.edu/mckenzie-arena/faq.php",
     "https://gomocs.com/facilities/mckenzie-arena/11"
    ],
-   "notes": "Address from UTC's official arena pages; phone is the UTC ticket office. Map pin is approximate."
-  }
+   "notes": "Address from UTC's official arena pages; phone is the UTC ticket office. Map pin is approximate. Owner update (Nov 27, 2026): Setting estimated; Price estimated."
+  },
+  "setting": "indoor",
+  "price": "$$"
  }
 ]

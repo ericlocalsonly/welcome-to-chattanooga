@@ -25,7 +25,7 @@ export interface ImageRef {
   credit?: string;
 }
 
-export type Setting = "indoor" | "outdoor" | "both";
+export type Setting = "indoor" | "outdoor" | "both" | "drive-thru";
 export type Price = "$" | "$$" | "$$$";
 
 export interface FamilyInfo {

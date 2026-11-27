@@ -47,7 +47,7 @@ export async function savePlace(fd: FormData) {
     website,
     phone: str(fd, "phone"),
     hours: str(fd, "hours"),
-    setting: oneOf(str(fd, "setting"), ["indoor", "outdoor", "both"]),
+    setting: oneOf(str(fd, "setting"), ["indoor", "outdoor", "both", "drive-thru"]),
     price: oneOf(str(fd, "price"), ["$", "$$", "$$$"]),
     image: str(fd, "image_src") ? { src: str(fd, "image_src"), alt: str(fd, "image_alt") ?? "", credit: str(fd, "image_credit") ?? undefined } : null,
     featured: bool(fd, "featured"),

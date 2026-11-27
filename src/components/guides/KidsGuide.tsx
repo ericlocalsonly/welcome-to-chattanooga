@@ -13,8 +13,8 @@ const FILTERS = [
   { key: "9-12", label: "Ages 9–12", test: (p: Place) => p.family!.ages.includes("9-12") || p.family!.ages.includes("all") },
   { key: "teens", label: "Teenagers", test: (p: Place) => p.family!.ages.includes("teens") || p.family!.ages.includes("all") },
   { key: "all", label: "All Ages", test: (p: Place) => p.family!.ages.includes("all") },
-  { key: "indoor", label: "Indoor", test: (p: Place) => (p.setting ?? p.family!.setting) !== "outdoor" },
-  { key: "outdoor", label: "Outdoor", test: (p: Place) => (p.setting ?? p.family!.setting) !== "indoor" },
+  { key: "indoor", label: "Indoor", test: (p: Place) => ["indoor", "both"].includes(p.setting ?? p.family!.setting) },
+  { key: "outdoor", label: "Outdoor", test: (p: Place) => ["outdoor", "both"].includes(p.setting ?? p.family!.setting) },
   { key: "free", label: "Free", test: (p: Place) => p.family!.cost === "free" },
   { key: "rainy", label: "Rainy Day", test: (p: Place) => p.family!.rainy },
 ] as const;
