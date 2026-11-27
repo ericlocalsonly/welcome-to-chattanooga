@@ -280,3 +280,7 @@ create index if not exists places_image_asset_id_idx    on public.places (image_
 create index if not exists places_updated_by_idx        on public.places (updated_by);
 create index if not exists submissions_reviewed_by_idx  on public.submissions (reviewed_by);
 create index if not exists trails_updated_by_idx        on public.trails (updated_by);
+
+-- Setting (indoor / outdoor / both) and rough price per person, for any listing.
+alter table public.places add column if not exists setting text check (setting in ('indoor','outdoor','both'));
+alter table public.places add column if not exists price text check (price in ('$','$$','$$$'));

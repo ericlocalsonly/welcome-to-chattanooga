@@ -25,9 +25,12 @@ export interface ImageRef {
   credit?: string;
 }
 
+export type Setting = "indoor" | "outdoor" | "both";
+export type Price = "$" | "$$" | "$$$";
+
 export interface FamilyInfo {
   ages: AgeGroup[];
-  setting: "indoor" | "outdoor";
+  setting: Setting;
   cost: Cost;
   duration: string;
   rainy: boolean;
@@ -46,6 +49,10 @@ export interface Place {
   website?: string;
   phone?: string;
   hours?: string;
+  /** Indoor, outdoor, or both (inside and outside seating/activities). */
+  setting?: Setting;
+  /** Rough price per person: $ under $20, $$ $20–$40, $$$ $50–$100. */
+  price?: Price;
   image?: ImageRef;
   featured?: boolean;
   sponsor?: boolean;

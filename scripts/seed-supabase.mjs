@@ -22,6 +22,7 @@ const categories = [
 const places = load("places.json").map((p) => ({
   id: p.id, name: p.name, categories: p.categories, neighborhoods: p.neighborhoods, description: p.description, address: p.address,
   lat: p.lat, lng: p.lng, coords_approximate: !!p.coordsApproximate, website: p.website ?? null, phone: p.phone ?? null, hours: p.hours ?? null,
+  setting: p.setting ?? p.family?.setting ?? null, price: p.price ?? null,
   image: p.image ?? null, featured: !!p.featured, sponsor: !!p.sponsor, family: p.family ?? null,
   verification_status: p.verification.status, last_verified: p.verification.lastVerified || null, sources: p.verification.sources ?? [],
   verification_notes: p.verification.notes ?? null, active: p.active !== false,

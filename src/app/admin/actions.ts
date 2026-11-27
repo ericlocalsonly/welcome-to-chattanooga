@@ -22,6 +22,10 @@ export async function signOut() {
   redirect("/admin/login");
 }
 
+function oneOf(v: string | null | undefined, allowed: string[]) {
+  return v && allowed.includes(v) ? v : null;
+}
+
 export async function savePlace(fd: FormData) {
   const { sb } = await requireAdmin();
   const isNew = fd.get("_new") === "1";
@@ -43,10 +47,12 @@ export async function savePlace(fd: FormData) {
     website,
     phone: str(fd, "phone"),
     hours: str(fd, "hours"),
+    setting: oneOf(str(fd, "setting"), ["indoor", "outdoor", "both"]),
+    price: oneOf(str(fd, "price"), ["$", "$$", "$$$"]),
     image: str(fd, "image_src") ? { src: str(fd, "image_src"), alt: str(fd, "image_alt") ?? "", credit: str(fd, "image_credit") ?? undefined } : null,
     featured: bool(fd, "featured"),
     family: ages.length
-      ? { ages, setting: str(fd, "family_setting") ?? "outdoor", cost: str(fd, "family_cost") ?? "free", duration: str(fd, "family_duration") ?? "", rainy: bool(fd, "family_rainy") }
+      ? { ages, setting: oneOf(str(fd, "setting"), ["indoor", "outdoor", "both"]) ?? "outdoor", cost: str(fd, "family_cost") ?? "free", duration: str(fd, "family_duration") ?? "", rainy: bool(fd, "family_rainy") }
       : null,
     verification_status: str(fd, "verification_status") ?? "needs_review",
     last_verified: str(fd, "last_verified"),

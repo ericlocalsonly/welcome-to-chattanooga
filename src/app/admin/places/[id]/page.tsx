@@ -32,6 +32,8 @@ export default async function EditPlace({ params }: { params: Promise<{ id: stri
           <label className="sm:col-span-2"><span className="label">Street address</span><input name="address" required defaultValue={p?.address} className="input" /></label>
           <label><span className="label">Official website (https://)</span><input name="website" type="url" defaultValue={p?.website} className="input" /></label>
           <label><span className="label">Phone</span><input name="phone" defaultValue={p?.phone} className="input" /></label>
+          <label><span className="label">Setting</span><select name="setting" defaultValue={p?.setting ?? ""} className="input"><option value="">Not specified</option><option value="indoor">Indoor</option><option value="outdoor">Outdoor</option><option value="both">Both (indoor &amp; outdoor)</option></select></label>
+          <label><span className="label">Price (per person)</span><select name="price" defaultValue={p?.price ?? ""} className="input"><option value="">Not specified</option><option value="$">$ — under $20</option><option value="$$">$$ — $20–$40</option><option value="$$$">$$$ — $50–$100</option></select></label>
           <label className="sm:col-span-2"><span className="label">Hours (only if verified)</span><input name="hours" defaultValue={p?.hours} className="input" /></label>
           <fieldset className="sm:col-span-2"><legend className="label">Categories</legend>
             <div className="flex flex-wrap gap-3">{CATEGORY_KEYS.map((k) => <label key={k} className="flex items-center gap-2 text-sm"><input type="checkbox" name="categories" value={k} defaultChecked={p?.categories.includes(k)} className="h-5 w-5 accent-forest" />{CATEGORIES[k].label}</label>)}</div>
@@ -52,7 +54,7 @@ export default async function EditPlace({ params }: { params: Promise<{ id: stri
           <fieldset className="sm:col-span-2"><legend className="label">Ages</legend>
             <div className="flex flex-wrap gap-3">{(Object.keys(AGE_LABELS) as AgeGroup[]).map((a) => <label key={a} className="flex items-center gap-2 text-sm"><input type="checkbox" name="family_ages" value={a} defaultChecked={p?.family?.ages.includes(a)} className="h-5 w-5 accent-forest" />{AGE_LABELS[a]}</label>)}</div>
           </fieldset>
-          <label><span className="label">Setting</span><select name="family_setting" defaultValue={p?.family?.setting ?? "outdoor"} className="input"><option value="indoor">Indoor</option><option value="outdoor">Outdoor</option></select></label>
+          <p className="text-sm text-charcoal-600 sm:col-span-2">Indoor/outdoor for the kids filters comes from the Setting field at the top.</p>
           <label><span className="label">Cost</span><select name="family_cost" defaultValue={p?.family?.cost ?? "free"} className="input"><option value="free">Free</option><option value="$">$</option><option value="$$">$$</option><option value="$$$">$$$</option></select></label>
           <label><span className="label">Typical visit</span><input name="family_duration" defaultValue={p?.family?.duration} className="input" /></label>
           <label className="flex items-end gap-2 pb-3 text-sm"><input type="checkbox" name="family_rainy" defaultChecked={p?.family?.rainy} className="h-5 w-5 accent-forest" />Good on rainy days</label>

@@ -1,4 +1,4 @@
-import type { CategoryKey, EventCategory, TrailCategory, AgeGroup, Cost } from "./types";
+import type { CategoryKey, EventCategory, TrailCategory, AgeGroup, Cost, Setting, Price } from "./types";
 
 /** Map pin categories. Colors chosen for contrast against OSM tiles and white text (WCAG AA for icon glyphs). */
 export const CATEGORIES: Record<CategoryKey, { label: string; color: string; glyph: string }> = {
@@ -41,6 +41,18 @@ export const AGE_LABELS: Record<AgeGroup, string> = {
   "9-12": "Ages 9–12",
   teens: "Teenagers",
   all: "All Ages",
+};
+
+export const SETTING_LABELS: Record<Setting, string> = {
+  indoor: "Indoor",
+  outdoor: "Outdoor",
+  both: "Indoor & outdoor",
+};
+
+export const PRICE_LABELS: Record<Price, string> = {
+  $: "$ · under $20 per person",
+  $$: "$$ · about $20–$40 per person",
+  $$$: "$$$ · about $50–$100 per person",
 };
 
 export const COST_LABELS: Record<Cost, string> = {

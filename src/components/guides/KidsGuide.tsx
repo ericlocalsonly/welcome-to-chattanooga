@@ -3,7 +3,7 @@ import { useMemo, useState } from "react";
 import Link from "next/link";
 import { ExternalLink, Navigation, Clock, MapPin } from "lucide-react";
 import type { Place } from "@/lib/types";
-import { AGE_LABELS, COST_LABELS } from "@/lib/categories";
+import { AGE_LABELS, COST_LABELS, SETTING_LABELS } from "@/lib/categories";
 import { googleDirections } from "@/lib/utils";
 import { FavoriteButton } from "../ui/FavoriteButton";
 
@@ -13,8 +13,8 @@ const FILTERS = [
   { key: "9-12", label: "Ages 9–12", test: (p: Place) => p.family!.ages.includes("9-12") || p.family!.ages.includes("all") },
   { key: "teens", label: "Teenagers", test: (p: Place) => p.family!.ages.includes("teens") || p.family!.ages.includes("all") },
   { key: "all", label: "All Ages", test: (p: Place) => p.family!.ages.includes("all") },
-  { key: "indoor", label: "Indoor", test: (p: Place) => p.family!.setting === "indoor" },
-  { key: "outdoor", label: "Outdoor", test: (p: Place) => p.family!.setting === "outdoor" },
+  { key: "indoor", label: "Indoor", test: (p: Place) => (p.setting ?? p.family!.setting) !== "outdoor" },
+  { key: "outdoor", label: "Outdoor", test: (p: Place) => (p.setting ?? p.family!.setting) !== "indoor" },
   { key: "free", label: "Free", test: (p: Place) => p.family!.cost === "free" },
   { key: "rainy", label: "Rainy Day", test: (p: Place) => p.family!.rainy },
 ] as const;
@@ -57,7 +57,7 @@ export function KidsGuide({ places, initial }: { places: Place[]; initial?: stri
                     <dt className="font-semibold">Ages</dt><dd>{f.ages.map((a) => AGE_LABELS[a]).join(", ")}</dd>
                     <dt className="font-semibold">Visit</dt><dd className="flex items-center gap-1"><Clock aria-hidden className="h-3 w-3" />{f.duration}</dd>
                     <dt className="font-semibold">Cost</dt><dd>{COST_LABELS[f.cost]}</dd>
-                    <dt className="font-semibold">Setting</dt><dd className="capitalize">{f.setting}{f.rainy ? " · rainy-day pick" : ""}</dd>
+                    <dt className="font-semibold">Setting</dt><dd>{SETTING_LABELS[p.setting ?? f.setting]}{f.rainy ? " · rainy-day pick" : ""}</dd>
                   </dl>
                   <p className="mt-3 flex items-start gap-1.5 text-xs text-charcoal-400"><MapPin aria-hidden className="mt-0.5 h-3 w-3" />{p.address}</p>
                   <div className="mt-auto flex flex-wrap gap-2 pt-4">

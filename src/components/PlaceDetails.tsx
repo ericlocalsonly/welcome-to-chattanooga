@@ -1,7 +1,7 @@
 import Link from "next/link";
-import { ExternalLink, Navigation, Phone, Clock, MapPin, Info } from "lucide-react";
+import { ExternalLink, Navigation, Phone, Clock, MapPin, Info, Armchair, Tag } from "lucide-react";
 import type { Place } from "@/lib/types";
-import { CATEGORIES } from "@/lib/categories";
+import { CATEGORIES, PRICE_LABELS, SETTING_LABELS } from "@/lib/categories";
 import { appleDirections, formatDate, googleDirections, hostOf, telHref } from "@/lib/utils";
 import { FavoriteButton } from "./ui/FavoriteButton";
 import { ShareButton } from "./ui/ShareButton";
@@ -36,6 +36,8 @@ export function PlaceDetails({ place, headingLevel = 3, onClose }: { place: Plac
         <dl className="mt-4 space-y-2 text-sm">
           <div className="flex gap-2"><dt className="sr-only">Address</dt><MapPin aria-hidden className="mt-0.5 h-4 w-4 shrink-0 text-river" /><dd>{place.address}</dd></div>
           {place.hours && <div className="flex gap-2"><dt className="sr-only">Hours</dt><Clock aria-hidden className="mt-0.5 h-4 w-4 shrink-0 text-river" /><dd>{place.hours}</dd></div>}
+          {place.setting && <div className="flex gap-2"><dt className="sr-only">Setting</dt><Armchair aria-hidden className="mt-0.5 h-4 w-4 shrink-0 text-river" /><dd>{SETTING_LABELS[place.setting]}</dd></div>}
+          {place.price && <div className="flex gap-2"><dt className="sr-only">Price</dt><Tag aria-hidden className="mt-0.5 h-4 w-4 shrink-0 text-river" /><dd>{PRICE_LABELS[place.price]} <span className="text-charcoal-400">(estimate)</span></dd></div>}
           {place.phone && <div className="flex gap-2"><dt className="sr-only">Phone</dt><Phone aria-hidden className="mt-0.5 h-4 w-4 shrink-0 text-river" /><dd><a className="underline" href={telHref(place.phone)}>{place.phone}</a></dd></div>}
         </dl>
         <div className="mt-5 flex flex-wrap gap-2">

@@ -29,6 +29,8 @@ export function rowToPlace(r: Row): Place {
     website: r.website || undefined,
     phone: r.phone || undefined,
     hours: r.hours || undefined,
+    setting: r.setting || r.family?.setting || undefined,
+    price: r.price || undefined,
     image: r.image || undefined,
     featured: r.featured ?? false,
     sponsor: r.sponsor ?? false,
